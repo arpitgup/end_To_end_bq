@@ -1,0 +1,893 @@
+ssn,first_name,last_name,gender,street,address,job,profile,client_id,district_id,disp_id,traffice_source,dob,age
+676-09-6371,Steven,Brown,M,051 Walker Coves,Allenspark|CO|80510|40.2268|-105.5201|420,"Engineer, drilling",adults_2550_male_rural,12662,14,12354,Email,1977-06-01,45
+286-30-3967,James,Vaughn,M,71125 Andrea Trace Apt. 927,Denver|CO|80237|39.6431|-104.8987|990452,Medical physicist,adults_2550_male_urban,1478,4,1478,Email,1993-08-21,29
+691-34-3046,Jason,Tran,M,84767 Regina Flat,Denver|CO|80227|39.6667|-105.0854|990452,Petroleum engineer,adults_2550_male_urban,1339,22,1339,Email,1983-05-04,39
+095-32-7455,Kyle,Brooks,M,044 Mosley Curve Apt. 626,Colorado Springs|CO|80921|39.0487|-104.814|525713,Media buyer,adults_2550_male_urban,2184,24,2184,Email,1994-07-07,28
+036-92-0203,Shawn,Dalton,M,1939 Lucas Terrace,Littleton|CO|80126|39.5437|-104.9691|320420,Contractor,adults_2550_male_urban,2785,22,2785,Email,1986-07-29,36
+758-51-2929,Daniel,Schultz,M,28314 Ryan Hollow,Fountain|CO|80817|38.6996|-104.7005|27311,Government social research officer,adults_2550_male_urban,10912,15,10604,Email,1987-01-09,35
+474-87-3688,Thomas,Lewis,M,23498 Weiss Extension Apt. 656,Denver|CO|80237|39.6431|-104.8987|990452,Animator,adults_2550_male_urban,5727,54,5727,Email,1977-02-24,45
+222-12-6374,Paul,Wall,M,47421 Robert Village Suite 111,Greeley|CO|80634|40.4109|-104.7541|101464,Television floor manager,adults_2550_male_urban,12850,72,12542,Email,1979-08-26,43
+574-08-9855,Richard,Sims,M,388 Atkins Roads Suite 277,Aurora|CO|80018|39.7102|-104.7071|389246,Soil scientist,adults_2550_male_urban,819,74,819,Email,1982-07-08,40
+647-81-8481,Vincent,Watson,M,220 Samuel Mills,Broomfield|CO|80023|39.9619|-105.0148|92337,Computer games developer,adults_2550_male_urban,13468,25,13160,Email,1984-10-31,37
+470-20-9055,Christopher,Moran,M,8672 Blevins Station Suite 621,Denver|CO|80231|39.6793|-104.8843|990452,Industrial buyer,adults_2550_male_urban,333,38,333,Email,1995-10-19,26
+851-94-8141,Matthew,Young,M,87972 Kelli Falls Apt. 201,Denver|CO|80249|39.7783|-104.7556|990452,"Editor, commissioning",adults_2550_male_urban,2343,1,2343,Email,1983-03-18,39
+654-48-6836,Stephen,Mcdonald,M,108 Zhang Circles,Englewood|CO|80110|39.6463|-105.0092|99594,"Engineer, manufacturing systems",adults_2550_male_urban,2361,9,2361,Email,1992-09-24,29
+275-09-5666,Daniel,Sawyer,M,657 Dylan Prairie Suite 146,Littleton|CO|80123|39.6206|-105.0901|320420,Travel agency manager,adults_2550_male_urban,453,67,453,Email,1993-07-16,29
+819-42-6544,Nathan,Acosta,M,545 Jose Motorway Suite 302,Denver|CO|80204|39.734|-105.0259|990452,Armed forces operational officer,adults_2550_male_urban,12599,44,12291,Email,1980-01-01,42
+727-63-1016,Donald,Lane,M,015 Billy Lodge,Brighton|CO|80603|39.9515|-104.7746|73471,Civil Service administrator,adults_2550_male_urban,2977,39,2977,Email,1987-02-06,35
+311-83-6865,Timothy,Kennedy,M,56607 Bethany Ramp Apt. 943,Denver|CO|80229|39.8671|-104.9227|990452,"Designer, textile",adults_2550_male_urban,13405,32,13097,Email,1982-08-13,40
+763-49-3997,Jordan,Livingston,M,74270 Keith Grove,Denver|CO|80223|39.7002|-105.0028|990452,Facilities manager,adults_2550_male_urban,1213,1,1213,Email,1990-04-28,32
+787-07-5749,Michael,Kramer,M,52332 Barbara Spurs Apt. 639,Durango|CO|81301|37.2874|-107.8617|36051,"Engineer, electrical",adults_2550_male_urban,3116,28,3116,Email,1975-09-09,47
+413-38-0671,Jason,Garrett,M,1968 Jones Pines,Durango|CO|81301|37.2874|-107.8617|36051,"Engineer, technical sales",adults_2550_male_urban,1629,28,1629,Email,1990-09-01,32
+457-75-4566,Kevin,Lynn,M,3435 Richards Crescent Apt. 883,Aurora|CO|80017|39.6948|-104.7881|389246,Private music teacher,adults_2550_male_urban,3687,49,3687,Email,1996-02-06,26
+127-07-4714,Aaron,Terry,M,3384 Robert Loaf,Arvada|CO|80004|39.8141|-105.1177|122111,Community development worker,adults_2550_male_urban,3913,8,3913,Email,1975-08-01,47
+859-55-7611,Karl,Wilson,M,453 Golden Dam,Denver|CO|80231|39.6793|-104.8843|990452,Insurance account manager,adults_2550_male_urban,474,46,474,Email,1973-05-31,49
+303-24-3010,Thomas,Bailey,M,29109 Cynthia Point,Durango|CO|81301|37.2874|-107.8617|36051,"Engineer, maintenance (IT)",adults_2550_male_urban,2141,28,2141,Email,1975-09-06,47
+188-90-9149,Steven,Jackson,M,62865 Dave Tunnel Apt. 537,Denver|CO|80226|39.7123|-105.0918|990452,Pension scheme manager,adults_2550_male_urban,2493,1,2493,Email,1986-10-09,35
+282-65-5371,Duane,Johnston,M,7662 Angela Underpass,Denver|CO|80206|39.7331|-104.9524|990452,"Buyer, retail",adults_2550_male_urban,1861,29,1861,Email,1981-07-15,41
+329-56-6954,Michael,Andrade,M,0993 Nicole Drives Apt. 792,Colorado Springs|CO|80926|38.6981|-104.8505|525713,"Development worker, international aid",adults_2550_male_urban,4295,18,4295,Email,1984-03-16,38
+724-80-3439,Benjamin,Johnson,M,663 Cummings Port,Denver|CO|80260|39.8672|-105.0041|990452,Production manager,adults_2550_male_urban,2445,54,2445,Email,1993-02-26,29
+402-71-0888,Gregory,Fischer,M,351 Livingston Station Suite 578,Fort Collins|CO|80526|40.5473|-105.1076|175625,Water quality scientist,adults_2550_male_urban,2657,73,2657,Email,1972-07-09,50
+262-17-8139,Joshua,Bailey,M,7208 Cheyenne Causeway,Lafayette|CO|80026|39.998|-105.0963|26378,"Engineer, chemical",adults_2550_male_urban,992,19,992,Email,1972-05-21,50
+505-82-5514,Charles,Benson,M,506 Jones Ford,Canon City|CO|81212|38.4451|-105.2178|29742,Sub,adults_2550_male_urban,1353,27,1353,Email,1983-02-13,39
+304-06-2369,Daniel,Wu,M,406 Kenneth Port,Golden|CO|80401|39.7305|-105.1915|57589,Forensic scientist,adults_2550_male_urban,9721,34,9413,Email,1978-12-05,43
+637-84-9289,Dennis,Sharp,M,39488 Hall Lake,Denver|CO|80227|39.6667|-105.0854|990452,Technical author,adults_2550_male_urban,590,44,590,Email,1973-02-15,49
+886-36-7331,Carlos,Glass,M,454 Joshua Branch,Colorado Springs|CO|80913|38.73|-104.7536|525713,Special educational needs teacher,adults_2550_male_urban,1146,54,1146,Email,1989-11-14,32
+811-85-1277,Troy,Acosta,M,769 John Road Apt. 142,Greeley|CO|80631|40.385|-104.6806|101464,Video editor,adults_2550_male_urban,1876,1,1876,Email,1975-07-01,47
+278-14-5255,Julian,Day,M,7605 Barrera Dam,Arvada|CO|80005|39.8422|-105.1097|122111,"Nurse, adult",adults_2550_male_urban,2395,8,2395,Email,1977-03-11,45
+778-94-0432,Douglas,Smith,M,161 Donna Walk Suite 993,Longmont|CO|80503|40.1559|-105.1624|117461,Water engineer,adults_2550_male_urban,2562,42,2562,Email,1976-11-01,45
+869-12-4134,Matthew,Hill,M,811 Green Ramp Apt. 639,Brighton|CO|80602|39.9636|-104.9072|73471,Geophysicist/field seismologist,adults_2550_male_urban,5159,39,5159,Email,1988-12-02,33
+873-80-4619,Richard,Wallace,M,5066 Davis Green Apt. 902,Denver|CO|80229|39.8671|-104.9227|990452,"Engineer, electrical",adults_2550_male_urban,2536,64,2536,Email,1985-10-22,36
+856-51-1169,Michael,Mills,M,733 Jake Greens Apt. 203,Denver|CO|80226|39.7123|-105.0918|990452,"Sound technician, broadcasting/film/video",adults_2550_male_urban,3769,54,3769,Email,1981-09-10,41
+350-72-4478,Richard,Saunders,M,029 Angie Square Apt. 530,Loveland|CO|80537|40.3849|-105.0916|82751,Environmental education officer,adults_2550_male_urban,2820,77,2820,Email,1990-12-17,31
+184-92-8968,Gary,Andrews,M,06896 Williams Shoal Apt. 539,Fountain|CO|80817|38.6996|-104.7005|27311,Special educational needs teacher,adults_2550_male_urban,6753,15,6753,Email,1986-05-23,36
+673-92-9790,Joseph,Alexander,M,936 Cole Prairie Suite 183,Denver|CO|80224|39.688|-104.9108|990452,Immigration officer,adults_2550_male_urban,3699,1,3699,Email,1992-08-08,30
+445-16-9989,Robert,Morrow,M,363 Chloe Station Suite 471,Colorado Springs|CO|80920|38.9497|-104.767|525713,Medical laboratory scientific officer,adults_2550_male_urban,4137,21,4137,Email,1973-08-30,49
+042-71-8693,John,Oliver,M,8157 Jeffrey Turnpike Suite 636,Broomfield|CO|80023|39.9619|-105.0148|92337,Ship broker,adults_2550_male_urban,1912,57,1912,Email,1996-02-26,26
+066-54-2402,Andrew,Osborne,M,103 Kayla Views Apt. 191,Canon City|CO|81212|38.4451|-105.2178|29742,Community pharmacist,adults_50up_male_urban,3181,27,3181,Email,1967-02-15,55
+695-13-3271,Paul,Larson,M,85368 Owens Common,Louisville|CO|80027|39.9789|-105.1456|31034,"Scientist, water quality",adults_50up_male_urban,2203,10,2203,Email,1963-10-01,58
+275-77-4751,Charles,Bates,M,9617 Sanchez Square Apt. 081,Aurora|CO|80011|39.7378|-104.8152|389246,Farm manager,adults_50up_male_urban,4929,74,4929,Email,1967-07-30,55
+433-83-9579,Brian,Hayes,M,47279 Steven Springs Suite 993,Littleton|CO|80126|39.5437|-104.9691|320420,"Accountant, chartered certified",adults_50up_male_urban,42,68,42,Email,1959-08-17,63
+193-38-8354,Mike,White,M,399 Laura Cape Apt. 424,Parker|CO|80134|39.4895|-104.8447|84861,Landscape architect,adults_50up_male_urban,6468,70,6468,Email,1968-02-23,54
+329-70-7665,Michael,Hughes,M,2512 Kathleen Expressway Apt. 723,Westminster|CO|80031|39.8753|-105.0345|49261,Event organiser,adults_50up_male_urban,130,53,130,Email,1966-02-14,56
+553-55-0670,Daniel,Vasquez,M,31429 Shaw Manors Apt. 475,Aurora|CO|80014|39.6662|-104.835|389246,Barista,adults_50up_male_urban,9,60,9,Email,1959-10-16,62
+758-55-5335,Dylan,Nelson,M,591 Heather Lights,Fort Collins|CO|80525|40.5384|-105.0547|175625,Hydrologist,adults_50up_male_urban,12050,52,11742,Email,1967-05-30,55
+417-62-9814,Guy,Watson,M,1254 Michael Fields,Aurora|CO|80019|39.7656|-104.7069|389246,Technical author,adults_50up_male_urban,2709,26,2709,Email,1970-06-14,52
+750-38-2228,Maxwell,Golden,M,673 Laura Cove Apt. 829,Denver|CO|80222|39.671|-104.9279|990452,Retired,adults_50up_male_urban,4380,1,4380,Email,1955-05-13,67
+816-27-7463,Juan,Patrick,M,25038 Chad Ville,Denver|CO|80241|39.9274|-104.9548|990452,Secretary/administrator,adults_50up_male_urban,1066,1,1066,Email,1964-10-18,57
+177-88-1847,Austin,Ward,M,6252 Bird Path,Lafayette|CO|80026|39.998|-105.0963|26378,Mental health nurse,adults_50up_male_urban,6764,19,6764,Email,1968-04-12,54
+788-78-9474,Brian,Williams,M,3207 Robinson Inlet Suite 323,Fort Collins|CO|80524|40.5986|-105.0581|175625,"Programmer, systems",adults_50up_male_urban,3291,52,3291,Email,1971-01-23,51
+592-91-9047,Rodney,Klein,M,19334 Hebert Cape,Aurora|CO|80010|39.7368|-104.8646|389246,Maintenance engineer,adults_50up_male_urban,7683,12,7683,Email,1970-04-01,52
+692-67-2095,Andrew,Collins,M,036 Carter Inlet,Brighton|CO|80601|39.943|-104.7866|73471,"Radiographer, diagnostic",adults_50up_male_urban,2815,35,2815,Email,1954-06-30,68
+014-86-7763,Jimmy,Santiago,M,0148 Wilson Roads Apt. 478,Colorado Springs|CO|80928|38.6233|-104.457|525713,Operational researcher,adults_50up_male_urban,548,49,548,Email,1961-12-04,60
+761-68-0184,Carl,Li,M,527 Miller Hollow Apt. 900,Colorado Springs|CO|80925|38.7378|-104.6459|525713,"Editor, commissioning",adults_50up_male_urban,3292,18,3292,Email,1964-01-21,58
+252-93-0975,David,Clarke,M,15015 Christina Square,Denver|CO|80214|39.7436|-105.0643|990452,Adult nurse,adults_50up_male_urban,483,1,483,Email,1968-06-19,54
+102-90-2593,Gregg,Boone,M,19635 Sharp Inlet,Denver|CO|80246|39.7086|-104.9312|990452,Applications developer,adults_50up_male_urban,1811,1,1811,Email,1963-03-29,59
+555-97-5531,Cesar,Wolf,M,237 Delacruz Haven,Denver|CO|80222|39.671|-104.9279|990452,"Engineer, building services",adults_50up_male_urban,1089,1,1089,Email,1963-12-09,58
+213-56-1164,Michael,Smith,M,2441 Jesse Gateway Suite 557,Colorado Springs|CO|80929|38.7968|-104.6079|525713,Production engineer,adults_50up_male_urban,489,41,489,Email,1964-10-07,57
+807-79-8725,David,Huff,M,55438 Anderson Springs Apt. 814,Colorado Springs|CO|80917|38.886|-104.7399|525713,Special effects artist,adults_50up_male_urban,4116,36,4116,Email,1960-11-24,61
+862-07-2351,Patrick,Williams,M,432 Hannah Harbor Suite 871,Littleton|CO|80125|39.4845|-105.0561|320420,Patent attorney,adults_50up_male_urban,1718,75,1718,Email,1962-07-27,60
+846-91-3705,Sean,Aguilar,M,83853 Roberson Point Apt. 648,Littleton|CO|80129|39.5397|-105.0109|320420,Sub,adults_50up_male_urban,3821,22,3821,Email,1963-05-16,59
+233-31-9021,Mark,Smith,M,85232 Lowe Plaza Apt. 460,Aurora|CO|80015|39.6255|-104.7874|389246,Special educational needs teacher,adults_50up_male_urban,8502,51,8502,Email,1967-04-19,55
+403-16-8930,Brandon,Page,M,048 Moore Hill,Denver|CO|80227|39.6667|-105.0854|990452,Theatre stage manager,adults_50up_male_urban,9933,74,9625,Email,1965-10-15,56
+648-30-4030,Jesse,Valdez,M,302 Lisa Stream,Aurora|CO|80012|39.6987|-104.8377|389246,Mudlogger,adults_50up_male_urban,19,47,19,Email,1966-12-28,55
+885-25-6538,Joshua,Jenkins,M,6432 Love Run Suite 350,Pueblo|CO|81006|38.2446|-104.5318|151815,Amenity horticulturist,adults_50up_male_urban,402,3,402,Email,1967-12-25,54
+736-61-7306,Antonio,Jones,M,538 Michael Square,Denver|CO|80223|39.7002|-105.0028|990452,"Librarian, public",adults_50up_male_urban,662,5,662,Email,1969-08-07,53
+161-71-2631,Michael,Davidson,M,8798 Micheal Dam,Denver|CO|80209|39.7074|-104.9686|990452,Clinical psychologist,adults_50up_male_urban,3253,70,3253,Email,1970-07-02,52
+461-26-7291,Jason,Davis,M,2182 Joshua Shoal Apt. 727,Denver|CO|80203|39.7313|-104.9811|990452,Museum education officer,adults_50up_male_urban,655,32,655,Email,1966-12-10,55
+412-28-8325,Joel,Love,M,014 Rose Common Suite 572,Parker|CO|80138|39.5102|-104.7216|84861,Licensed conveyancer,adults_50up_male_urban,4765,48,4765,Email,1959-03-06,63
+151-96-3344,Kevin,Murray,M,6476 Carrie Haven,Allenspark|CO|80510|40.2268|-105.5201|420,Student,young_adults_male_rural,1292,14,1292,Email,2001-04-28,21
+169-24-8247,Jerome,Mcdonald,M,7851 Lara Wells,Denver|CO|80236|39.6535|-105.0376|990452,Student,young_adults_male_urban,2065,64,2065,Email,2002-08-20,20
+187-05-9957,Donald,Perez,M,1026 Rachel Falls,Denver|CO|80234|39.9108|-105.0109|990452,Hospital pharmacist,young_adults_male_urban,4112,38,4112,Email,1998-11-28,23
+374-53-3787,Victor,Clark,M,83266 Monica Causeway,Englewood|CO|80111|39.6123|-104.8799|99594,Printmaker,young_adults_male_urban,2759,2,2759,Email,1998-01-26,24
+014-63-1373,Jonathan,Myers,M,7677 Sullivan Parkways Apt. 133,Canon City|CO|81212|38.4451|-105.2178|29742,Student,young_adults_male_urban,531,27,531,Email,2000-10-04,21
+431-15-7076,Tyler,Hickman,M,326 Donna Island Apt. 760,Denver|CO|80210|39.679|-104.9631|990452,Student,young_adults_male_urban,2121,64,2121,Email,2003-09-25,18
+340-69-1013,Stephen,Brown,M,80582 King Garden,Vail|CO|81657|39.6512|-106.3234|5581,Student,young_adults_male_urban,4639,20,4639,Email,2004-05-16,18
+294-12-2434,Joel,Mcpherson,M,335 Williamson Streets Suite 500,Arvada|CO|80005|39.8422|-105.1097|122111,Estate manager/land agent,young_adults_male_urban,10198,31,9890,Email,2000-05-24,22
+478-64-5827,Douglas,Goodman,M,112 Michael Expressway Suite 473,Greeley|CO|80631|40.385|-104.6806|101464,Counselling psychologist,young_adults_male_urban,2138,68,2138,Email,2004-12-19,17
+336-58-6002,David,Stewart,M,87782 Doyle Ports,Fort Collins|CO|80524|40.5986|-105.0581|175625,Student,young_adults_male_urban,13044,52,12736,Email,2000-03-01,22
+316-03-4269,Jordan,Taylor,F,094 Lisa Plains Apt. 161,Allenspark|CO|80510|40.2268|-105.5201|420,Glass blower/designer,adults_2550_female_rural,1253,14,1253,Email,1991-08-28,31
+540-87-8927,Pamela,Kaiser,F,015 Lowe Tunnel,Loveland|CO|80537|40.3849|-105.0916|82751,Legal secretary,adults_2550_female_urban,3616,77,3616,Email,1988-04-14,34
+814-06-2349,Megan,Ortega,F,224 Steven Summit Apt. 272,Denver|CO|80212|39.7683|-105.0493|990452,"Loss adjuster, chartered",adults_2550_female_urban,1583,1,1583,Email,1996-01-08,26
+047-16-1266,Pamela,Kemp,F,34234 Mccormick Bypass,Denver|CO|80231|39.6793|-104.8843|990452,Health and safety adviser,adults_2550_female_urban,3184,5,3184,Email,1983-12-01,38
+453-24-1714,Lauren,West,F,753 Lucas Dale Apt. 954,Denver|CO|80212|39.7683|-105.0493|990452,"Librarian, public",adults_2550_female_urban,4270,58,4270,Email,1996-02-05,26
+756-31-6468,Susan,Herring,F,5122 Graves Parkway Apt. 240,Colorado Springs|CO|80910|38.8152|-104.7703|525713,Operations geologist,adults_2550_female_urban,11491,36,11183,Email,1982-05-16,40
+554-31-6514,Cheryl,Garcia,F,840 Alyssa Heights Suite 155,Denver|CO|80231|39.6793|-104.8843|990452,Curator,adults_2550_female_urban,2128,38,2128,Email,1979-08-13,43
+869-06-1771,Holly,Shaw,F,5637 Andrea Islands,Colorado Springs|CO|80908|39.0237|-104.6933|525713,Music therapist,adults_2550_female_urban,76,36,76,Email,1991-10-01,30
+027-53-3486,Kelly,Fischer,F,50195 Murphy Fields Apt. 040,Aurora|CO|80016|39.6012|-104.7394|389246,Cabin crew,adults_2550_female_urban,2984,60,2984,Email,1987-05-24,35
+064-05-9715,Sandra,Howard,F,23834 Ashley Village Suite 919,Littleton|CO|80122|39.5814|-104.9557|320420,Bookseller,adults_2550_female_urban,1777,69,1777,Email,1987-01-08,35
+370-62-9901,Judith,Potter,F,802 Teresa Path Apt. 874,Greeley|CO|80631|40.385|-104.6806|101464,Recruitment consultant,adults_2550_female_urban,3517,68,3517,Email,1977-06-24,45
+527-94-8689,Vickie,Shaw,F,991 Estes Fork,Fort Collins|CO|80524|40.5986|-105.0581|175625,"Engineer, biomedical",adults_2550_female_urban,1522,52,1522,Email,1992-05-14,30
+253-79-1476,Amber,Bryant,F,00901 Jeffrey Mission,Broomfield|CO|80023|39.9619|-105.0148|92337,Network engineer,adults_2550_female_urban,4749,57,4749,Email,1972-01-19,50
+710-77-5538,Kristin,Smith,F,74734 Antonio Tunnel Suite 746,Arvada|CO|80004|39.8141|-105.1177|122111,"Engineer, energy",adults_2550_female_urban,4721,65,4721,Email,1980-03-21,42
+817-47-1512,Elizabeth,Robinson,F,13747 Matthews Isle Apt. 005,Aurora|CO|80015|39.6255|-104.7874|389246,Exercise physiologist,adults_2550_female_urban,5232,74,5232,Email,1972-04-06,50
+325-82-2815,Kim,Torres,F,125 Smith Mountains,Denver|CO|80234|39.9108|-105.0109|990452,Dispensing optician,adults_2550_female_urban,2168,46,2168,Email,1987-07-12,35
+593-67-2193,Sarah,Cooper,F,243 David Station Apt. 742,Denver|CO|80223|39.7002|-105.0028|990452,"Psychologist, forensic",adults_2550_female_urban,3992,71,3992,Email,1972-11-10,49
+702-86-8333,Elizabeth,Green,F,3012 Cassie Ports Apt. 086,Denver|CO|80221|39.838|-104.9988|990452,Television/film/video producer,adults_2550_female_urban,3984,1,3984,Email,1988-03-13,34
+484-31-6054,Tonya,Drake,F,2725 Joseph Inlet,Denver|CO|80222|39.671|-104.9279|990452,"Presenter, broadcasting",adults_2550_female_urban,4937,54,4937,Email,1984-11-09,37
+581-39-6995,Jasmin,Estrada,F,488 Scott Rest,Littleton|CO|80121|39.6111|-104.9532|320420,"Geologist, engineering",adults_2550_female_urban,722,62,722,Email,1994-11-25,27
+096-94-7010,Jennifer,Mathews,F,490 William Ramp Apt. 335,Aurora|CO|80012|39.6987|-104.8377|389246,Purchasing manager,adults_2550_female_urban,2401,26,2401,Email,1972-01-26,50
+747-05-8436,Barbara,Townsend,F,15974 Randall Ramp,Parker|CO|80138|39.5102|-104.7216|84861,"Research officer, trade union",adults_2550_female_urban,77,1,77,Email,1980-02-18,42
+731-77-3976,Kelly,Long,F,090 Jeremy Greens Apt. 681,Littleton|CO|80124|39.5506|-104.8972|320420,Charity officer,adults_2550_female_urban,2619,63,2619,Email,1993-07-09,29
+631-95-2421,Maria,Hall,F,596 Corey Lock Suite 462,Castle Rock|CO|80108|39.4455|-104.853|67419,Fashion designer,adults_2550_female_urban,816,17,816,Email,1982-02-01,40
+095-99-0428,Colleen,Mitchell,F,0299 Jill Inlet,Greeley|CO|80634|40.4109|-104.7541|101464,Adult nurse,adults_2550_female_urban,615,68,615,Email,1973-09-13,49
+766-29-3684,Teresa,Hubbard,F,1821 Page Mill,Colorado Springs|CO|80904|38.8533|-104.8595|525713,Wellsite geologist,adults_2550_female_urban,464,24,464,Email,1983-07-30,39
+514-03-5385,Alicia,Haley,F,302 Derrick Loaf,Lafayette|CO|80026|39.998|-105.0963|26378,Barista,adults_2550_female_urban,2259,19,2259,Email,1974-01-02,48
+091-35-7563,Chelsea,Villegas,F,3486 Wilcox Mall,Aurora|CO|80011|39.7378|-104.8152|389246,Garment/textile technologist,adults_2550_female_urban,2332,60,2332,Email,1973-12-22,48
+599-96-0140,Donna,Moore,F,815 Tara Fort Apt. 273,Fort Collins|CO|80525|40.5384|-105.0547|175625,"Scientist, clinical (histocompatibility and immunogenetics)",adults_2550_female_urban,1536,37,1536,Email,1991-10-13,30
+534-24-6142,Amy,Pugh,F,6648 Woods Club,Englewood|CO|80113|39.6405|-104.9614|99594,Banker,adults_2550_female_urban,1492,9,1492,Email,1992-05-09,30
+698-55-2368,Molly,Lawson,F,156 Ross Station Suite 907,Denver|CO|80219|39.6956|-105.0341|990452,Clinical research associate,adults_2550_female_urban,605,1,605,Email,1994-08-27,28
+344-02-2065,Vanessa,Knight,F,8173 White Motorway,Littleton|CO|80123|39.6206|-105.0901|320420,Fast food restaurant manager,adults_2550_female_urban,859,1,859,Email,1992-07-29,30
+347-18-9154,Melanie,Perry,F,23767 Robert Ridge Apt. 716,Colorado Springs|CO|80905|38.8377|-104.837|525713,Horticultural therapist,adults_2550_female_urban,1812,36,1812,Email,1971-05-17,51
+248-10-6868,Lisa,Wall,F,2124 Martinez Roads Suite 384,Greeley|CO|80631|40.385|-104.6806|101464,"Nurse, learning disability",adults_2550_female_urban,114,74,114,Email,1993-06-24,29
+660-67-4279,Lisa,Carter,F,93534 Shawn Spurs,Aurora|CO|80014|39.6662|-104.835|389246,Film/video editor,adults_2550_female_urban,10528,47,10220,Email,1976-02-16,46
+022-73-8541,Kristin,Olson,F,40494 Colin Oval Apt. 226,Denver|CO|80230|39.7218|-104.8951|990452,"Optician, dispensing",adults_2550_female_urban,5249,5,5249,Email,1995-01-05,27
+231-19-9037,Robin,Clark,F,167 Riggs Camp Suite 787,Aurora|CO|80018|39.7102|-104.7071|389246,Rural practice surveyor,adults_2550_female_urban,7286,47,7286,Email,1994-02-10,28
+814-93-9864,Kathleen,Phillips,F,991 Adams Hills Apt. 941,Aurora|CO|80016|39.6012|-104.7394|389246,"Engineer, civil (consulting)",adults_2550_female_urban,2226,74,2226,Email,1988-10-09,33
+372-78-2881,Frances,Li,F,3119 Williams Throughway,Longmont|CO|80503|40.1559|-105.1624|117461,Research scientist (life sciences),adults_2550_female_urban,928,66,928,Email,1975-10-10,46
+829-90-0843,Jennifer,Rodriguez,F,7545 Hale Estates,Aurora|CO|80019|39.7656|-104.7069|389246,Geophysicist/field seismologist,adults_2550_female_urban,1220,40,1220,Email,1977-12-16,44
+036-94-8554,Lynn,Williams,F,43832 Martinez Fork,Littleton|CO|80121|39.6111|-104.9532|320420,Magazine journalist,adults_2550_female_urban,4504,33,4504,Email,1989-11-24,32
+245-92-4023,Shelley,Campbell,F,13389 Dominguez Tunnel Apt. 992,Greeley|CO|80631|40.385|-104.6806|101464,Quarry manager,adults_2550_female_urban,791,68,791,Email,1974-09-29,47
+704-53-8846,Danielle,Jackson,F,7140 Solomon Locks,Denver|CO|80218|39.7327|-104.9717|990452,Manufacturing systems engineer,adults_2550_female_urban,2267,1,2267,Email,1990-04-10,32
+682-23-1460,Tammy,Baker,F,11269 Lawrence Lock,Denver|CO|80224|39.688|-104.9108|990452,"Nurse, adult",adults_2550_female_urban,3721,64,3721,Email,1978-12-16,43
+436-27-1364,Julie,Wyatt,F,3661 Darius Trace Suite 868,Denver|CO|80211|39.7665|-105.0204|990452,Medical illustrator,adults_2550_female_urban,4349,1,4349,Email,1983-08-22,39
+159-85-8569,Sydney,Kelly,F,010 Wright Summit Suite 778,Denver|CO|80221|39.838|-104.9988|990452,Pensions consultant,adults_2550_female_urban,4518,39,4518,Email,1976-04-04,46
+553-92-6035,Angela,Chapman,F,5239 Wells Manor,Pueblo|CO|81003|38.2843|-104.6234|151815,Arts administrator,adults_2550_female_urban,3414,11,3414,Email,1971-10-17,50
+436-85-4050,Alexa,Santana,F,4590 Kennedy Lake,Denver|CO|80220|39.7312|-104.9129|990452,Lawyer,adults_2550_female_urban,716,1,716,Email,1978-12-04,43
+829-81-4217,Diana,Lynn,F,15094 Moore Forks Apt. 644,Aurora|CO|80012|39.6987|-104.8377|389246,"Psychologist, clinical",adults_2550_female_urban,4426,26,4426,Email,1993-09-13,29
+878-24-7294,Amanda,Proctor,F,75723 Nancy Spur,Denver|CO|80220|39.7312|-104.9129|990452,Clinical research associate,adults_2550_female_urban,1791,5,1791,Email,1990-05-12,32
+469-99-0598,Melissa,Fisher,F,239 Sarah Landing,Littleton|CO|80121|39.6111|-104.9532|320420,"Accountant, chartered management",adults_2550_female_urban,3357,63,3357,Email,1978-07-21,44
+880-88-8050,Claire,Williams,F,2273 Brent Ridges,Denver|CO|80215|39.7435|-105.1009|990452,Toxicologist,adults_2550_female_urban,4684,1,4684,Email,1977-03-05,45
+119-43-5949,Colleen,Wolfe,F,8353 Carrie Corner,Fort Collins|CO|80525|40.5384|-105.0547|175625,Location manager,adults_2550_female_urban,10145,4,9837,Email,1989-07-25,33
+895-30-3764,Lori,Franklin,F,547 Morris Squares,Denver|CO|80205|39.759|-104.9661|990452,"Designer, interior/spatial",adults_50up_female_urban,1322,4,1322,Email,1969-09-22,52
+606-51-1016,Isabel,Powell,F,39701 Taylor Valley,Littleton|CO|80130|39.5414|-104.9218|320420,Medical illustrator,adults_50up_female_urban,1800,63,1800,Email,1967-09-28,54
+066-81-8847,Margaret,Moore,F,4177 Dawn Well,Denver|CO|80215|39.7435|-105.1009|990452,"Designer, jewellery",adults_50up_female_urban,5016,1,5016,Email,1970-01-05,52
+024-94-4292,Amy,Cox,F,408 Rodriguez Rue Apt. 202,Denver|CO|80223|39.7002|-105.0028|990452,Civil Service fast streamer,adults_50up_female_urban,11319,1,11011,Email,1966-04-14,56
+241-19-2086,Anne,Davenport,F,029 Timothy Brooks Suite 553,Colorado Springs|CO|80920|38.9497|-104.767|525713,Audiological scientist,adults_50up_female_urban,3874,61,3874,Email,1966-08-10,56
+806-27-4181,Morgan,Martin,F,379 West Ranch Apt. 434,Denver|CO|80212|39.7683|-105.0493|990452,Ambulance person,adults_50up_female_urban,954,1,954,Email,1966-10-20,55
+206-23-1620,Cheryl,Ingram,F,4577 Johnson Drives,Brighton|CO|80602|39.9636|-104.9072|73471,"Editor, commissioning",adults_50up_female_urban,4821,35,4821,Email,1963-06-08,59
+405-01-0233,April,Stephens,F,629 Allison Lakes Suite 152,Parker|CO|80134|39.4895|-104.8447|84861,Recruitment consultant,adults_50up_female_urban,11331,70,11023,Email,1968-12-14,53
+813-46-7799,Loretta,King,F,93106 Mata Trail,Longmont|CO|80503|40.1559|-105.1624|117461,Barrister,adults_50up_female_urban,2335,66,2335,Email,1958-03-28,64
+435-61-2041,Traci,Campos,F,4839 Finley Junction,Colorado Springs|CO|80927|38.9286|-104.6583|525713,"Accountant, chartered",adults_50up_female_urban,1169,18,1169,Email,1965-01-24,57
+273-04-9602,Nicole,Parker,F,602 Jackson Shoals Suite 987,Greeley|CO|80631|40.385|-104.6806|101464,Financial risk analyst,adults_50up_female_urban,1610,68,1610,Email,1966-04-23,56
+738-62-4833,Diana,Marshall,F,86678 Cheryl Mountain,Colorado Springs|CO|80915|38.8558|-104.7134|525713,Biomedical engineer,adults_50up_female_urban,12750,21,12442,Email,1964-05-25,58
+453-40-3087,Ariana,Weaver,F,4108 Michael Crescent Apt. 011,Parker|CO|80138|39.5102|-104.7216|84861,Geophysicist/field seismologist,adults_50up_female_urban,2478,48,2478,Email,1964-05-24,58
+638-69-4311,Maria,Salazar,F,3053 Austin Mews,Brighton|CO|80601|39.943|-104.7866|73471,Airline pilot,adults_50up_female_urban,2995,35,2995,Email,1965-06-15,57
+194-23-9227,Cindy,Morrow,F,547 Smith Terrace,Denver|CO|80260|39.8672|-105.0041|990452,"Therapist, art",adults_50up_female_urban,473,1,473,Email,1963-09-25,58
+033-32-6584,Virginia,Snyder,F,180 Matthew Land Suite 818,Fort Collins|CO|80521|40.5813|-105.1039|175625,"Therapist, sports",adults_50up_female_urban,11371,37,11063,Email,1965-11-04,56
+711-47-7485,Joyce,Thomas,F,8579 Angelica Grove,Colorado Springs|CO|80922|38.905|-104.6982|525713,"Engineer, civil (consulting)",adults_50up_female_urban,2177,24,2177,Email,1966-05-30,56
+356-44-6349,Anna,Bell,F,61226 Hannah Port,Denver|CO|80203|39.7313|-104.9811|990452,"Surveyor, hydrographic",adults_50up_female_urban,1930,38,1930,Email,1958-02-21,64
+677-37-0824,Natalie,Campbell,F,2127 Martinez Estate,Castle Rock|CO|80109|39.3643|-104.9014|67419,Operations geologist,adults_50up_female_urban,1194,17,1194,Email,1963-06-14,59
+362-10-2614,Amy,Cook,F,363 Pamela Cove,Aurora|CO|80016|39.6012|-104.7394|389246,"Engineer, automotive",young_adults_female_urban,1529,43,1529,Email,1996-06-20,26
+443-51-8475,Sally,Hahn,F,8770 Flores Cove Apt. 360,Westminster|CO|80031|39.8753|-105.0345|49261,Student,young_adults_female_urban,131,53,131,Email,2001-01-31,21
+586-02-4536,Christine,Stevens,F,4560 Savannah Row,Denver|CO|80222|39.671|-104.9279|990452,Student,young_adults_female_urban,3104,4,3104,Email,2006-01-04,16
+886-64-5391,Kayla,Martinez,F,966 Connor Drive,Denver|CO|80236|39.6535|-105.0376|990452,Student,young_adults_female_urban,2921,64,2921,Email,2000-12-20,21
+128-16-4663,Amy,Johnson,F,2702 Morton Bridge Apt. 940,Denver|CO|80210|39.679|-104.9631|990452,Student,young_adults_female_urban,1039,70,1039,Email,2004-10-11,17
+580-57-8649,Kelly,Preston,F,5776 Jones Ways Apt. 384,Denver|CO|80224|39.688|-104.9108|990452,Pathologist,young_adults_female_urban,3415,54,3415,Email,1997-09-30,24
+629-14-9819,Jeffrey,Cooper,M,4860 Kevin Fort Apt. 387,Aurora|CO|80015|39.6255|-104.7874|389246,Lawyer,adults_2550_male_urban,4472,74,4472,Mailer,1989-07-25,33
+298-39-9779,Ronnie,Perry,M,488 Clarence Mountain,Colorado Springs|CO|80923|38.9189|-104.7045|525713,"Engineer, land",adults_2550_male_urban,132,36,132,Mailer,1977-01-26,45
+849-87-7606,Dalton,Smith,M,970 Amy Estate Suite 403,Denver|CO|80249|39.7783|-104.7556|990452,"Nurse, children's",adults_2550_male_urban,339,1,339,Mailer,1990-07-30,32
+438-69-5449,Jimmy,Brown,M,259 Chavez Vista,Longmont|CO|80501|40.1779|-105.101|117461,Primary school teacher,adults_2550_male_urban,2388,42,2388,Mailer,1995-07-29,27
+791-14-2441,Matthew,Lopez,M,66254 Ryan Fields Apt. 472,Fort Collins|CO|80526|40.5473|-105.1076|175625,Research scientist (maths),adults_2550_male_urban,4555,52,4555,Mailer,1984-08-07,38
+567-36-8250,Antonio,Taylor,M,269 Haney Island Suite 460,Brighton|CO|80602|39.9636|-104.9072|73471,"Horticulturist, commercial",adults_2550_male_urban,4532,39,4532,Mailer,1977-10-09,44
+560-21-9805,William,Martin,M,649 Hudson Lights Suite 991,Loveland|CO|80537|40.3849|-105.0916|82751,"Education officer, environmental",adults_2550_male_urban,13095,76,12787,Mailer,1974-03-16,48
+333-13-6511,James,Richards,M,470 Washington Ports,Boulder|CO|80310|40.0878|-105.3735|120932,Learning mentor,adults_2550_male_urban,2779,29,2779,Mailer,1972-05-04,50
+044-61-1563,Joe,Jones,M,59059 Bell Junctions Suite 153,Denver|CO|80233|39.9015|-104.9407|990452,"Runner, broadcasting/film/video",adults_2550_male_urban,3567,1,3567,Mailer,1972-03-09,50
+886-86-5339,Stephen,Morton,M,2203 Lewis Lodge,Denver|CO|80235|39.6472|-105.0795|990452,"Scientist, forensic",adults_2550_male_urban,4507,1,4507,Mailer,1994-08-03,28
+066-80-8700,Samuel,Golden,M,3383 Murphy Fords Suite 527,Fountain|CO|80817|38.6996|-104.7005|27311,"Therapist, speech and language",adults_2550_male_urban,3667,70,3667,Mailer,1995-09-18,27
+408-72-9941,Brendan,Jones,M,8327 Leslie Spring,Denver|CO|80206|39.7331|-104.9524|990452,Occupational hygienist,adults_2550_male_urban,1345,32,1345,Mailer,1992-05-22,30
+599-32-4023,Jason,Hart,M,2322 Gonzalez Port Suite 344,Aurora|CO|80019|39.7656|-104.7069|389246,Adult guidance worker,adults_2550_male_urban,374,26,374,Mailer,1991-06-14,31
+417-64-4913,James,Cooke,M,49422 Dixon Causeway,Denver|CO|80207|39.7584|-104.9177|990452,Freight forwarder,adults_2550_male_urban,3259,71,3259,Mailer,1974-10-15,47
+427-16-8055,Andrew,Mcmahon,M,02311 Madden Estates,Greeley|CO|80631|40.385|-104.6806|101464,Chartered public finance accountant,adults_2550_male_urban,3115,72,3115,Mailer,1985-11-30,36
+390-38-8800,Joel,Williams,M,01780 Perez Avenue Apt. 150,Colorado Springs|CO|80917|38.886|-104.7399|525713,Production manager,adults_2550_male_urban,3267,61,3267,Mailer,1975-08-26,47
+200-34-8478,Matthew,Skinner,M,54729 Melissa Ramp,Vail|CO|81657|39.6512|-106.3234|5581,Radio broadcast assistant,adults_2550_male_urban,984,20,984,Mailer,1973-07-03,49
+746-24-5599,Joseph,Gardner,M,29250 Patrick Creek,Denver|CO|80247|39.6971|-104.8819|990452,Counsellor,adults_2550_male_urban,12802,1,12494,Mailer,1993-08-12,29
+263-92-4128,Steve,Sharp,M,5121 Richard Ways,Denver|CO|80226|39.7123|-105.0918|990452,Editorial assistant,adults_2550_male_urban,1067,1,1067,Mailer,1976-05-14,46
+282-08-3139,John,Montes,M,7731 Bryan Square,Denver|CO|80204|39.734|-105.0259|990452,Speech and language therapist,adults_2550_male_urban,2845,7,2845,Mailer,1976-09-02,46
+733-32-0081,Peter,Parker,M,543 Tammy Flats,Allenspark|CO|80510|40.2268|-105.5201|420,Environmental manager,adults_50up_male_rural,5911,14,5911,Mailer,1959-10-03,62
+438-19-2435,James,Wang,M,635 Curtis Corners Suite 454,Boulder|CO|80303|39.9914|-105.2392|120932,Information systems manager,adults_50up_male_urban,694,29,694,Mailer,1960-02-28,62
+014-97-0826,Charles,Rogers,M,77481 Kim Road Apt. 894,Westminster|CO|80031|39.8753|-105.0345|49261,Quantity surveyor,adults_50up_male_urban,2117,53,2117,Mailer,1969-02-28,53
+765-16-2569,William,Gordon,M,69189 Johnson Plains,Littleton|CO|80125|39.4845|-105.0561|320420,"Engineer, water",adults_50up_male_urban,4701,22,4701,Mailer,1965-06-28,57
+565-33-8617,Robert,Scott,M,915 Diane Greens Suite 188,Colorado Springs|CO|80905|38.8377|-104.837|525713,Dealer,adults_50up_male_urban,3735,18,3735,Mailer,1962-01-17,60
+496-60-6526,Edward,Graves,M,95569 Heather Curve Apt. 820,Arvada|CO|80004|39.8141|-105.1177|122111,Child psychotherapist,adults_50up_male_urban,2782,31,2782,Mailer,1964-09-13,58
+210-02-0388,Timothy,George,M,497 Jennifer Underpass Apt. 166,Louisville|CO|80027|39.9789|-105.1456|31034,Armed forces operational officer,adults_50up_male_urban,3671,10,3671,Mailer,1967-07-16,55
+757-04-6196,Raymond,Walker,M,93898 Heather Lake Apt. 098,Boulder|CO|80305|39.9807|-105.2531|120932,Estate agent,adults_50up_male_urban,2532,29,2532,Mailer,1961-05-09,61
+287-67-8118,Adrian,Silva,M,7463 Rivera Overpass Apt. 252,Denver|CO|80231|39.6793|-104.8843|990452,Horticultural consultant,adults_50up_male_urban,305,46,305,Mailer,1962-06-08,60
+642-48-5961,Lee,Turner,M,13182 Samuel Mount,Castle Rock|CO|80104|39.3926|-104.8602|67419,English as a foreign language teacher,adults_50up_male_urban,4190,17,4190,Mailer,1966-11-17,55
+436-66-9507,Nicholas,Fischer,M,5933 Gilbert Manors Suite 179,Golden|CO|80403|39.8232|-105.2825|57589,Retired,adults_50up_male_urban,1886,34,1886,Mailer,1944-04-07,78
+167-86-6456,Jeff,Evans,M,721 Shaw Manor Suite 165,Littleton|CO|80124|39.5506|-104.8972|320420,Arts development officer,adults_50up_male_urban,13201,31,12893,Mailer,1961-05-17,61
+496-05-0884,Andrew,Jones,M,93362 Haney Well Suite 713,Commerce City|CO|80022|39.8259|-104.9113|42699,Sub,adults_50up_male_urban,597,55,597,Mailer,1967-02-22,55
+863-07-7009,Nicolas,Nunez,M,704 Shawn Square Apt. 406,Fort Collins|CO|80526|40.5473|-105.1076|175625,Police officer,adults_50up_male_urban,537,1,537,Mailer,1959-01-16,63
+611-92-5428,Donald,Camacho,M,7566 Barber Trace Suite 395,Denver|CO|80224|39.688|-104.9108|990452,Production engineer,adults_50up_male_urban,4457,1,4457,Mailer,1967-01-17,55
+345-50-3343,Robert,Dixon,M,987 Moore Islands Apt. 662,Denver|CO|80247|39.6971|-104.8819|990452,"Scientist, product/process development",adults_50up_male_urban,2626,1,2626,Mailer,1964-02-14,58
+725-73-5739,Jeffrey,Smith,M,067 Sonya Fields,Denver|CO|80231|39.6793|-104.8843|990452,Fish farm manager,young_adults_male_urban,719,46,719,Mailer,1998-08-09,24
+345-97-7080,Richard,Caldwell,M,8474 Sarah Union,Denver|CO|80239|39.7878|-104.8288|990452,Automotive engineer,young_adults_male_urban,3636,46,3636,Mailer,2002-05-19,20
+235-31-0908,John,Johnson,M,587 Tapia Plain,Denver|CO|80212|39.7683|-105.0493|990452,Student,young_adults_male_urban,8217,69,8217,Mailer,2002-08-02,20
+328-23-9987,Christopher,Ritter,M,723 Isaac Pine Apt. 252,Littleton|CO|80130|39.5414|-104.9218|320420,Health and safety adviser,young_adults_male_urban,2650,75,2650,Mailer,1999-03-05,23
+540-36-1949,Jason,Dawson,M,6095 Armstrong Expressway Suite 757,Denver|CO|80249|39.7783|-104.7556|990452,Student,young_adults_male_urban,4764,54,4764,Mailer,2003-10-15,18
+020-52-1509,Jonathan,Douglas,M,5328 Rubio Isle Apt. 736,Denver|CO|80235|39.6472|-105.0795|990452,Student,young_adults_male_urban,9457,46,9149,Mailer,2002-09-26,19
+548-04-5839,Joseph,Johnson,M,704 Jones Vista Apt. 533,Denver|CO|80224|39.688|-104.9108|990452,Physiotherapist,young_adults_male_urban,3615,1,3615,Mailer,1998-07-04,24
+022-01-1133,Matthew,Boyle,M,974 Kristina Fords Suite 507,Denver|CO|80229|39.8671|-104.9227|990452,Student,young_adults_male_urban,1211,1,1211,Mailer,2002-07-14,20
+312-67-4145,Juan,Watts,M,3419 Travis Tunnel Suite 553,Parker|CO|80138|39.5102|-104.7216|84861,Student,young_adults_male_urban,6789,57,6789,Mailer,2003-03-26,19
+716-66-6857,Jonathan,Floyd,M,6423 Wyatt Isle,Denver|CO|80224|39.688|-104.9108|990452,Theatre director,young_adults_male_urban,2277,1,2277,Mailer,2003-03-25,19
+738-96-6545,Marcus,Campos,M,24637 Barron Glens,Denver|CO|80216|39.7835|-104.9669|990452,Student,young_adults_male_urban,2125,71,2125,Mailer,1999-04-12,23
+256-48-2067,Marc,Cox,M,063 Kimberly Keys,Broomfield|CO|80020|39.9245|-105.0609|92337,Student,young_adults_male_urban,1754,57,1754,Mailer,2003-05-29,19
+526-76-6004,Brian,Johnson,M,1014 Hall Curve,Colorado Springs|CO|80924|38.9676|-104.7211|525713,Student,young_adults_male_urban,12144,2,11836,Mailer,2004-11-23,17
+070-58-9183,Melissa,Ingram,F,2808 Scott Road Apt. 871,Canon City|CO|81212|38.4451|-105.2178|29742,"Programmer, multimedia",adults_2550_female_urban,326,27,326,Mailer,1991-09-18,31
+684-89-4332,Marissa,Boyer,F,49080 Harris Track,Denver|CO|80236|39.6535|-105.0376|990452,Health and safety adviser,adults_2550_female_urban,5263,1,5263,Mailer,1986-02-27,36
+365-46-7857,Autumn,Aguilar,F,561 Todd Streets Suite 374,Denver|CO|80260|39.8672|-105.0041|990452,TEFL teacher,adults_2550_female_urban,2469,54,2469,Mailer,1981-09-10,41
+080-67-6244,Laura,Patterson,F,10360 Felicia Stream,Longmont|CO|80503|40.1559|-105.1624|117461,Multimedia programmer,adults_2550_female_urban,3201,66,3201,Mailer,1977-08-06,45
+615-10-5113,Tamara,Parker,F,265 Campbell Ridges,Denver|CO|80203|39.7313|-104.9811|990452,Analytical chemist,adults_2550_female_urban,4258,44,4258,Mailer,1990-05-11,32
+511-88-6881,Lori,Jackson,F,2003 Allen Spurs Suite 298,Denver|CO|80221|39.838|-104.9988|990452,Archaeologist,adults_2550_female_urban,4546,23,4546,Mailer,1975-04-20,47
+780-43-0351,Rebecca,Bullock,F,141 Barnes Freeway Apt. 196,Colorado Springs|CO|80924|38.9676|-104.7211|525713,Visual merchandiser,adults_2550_female_urban,2490,61,2490,Mailer,1985-03-26,37
+870-25-0127,Samantha,Wilcox,F,43361 Church Springs Apt. 929,Pueblo|CO|81003|38.2843|-104.6234|151815,"Psychotherapist, dance movement",adults_2550_female_urban,2644,6,2644,Mailer,1988-03-23,34
+182-59-0823,Becky,Pineda,F,02868 William Trail,Colorado Springs|CO|80905|38.8377|-104.837|525713,"Engineer, control and instrumentation",adults_2550_female_urban,3858,18,3858,Mailer,1972-06-14,50
+473-15-8186,Tanya,Hill,F,8297 Peck Prairie Suite 046,Aurora|CO|80013|39.6575|-104.7846|389246,Public relations account executive,adults_2550_female_urban,999,74,999,Mailer,1990-09-01,32
+521-94-2314,Haley,Kim,F,4512 Jamie Glens Apt. 224,Aurora|CO|80013|39.6575|-104.7846|389246,Environmental education officer,adults_2550_female_urban,2154,60,2154,Mailer,1981-11-28,40
+867-43-7544,Patricia,Wilson,F,4011 Hector Lodge Apt. 119,Denver|CO|80215|39.7435|-105.1009|990452,Proofreader,adults_2550_female_urban,238,6,238,Mailer,1985-11-28,36
+041-92-0172,Nancy,Bryan,F,4089 Williams Roads,Colorado Springs|CO|80905|38.8377|-104.837|525713,Sales executive,adults_2550_female_urban,3084,23,3084,Mailer,1975-08-24,47
+140-84-3604,Emily,Foley,F,231 Gina Mount,Denver|CO|80238|39.7388|-104.4083|990452,Industrial/product designer,adults_2550_female_urban,466,1,466,Mailer,1971-11-19,50
+084-72-2954,Colleen,Dunlap,F,0145 Brown Circle,Denver|CO|80209|39.7074|-104.9686|990452,Podiatrist,adults_2550_female_urban,4231,1,4231,Mailer,1983-08-08,39
+402-34-4715,Stephanie,Knight,F,96344 Lindsey Prairie,Denver|CO|80231|39.6793|-104.8843|990452,Astronomer,adults_2550_female_urban,4833,30,4833,Mailer,1995-02-28,27
+330-46-1866,Kelly,Munoz,F,678 Jones Gardens,Lafayette|CO|80026|39.998|-105.0963|26378,"Horticulturist, amenity",adults_2550_female_urban,3130,19,3130,Mailer,1979-05-31,43
+457-64-3692,Megan,Smith,F,57743 Tiffany Mill Apt. 949,Brighton|CO|80601|39.943|-104.7866|73471,"Engineer, agricultural",adults_2550_female_urban,5333,39,5333,Mailer,1991-05-29,31
+153-13-0626,Candice,Archer,F,508 Scott Well,Greeley|CO|80634|40.4109|-104.7541|101464,Conference centre manager,adults_2550_female_urban,2063,68,2063,Mailer,1974-09-26,47
+769-84-2075,Pamela,Wood,F,9728 Martinez Crescent Suite 662,Littleton|CO|80129|39.5397|-105.0109|320420,Paediatric nurse,adults_2550_female_urban,12643,69,12335,Mailer,1986-07-20,36
+664-96-3399,Marissa,Watkins,F,90878 Whitney Lodge,Fountain|CO|80817|38.6996|-104.7005|27311,"Engineer, water",adults_2550_female_urban,8295,15,8295,Mailer,1975-01-23,47
+221-70-0408,Kelly,Castro,F,991 Christina Lodge Apt. 045,Littleton|CO|80121|39.6111|-104.9532|320420,Operations geologist,adults_2550_female_urban,5200,33,5200,Mailer,1984-04-23,38
+788-81-7973,Bailey,Williams,F,2476 Kennedy Ways,Denver|CO|80235|39.6472|-105.0795|990452,Fine artist,adults_2550_female_urban,1380,44,1380,Mailer,1977-07-29,45
+689-70-6829,Michelle,Henderson,F,107 Horne Forges Apt. 506,Denver|CO|80204|39.734|-105.0259|990452,"Therapist, sports",adults_2550_female_urban,3056,38,3056,Mailer,1983-01-16,39
+094-51-2973,Jennifer,Sosa,F,253 Robinson Estate Apt. 767,Denver|CO|80260|39.8672|-105.0041|990452,"Surveyor, building",adults_2550_female_urban,7855,7,7855,Mailer,1988-01-30,34
+752-30-5067,Bailey,Miller,F,11113 Miller Locks,Denver|CO|80206|39.7331|-104.9524|990452,Accounting technician,adults_2550_female_urban,1690,46,1690,Mailer,1971-08-17,51
+849-30-7568,Melissa,Walker,F,234 Walker Lock Apt. 557,Loveland|CO|80537|40.3849|-105.0916|82751,"Engineer, materials",adults_2550_female_urban,2951,76,2951,Mailer,1974-08-31,48
+325-39-4738,Kristy,Knight,F,128 Charles Creek Suite 786,Denver|CO|80239|39.7878|-104.8288|990452,Forensic scientist,adults_2550_female_urban,4832,56,4832,Mailer,1981-01-09,41
+348-30-4715,Diana,Chapman,F,12861 Lewis Coves Apt. 621,Fort Collins|CO|80526|40.5473|-105.1076|175625,"Conservator, furniture",adults_50up_female_urban,1242,73,1242,Mailer,1968-08-21,54
+205-78-0304,Lauren,Steele,F,6277 David Valleys,Canon City|CO|81212|38.4451|-105.2178|29742,Agricultural consultant,adults_50up_female_urban,798,27,798,Mailer,1964-02-12,58
+590-72-0462,Melissa,Gould,F,1139 Ryan Divide,Colorado Springs|CO|80916|38.8076|-104.7403|525713,Orthoptist,adults_50up_female_urban,3638,49,3638,Mailer,1967-12-11,54
+158-28-1835,Alexandra,Holmes,F,214 Duran Mount,Fountain|CO|80817|38.6996|-104.7005|27311,Control and instrumentation engineer,adults_50up_female_urban,1165,15,1165,Mailer,1966-10-02,55
+888-86-3356,Emily,Jones,F,690 Marc Prairie,Fountain|CO|80817|38.6996|-104.7005|27311,Production engineer,adults_50up_female_urban,3583,15,3583,Mailer,1966-09-09,56
+159-33-4020,Pamela,Bond,F,0766 Hayden Garden Suite 010,Colorado Springs|CO|80911|38.7457|-104.7223|525713,"Psychologist, forensic",adults_50up_female_urban,2235,14,2235,Mailer,1964-04-20,58
+884-50-4115,Madison,Gonzalez,F,787 Shannon Rapids Apt. 468,Denver|CO|80249|39.7783|-104.7556|990452,Student,young_adults_female_urban,2971,1,2971,Mailer,2001-12-03,20
+807-90-7635,Jacqueline,Carpenter,F,1654 Stafford Spur Suite 063,Denver|CO|80241|39.9274|-104.9548|990452,Student,young_adults_female_urban,2475,44,2475,Mailer,2006-02-02,16
+008-75-4116,Tracy,Dudley,F,02519 Mason Branch,Golden|CO|80401|39.7305|-105.1915|57589,Engineering geologist,young_adults_female_urban,6567,5,6567,Mailer,2002-11-21,19
+383-02-1746,Emily,Galloway,F,22890 Roth Highway Suite 646,Colorado Springs|CO|80904|38.8533|-104.8595|525713,Student,young_adults_female_urban,3102,61,3102,Mailer,2003-02-16,19
+431-41-4175,Christina,Dennis,F,15041 Sarah Locks Suite 410,Colorado Springs|CO|80903|38.8388|-104.8145|525713,Student,young_adults_female_urban,3627,18,3627,Mailer,2005-06-08,17
+463-90-1082,Monique,Taylor,F,29879 Sarah Locks Suite 044,Denver|CO|80228|39.6888|-105.156|990452,Student,young_adults_female_urban,1390,59,1390,Mailer,2003-05-27,19
+649-39-8572,Laura,Phillips,F,0835 Jones Plaza Suite 322,Littleton|CO|80126|39.5437|-104.9691|320420,"Engineer, building services",young_adults_female_urban,584,33,584,Mailer,2000-05-13,22
+573-55-8541,Jennifer,Wagner,F,3083 Simpson Pine Suite 223,Denver|CO|80230|39.7218|-104.8951|990452,Student,young_adults_female_urban,1999,74,1999,Mailer,2006-02-10,16
+810-40-9817,Melanie,Nelson,F,8360 Cathy Port Apt. 999,Littleton|CO|80124|39.5506|-104.8972|320420,Student,young_adults_female_urban,8506,69,8506,Mailer,2003-12-25,18
+864-51-0954,Alexa,Hoffman,F,4780 Sparks Drive,Aurora|CO|80017|39.6948|-104.7881|389246,Student,young_adults_female_urban,1819,43,1819,Mailer,2003-04-20,19
+451-15-7234,Shelby,Ross,F,09832 Robert Club,Fort Collins|CO|80524|40.5986|-105.0581|175625,Student,young_adults_female_urban,3082,52,3082,Mailer,2003-10-17,18
+288-70-1129,Amy,Rojas,F,049 Stephanie Center,Denver|CO|80232|39.6895|-105.0908|990452,Aid worker,young_adults_female_urban,3590,23,3590,Mailer,2000-09-23,21
+063-76-0932,Ashley,Erickson,F,1201 Medina Divide,Pueblo|CO|81003|38.2843|-104.6234|151815,Telecommunications researcher,young_adults_female_urban,1243,11,1243,Mailer,1998-10-05,23
+776-28-2903,Shannon,Day,F,1921 Leah Spur,Colorado Springs|CO|80918|38.9129|-104.7734|525713,Student,young_adults_female_urban,51,36,51,Mailer,2003-12-02,18
+301-15-8855,Sarah,Roth,F,9744 Martinez Shores Suite 093,Canon City|CO|81212|38.4451|-105.2178|29742,Investment analyst,young_adults_female_urban,273,27,273,Mailer,1996-05-15,26
+546-20-1658,Jim,Foster,M,9514 Hardy Walk Apt. 770,Denver|CO|80212|39.7683|-105.0493|990452,Health service manager,adults_2550_male_urban,4078,23,4078,Website,1975-06-04,47
+617-91-5688,David,Allen,M,053 Parker Trail,Broomfield|CO|80023|39.9619|-105.0148|92337,Air cabin crew,adults_2550_male_urban,6610,57,6610,Website,1978-06-03,44
+559-96-6400,Mark,Foster,M,3461 Shannon Path,Denver|CO|80234|39.9108|-105.0109|990452,"Nurse, adult",adults_2550_male_urban,3378,5,3378,Website,1981-04-21,41
+280-59-4385,Michael,House,M,12315 Cynthia Plains Suite 968,Broomfield|CO|80021|39.8854|-105.1139|92337,Veterinary surgeon,adults_2550_male_urban,425,25,425,Website,1972-02-12,50
+670-08-2881,Sean,Luna,M,989 Phillips Hills,Aurora|CO|80045|39.7467|-104.8384|389246,Advertising art director,adults_2550_male_urban,11195,58,10887,Website,1977-12-05,44
+418-01-7264,Anthony,Benson,M,5663 Miller Haven Apt. 611,Aurora|CO|80015|39.6255|-104.7874|389246,Senior tax professional/tax inspector,adults_2550_male_urban,592,26,592,Website,1989-07-18,33
+294-99-6856,George,Mcdowell,M,18642 Jackson Roads,Greeley|CO|80631|40.385|-104.6806|101464,Chief Technology Officer,adults_2550_male_urban,468,72,468,Website,1983-04-27,39
+268-40-7597,Bradley,Young,M,810 Timothy Station Suite 252,Fountain|CO|80817|38.6996|-104.7005|27311,Educational psychologist,adults_2550_male_urban,3308,15,3308,Website,1972-02-16,50
+757-68-8658,Bobby,Harris,M,415 Gomez Inlet Apt. 470,Denver|CO|80207|39.7584|-104.9177|990452,Production engineer,adults_2550_male_urban,1244,1,1244,Website,1988-05-02,34
+526-75-7225,Christopher,Young,M,999 Billy Lights,Parker|CO|80138|39.5102|-104.7216|84861,Consulting civil engineer,adults_2550_male_urban,236,70,236,Website,1985-09-01,37
+138-01-6723,Omar,Smith,M,916 David Road Apt. 880,Durango|CO|81301|37.2874|-107.8617|36051,Chartered loss adjuster,adults_2550_male_urban,1461,28,1461,Website,1993-12-21,28
+837-57-9911,Parker,Owens,M,6232 Matthew Fork Apt. 504,Littleton|CO|80122|39.5814|-104.9557|320420,Structural engineer,adults_2550_male_urban,2569,69,2569,Website,1972-04-01,50
+875-95-2612,Thomas,Boone,M,51944 Elaine Circles Suite 459,Denver|CO|80214|39.7436|-105.0643|990452,Catering manager,adults_2550_male_urban,2929,1,2929,Website,1982-03-10,40
+396-53-2291,Brian,Watson,M,73868 Smith Cove,Denver|CO|80212|39.7683|-105.0493|990452,Ceramics designer,adults_2550_male_urban,4333,1,4333,Website,1982-04-20,40
+191-45-1985,Michael,Taylor,M,704 Hector Drive Apt. 641,Littleton|CO|80120|39.5994|-105.0044|320420,Financial trader,adults_2550_male_urban,11004,63,10696,Website,1971-11-16,50
+695-62-0745,Matthew,Davis,M,59206 Griffin Ways Suite 901,Fort Collins|CO|80521|40.5813|-105.1039|175625,Dietitian,adults_2550_male_urban,503,73,503,Website,1983-07-24,39
+672-54-5778,Nicholas,Richards,M,66251 Shaffer Loop,Denver|CO|80260|39.8672|-105.0041|990452,Advertising copywriter,adults_2550_male_urban,688,1,688,Website,1978-05-04,44
+780-93-8649,Christopher,Smith,M,27437 Bennett Vista,Englewood|CO|80113|39.6405|-104.9614|99594,Theatre stage manager,adults_2550_male_urban,2374,9,2374,Website,1992-07-27,30
+498-68-3091,Edward,Briggs,M,06533 Dennis Skyway,Loveland|CO|80537|40.3849|-105.0916|82751,Financial controller,adults_2550_male_urban,4341,76,4341,Website,1988-05-01,34
+300-46-9817,Sean,Lyons,M,05541 Li Oval,Aurora|CO|80019|39.7656|-104.7069|389246,"Surveyor, mining",adults_2550_male_urban,9833,51,9525,Website,1988-09-21,34
+389-04-7313,Robert,Reese,M,6228 Matthew Prairie,Denver|CO|80236|39.6535|-105.0376|990452,IT technical support officer,adults_2550_male_urban,4534,38,4534,Website,1978-12-24,43
+090-91-7373,Donald,Lopez,M,3744 Rosales Underpass,Longmont|CO|80504|40.1306|-104.9504|117461,Landscape architect,adults_2550_male_urban,1517,66,1517,Website,1980-10-02,41
+368-35-3216,James,Landry,M,198 Valdez Prairie Suite 462,Denver|CO|80223|39.7002|-105.0028|990452,Forest/woodland manager,adults_2550_male_urban,2768,1,2768,Website,1988-04-02,34
+110-24-7803,Nathan,Johnston,M,810 Chapman Plains,Denver|CO|80219|39.6956|-105.0341|990452,Comptroller,adults_2550_male_urban,6275,13,6275,Website,1980-12-30,41
+407-54-7992,Hayden,Johnson,M,285 Spencer Mill Apt. 354,Denver|CO|80226|39.7123|-105.0918|990452,Surgeon,adults_2550_male_urban,3829,59,3829,Website,1996-03-13,26
+206-11-6513,Gregory,Shaw,M,50084 Dustin Row,Fort Collins|CO|80528|40.4961|-105.0002|175625,Public relations account executive,adults_2550_male_urban,7195,50,7195,Website,1986-09-11,36
+818-62-8001,Derrick,Wilson,M,46449 Phillips Common,Fort Collins|CO|80521|40.5813|-105.1039|175625,Air traffic controller,adults_2550_male_urban,3477,37,3477,Website,1989-08-28,33
+631-94-1050,Donald,Smith,M,900 Li Stream Suite 842,Littleton|CO|80123|39.6206|-105.0901|320420,"Surveyor, rural practice",adults_2550_male_urban,3751,33,3751,Website,1990-10-12,31
+146-28-4508,Charles,Mendoza,M,5894 Thompson Spring Apt. 249,Arvada|CO|80005|39.8422|-105.1097|122111,"Librarian, academic",adults_2550_male_urban,1424,8,1424,Website,1976-01-05,46
+463-64-8999,Cody,Johnson,M,45354 Chung Isle Apt. 855,Longmont|CO|80503|40.1559|-105.1624|117461,Water quality scientist,adults_2550_male_urban,12843,66,12535,Website,1977-05-05,45
+636-18-0904,Douglas,Hansen,M,721 Leroy Pine,Parker|CO|80138|39.5102|-104.7216|84861,"Engineer, agricultural",adults_2550_male_urban,3135,48,3135,Website,1993-01-06,29
+004-60-7210,Robert,Martinez,M,573 Kim Squares,Colorado Springs|CO|80923|38.9189|-104.7045|525713,"Radiographer, diagnostic",adults_2550_male_urban,1799,36,1799,Website,1983-06-26,39
+051-23-1528,Larry,Braun,M,0397 Crystal Route Suite 660,Denver|CO|80239|39.7878|-104.8288|990452,Forest/woodland manager,adults_2550_male_urban,1251,1,1251,Website,1983-05-30,39
+359-70-0467,Sean,French,M,3698 Stout Courts,Westminster|CO|80031|39.8753|-105.0345|49261,Interior and spatial designer,adults_2550_male_urban,4165,53,4165,Website,1979-03-13,43
+566-03-2359,Jon,Smith,M,408 Lauren Locks,Pueblo|CO|81008|38.3133|-104.6284|151815,"Scientist, research (medical)",adults_2550_male_urban,3779,6,3779,Website,1973-05-15,49
+625-68-8718,Robert,Marsh,M,2968 Todd River,Parker|CO|80138|39.5102|-104.7216|84861,"Engineer, control and instrumentation",adults_2550_male_urban,3245,70,3245,Website,1976-12-02,45
+546-49-7337,Jason,Owens,M,3565 Dillon Square Apt. 351,Denver|CO|80224|39.688|-104.9108|990452,Retail buyer,adults_2550_male_urban,3395,4,3395,Website,1986-12-28,35
+188-67-5128,Rodney,Harris,M,570 Nicole Plains,Littleton|CO|80130|39.5414|-104.9218|320420,"Therapist, sports",adults_2550_male_urban,4416,67,4416,Website,1994-12-25,27
+828-56-2629,Andre,Bailey,M,4185 Liu Lake Suite 348,Denver|CO|80219|39.6956|-105.0341|990452,Automotive engineer,adults_2550_male_urban,3382,54,3382,Website,1978-02-28,44
+003-82-7064,Kyle,Hood,M,3305 Hays Glens Apt. 191,Aurora|CO|80045|39.7467|-104.8384|389246,Field seismologist,adults_2550_male_urban,7862,74,7862,Website,1989-10-17,32
+487-96-4760,David,Blackburn,M,6216 Michael Run Apt. 523,Aurora|CO|80013|39.6575|-104.7846|389246,Chartered public finance accountant,adults_2550_male_urban,7672,26,7672,Website,1977-04-05,45
+522-09-3157,Steven,Richardson,M,08354 Jimmy Row,Canon City|CO|81212|38.4451|-105.2178|29742,Translator,adults_2550_male_urban,9760,27,9452,Website,1993-02-17,29
+746-46-7554,Brian,Shaw,M,31253 Haynes Skyway Suite 315,Arvada|CO|80002|39.7945|-105.0984|122111,"Surveyor, minerals",adults_2550_male_urban,808,31,808,Website,1987-11-28,34
+446-22-2834,Tony,Collins,M,311 Robin Hill,Littleton|CO|80122|39.5814|-104.9557|320420,Learning mentor,adults_2550_male_urban,2431,75,2431,Website,1990-10-10,31
+790-03-4621,Michael,Gomez,M,864 Scott Mountain,Denver|CO|80212|39.7683|-105.0493|990452,Aid worker,adults_2550_male_urban,3947,23,3947,Website,1991-05-25,31
+541-99-6993,Mark,Clark,M,0045 Becky Points,Littleton|CO|80128|39.5918|-105.0832|320420,Further education lecturer,adults_2550_male_urban,1864,22,1864,Website,1972-03-14,50
+803-70-7868,Philip,Watson,M,5784 Simon Mill,Aurora|CO|80011|39.7378|-104.8152|389246,Medical physicist,adults_2550_male_urban,7422,74,7422,Website,1982-11-26,39
+458-66-5038,Joshua,Wu,M,464 David Valleys,Aurora|CO|80045|39.7467|-104.8384|389246,"Designer, fashion/clothing",adults_2550_male_urban,3519,74,3519,Website,1973-12-15,48
+051-09-7460,Alan,Wilson,M,1315 Newman Manors,Westminster|CO|80031|39.8753|-105.0345|49261,"Designer, exhibition/display",adults_2550_male_urban,508,53,508,Website,1995-04-28,27
+832-79-0343,Benjamin,Moore,M,3881 Samantha Stravenue Apt. 141,Littleton|CO|80123|39.6206|-105.0901|320420,Museum education officer,adults_2550_male_urban,4493,33,4493,Website,1971-10-05,50
+486-97-4811,Gabriel,Lucas,M,31018 Jennifer Lodge,Colorado Springs|CO|80910|38.8152|-104.7703|525713,"Doctor, general practice",adults_2550_male_urban,2713,36,2713,Website,1986-09-02,36
+252-09-9523,Ryan,Herman,M,006 Kimberly Expressway Apt. 647,Pueblo|CO|81006|38.2446|-104.5318|151815,Analytical chemist,adults_2550_male_urban,3811,6,3811,Website,1976-06-20,46
+505-92-7849,Zachary,Jones,M,845 Martinez Road,Denver|CO|80211|39.7665|-105.0204|990452,Estate agent,adults_2550_male_urban,1030,1,1030,Website,1971-10-11,50
+652-92-2111,Adrian,Hardin,M,190 Bradshaw Square,Boulder|CO|80301|40.0497|-105.2143|120932,Product designer,adults_2550_male_urban,5224,29,5224,Website,1973-07-24,49
+155-03-9418,Victor,Cook,M,135 Wood Heights,Littleton|CO|80128|39.5918|-105.0832|320420,"Engineer, petroleum",adults_2550_male_urban,10043,45,9735,Website,1989-10-29,32
+443-62-6142,Scott,Parker,M,84302 Katherine Estates,Denver|CO|80215|39.7435|-105.1009|990452,"Presenter, broadcasting",adults_2550_male_urban,3019,30,3019,Website,1993-09-23,28
+207-91-4433,Joseph,Young,M,9507 George Roads,Colorado Springs|CO|80920|38.9497|-104.767|525713,Chiropractor,adults_2550_male_urban,56,21,56,Website,1984-03-31,38
+673-06-4781,Nicholas,Turner,M,5188 Boyd Square,Denver|CO|80226|39.7123|-105.0918|990452,Production manager,adults_2550_male_urban,3136,1,3136,Website,1987-12-18,34
+630-39-5634,Michael,Harrison,M,14722 Nicole Shoals,Englewood|CO|80113|39.6405|-104.9614|99594,International aid/development worker,adults_2550_male_urban,3197,1,3197,Website,1982-07-10,40
+741-68-3112,Matthew,Rivas,M,56251 Janet Green,Aurora|CO|80012|39.6987|-104.8377|389246,Analytical chemist,adults_2550_male_urban,4915,40,4915,Website,1987-07-19,35
+076-55-7866,Stanley,Quinn,M,8064 Kristopher Isle,Aurora|CO|80013|39.6575|-104.7846|389246,"Chemist, analytical",adults_2550_male_urban,5204,47,5204,Website,1987-01-22,35
+397-34-5580,Ronald,Haley,M,75686 Williams Burgs Suite 097,Arvada|CO|80003|39.8286|-105.0655|122111,Immigration officer,adults_2550_male_urban,5233,66,5233,Website,1991-10-30,30
+147-67-7638,William,Matthews,M,95069 Stevens Pike Apt. 349,Colorado Springs|CO|80930|38.8289|-104.5269|525713,Energy engineer,adults_2550_male_urban,1762,61,1762,Website,1980-12-30,41
+194-59-2713,Jeremy,Moreno,M,39550 Ian Ranch Suite 165,Denver|CO|80249|39.7783|-104.7556|990452,Systems analyst,adults_2550_male_urban,8030,1,8030,Website,1991-07-19,31
+485-13-0001,Kenneth,Phillips,M,103 Jennifer Tunnel Apt. 875,Aurora|CO|80010|39.7368|-104.8646|389246,Claims inspector/assessor,adults_2550_male_urban,497,74,497,Website,1977-02-02,45
+643-55-7492,Steven,Williams,M,505 Sarah Ports Apt. 863,Pueblo|CO|81005|38.2352|-104.66|151815,Data scientist,adults_2550_male_urban,3890,3,3890,Website,1982-10-22,39
+764-98-4643,Kerry,Stevenson,M,20424 Case Neck Apt. 045,Aurora|CO|80011|39.7378|-104.8152|389246,Outdoor activities/education manager,adults_2550_male_urban,3405,40,3405,Website,1973-12-15,48
+872-83-9732,Nathaniel,Burton,M,0160 Wilson Way,Canon City|CO|81212|38.4451|-105.2178|29742,Broadcast journalist,adults_2550_male_urban,3063,27,3063,Website,1995-01-29,27
+663-31-9540,Bruce,Chandler,M,249 Conrad Trace,Littleton|CO|80120|39.5994|-105.0044|320420,Physiotherapist,adults_2550_male_urban,1954,69,1954,Website,1976-07-28,46
+441-47-9268,Troy,Walker,M,7000 Jordan Course,Aurora|CO|80012|39.6987|-104.8377|389246,"Therapist, speech and language",adults_2550_male_urban,1669,47,1669,Website,1976-10-25,45
+160-15-0650,Shawn,Pena,M,787 Mitchell Lodge Suite 813,Aurora|CO|80017|39.6948|-104.7881|389246,Theme park manager,adults_2550_male_urban,2880,60,2880,Website,1976-12-30,45
+455-14-0091,James,Dixon,M,0235 Keith Ways Apt. 571,Commerce City|CO|80022|39.8259|-104.9113|42699,Mental health nurse,adults_2550_male_urban,12943,55,12635,Website,1994-10-12,27
+464-13-1175,Richard,Jenkins,M,26878 Fox Knolls,Brighton|CO|80602|39.9636|-104.9072|73471,Chief of Staff,adults_2550_male_urban,12810,39,12502,Website,1988-10-14,33
+010-82-8475,Terrence,Campbell,M,014 Mccarthy Freeway,Denver|CO|80215|39.7435|-105.1009|990452,Tax inspector,adults_2550_male_urban,2739,13,2739,Website,1974-01-26,48
+613-92-2556,Joseph,Young,M,6703 Sexton Flats Suite 537,Loveland|CO|80538|40.4262|-105.09|82751,"Nurse, adult",adults_2550_male_urban,2058,76,2058,Website,1995-03-02,27
+014-81-8788,Nathan,York,M,6484 Johnson Key,Littleton|CO|80130|39.5414|-104.9218|320420,"Surveyor, building control",adults_2550_male_urban,3458,33,3458,Website,1977-06-30,45
+254-59-9632,David,Romero,M,51102 Wright Track Suite 078,Denver|CO|80205|39.759|-104.9661|990452,Proofreader,adults_50up_male_urban,6299,1,6299,Website,1960-08-09,62
+786-69-9655,Robert,Russell,M,9682 Garcia Gardens,Aurora|CO|80014|39.6662|-104.835|389246,Public relations account executive,adults_50up_male_urban,2522,74,2522,Website,1961-09-08,61
+435-26-2698,Casey,Clarke,M,4455 Aaron Crossing Apt. 043,Denver|CO|80211|39.7665|-105.0204|990452,Clinical biochemist,adults_50up_male_urban,1011,16,1011,Website,1963-07-13,59
+086-15-9010,James,Fernandez,M,359 Tanya Causeway,Denver|CO|80239|39.7878|-104.8288|990452,Retired,adults_50up_male_urban,3896,5,3896,Website,1947-10-03,74
+072-42-7110,Daniel,Brown,M,7450 Brooks Gateway Apt. 028,Louisville|CO|80027|39.9789|-105.1456|31034,Housing manager/officer,adults_50up_male_urban,1899,10,1899,Website,1965-07-03,57
+088-97-7095,Joseph,Cox,M,4157 Melissa Spring,Denver|CO|80216|39.7835|-104.9669|990452,"Engineer, mining",adults_50up_male_urban,9276,4,8968,Website,1970-11-06,51
+658-91-4318,Derek,Hunter,M,439 Nicole Mount Apt. 995,Fort Collins|CO|80528|40.4961|-105.0002|175625,Social researcher,adults_50up_male_urban,1057,52,1057,Website,1963-02-21,59
+819-10-5082,Daniel,Dillon,M,2427 Francisco Terrace Apt. 592,Denver|CO|80239|39.7878|-104.8288|990452,Learning mentor,adults_50up_male_urban,4166,1,4166,Website,1971-02-26,51
+591-81-8902,Jon,Yang,M,1750 Clark Corners Suite 563,Denver|CO|80247|39.6971|-104.8819|990452,Nature conservation officer,adults_50up_male_urban,3943,1,3943,Website,1969-12-04,52
+776-66-7688,James,Page,M,22532 Rose Ramp,Littleton|CO|80121|39.6111|-104.9532|320420,Broadcast journalist,adults_50up_male_urban,4115,33,4115,Website,1967-03-27,55
+347-89-5069,Michael,Morris,M,99654 Coleman Track,Greeley|CO|80634|40.4109|-104.7541|101464,Microbiologist,adults_50up_male_urban,1445,68,1445,Website,1965-07-24,57
+303-49-6073,Joseph,Morgan,M,442 Madison Park,Arvada|CO|80002|39.7945|-105.0984|122111,"Administrator, local government",adults_50up_male_urban,679,8,679,Website,1964-03-19,58
+444-87-6889,Vincent,Mitchell,M,8932 Santos Ford,Golden|CO|80401|39.7305|-105.1915|57589,Magazine features editor,adults_50up_male_urban,4725,34,4725,Website,1969-11-17,52
+312-39-0908,Zachary,Spencer,M,6250 Alexander Run Suite 016,Denver|CO|80207|39.7584|-104.9177|990452,Customer service manager,adults_50up_male_urban,3037,64,3037,Website,1966-01-04,56
+753-92-6030,Jose,Salazar,M,422 Michael Dam,Englewood|CO|80113|39.6405|-104.9614|99594,Copy,adults_50up_male_urban,1842,9,1842,Website,1967-09-13,55
+760-77-8573,Larry,Sutton,M,513 Thomas Locks,Louisville|CO|80027|39.9789|-105.1456|31034,"Buyer, industrial",adults_50up_male_urban,2268,10,2268,Website,1962-12-26,59
+081-10-9509,Erik,Berry,M,4600 Emily Lodge,Pueblo|CO|81006|38.2446|-104.5318|151815,IT trainer,adults_50up_male_urban,4019,11,4019,Website,1969-09-16,53
+434-38-5604,John,Johnson,M,502 Cook Spring Suite 415,Westminster|CO|80031|39.8753|-105.0345|49261,Ophthalmologist,adults_50up_male_urban,1018,53,1018,Website,1969-02-28,53
+371-97-6428,Steven,Patterson,M,303 Richard Park Apt. 279,Denver|CO|80215|39.7435|-105.1009|990452,"Civil engineer, contracting",adults_50up_male_urban,225,32,225,Website,1960-05-10,62
+573-22-8671,Anthony,Hawkins,M,7339 Mitchell Wall Apt. 956,Pueblo|CO|81005|38.2352|-104.66|151815,Higher education lecturer,adults_50up_male_urban,3192,6,3192,Website,1963-07-14,59
+127-77-8605,Tyler,Leonard,M,367 John Shoals,Aurora|CO|80012|39.6987|-104.8377|389246,Financial planner,adults_50up_male_urban,12991,51,12683,Website,1971-01-16,51
+096-39-4986,Joseph,Davis,M,42511 Baker Streets,Pueblo|CO|81006|38.2446|-104.5318|151815,Investment analyst,adults_50up_male_urban,2542,3,2542,Website,1968-12-19,53
+798-05-2550,Jeffrey,Bauer,M,316 Harrison Lodge Suite 857,Denver|CO|80239|39.7878|-104.8288|990452,"Embryologist, clinical",adults_50up_male_urban,2164,47,2164,Website,1965-10-29,56
+281-93-3540,Peter,Walker,M,6825 Lawson Island,Fort Collins|CO|80528|40.4961|-105.0002|175625,Lobbyist,adults_50up_male_urban,1779,37,1779,Website,1959-11-26,62
+799-29-2370,Christopher,Dickerson,M,296 Butler Underpass Apt. 171,Denver|CO|80207|39.7584|-104.9177|990452,"Runner, broadcasting/film/video",adults_50up_male_urban,1525,1,1525,Website,1967-03-09,55
+721-87-6453,Ryan,Ruiz,M,253 Justin Cliffs,Brighton|CO|80602|39.9636|-104.9072|73471,Water engineer,adults_50up_male_urban,1826,13,1826,Website,1961-09-12,61
+616-94-7483,Juan,Walter,M,22202 Jennifer Spurs Suite 099,Denver|CO|80238|39.7388|-104.4083|990452,Travel agency manager,adults_50up_male_urban,4429,64,4429,Website,1969-04-02,53
+177-52-8501,Troy,Kirby,M,425 Marc Port,Denver|CO|80222|39.671|-104.9279|990452,Farm manager,adults_50up_male_urban,2430,5,2430,Website,1961-10-28,60
+080-39-2372,Matthew,Torres,M,82455 Robbins Divide,Colorado Springs|CO|80916|38.8076|-104.7403|525713,"Teacher, special educational needs",adults_50up_male_urban,2513,41,2513,Website,1965-05-08,57
+477-05-8541,Bryan,Hodge,M,773 Martinez Pines,Aurora|CO|80016|39.6012|-104.7394|389246,Retired,adults_50up_male_urban,1329,26,1329,Website,1942-02-16,80
+601-96-0956,Jesse,Gonzalez,M,596 Graham Heights Apt. 192,Denver|CO|80260|39.8672|-105.0041|990452,"Psychologist, counselling",adults_50up_male_urban,4473,1,4473,Website,1968-12-27,53
+881-66-5974,Matthew,Harrison,M,104 Ryan Meadows,Denver|CO|80211|39.7665|-105.0204|990452,Health and safety adviser,adults_50up_male_urban,7567,5,7567,Website,1961-03-15,61
+316-06-4920,Bradley,Davis,M,5975 Rebecca Falls Suite 495,Pueblo|CO|81004|38.2441|-104.6278|151815,Heritage manager,young_adults_male_urban,13113,11,12805,Website,2000-11-25,21
+179-75-1368,Jorge,Robinson,M,567 Hoffman Mountain Suite 235,Aurora|CO|80015|39.6255|-104.7874|389246,Student,young_adults_male_urban,2948,47,2948,Website,2002-11-20,19
+180-55-2735,Kenneth,Hoffman,M,2189 Laura Park Suite 958,Aurora|CO|80013|39.6575|-104.7846|389246,Student,young_adults_male_urban,8359,74,8359,Website,2003-12-06,18
+488-80-8265,Tony,Garcia,M,3697 Miller Road Suite 002,Denver|CO|80249|39.7783|-104.7556|990452,Student,young_adults_male_urban,11683,7,11375,Website,2004-01-28,18
+541-61-8405,Steven,Christensen,M,410 Mcclure Ferry,Denver|CO|80221|39.838|-104.9988|990452,Student,young_adults_male_urban,4823,7,4823,Website,2006-04-16,16
+305-71-9038,Thomas,Ponce,M,8568 Laura Glens Apt. 541,Littleton|CO|80125|39.4845|-105.0561|320420,Student,young_adults_male_urban,60,67,60,Website,2004-02-19,18
+596-85-8218,John,Johnson,M,4036 Laura Turnpike Suite 591,Englewood|CO|80111|39.6123|-104.8799|99594,Fine artist,young_adults_male_urban,1765,9,1765,Website,1999-08-03,23
+463-92-5349,Hunter,Suarez,M,098 Henderson Roads,Fort Collins|CO|80521|40.5813|-105.1039|175625,Student,young_adults_male_urban,900,73,900,Website,2001-04-10,21
+099-34-7853,Derrick,Taylor,M,861 Yoder Lane,Fort Collins|CO|80521|40.5813|-105.1039|175625,Student,young_adults_male_urban,378,50,378,Website,2002-05-15,20
+845-42-4223,Michael,Vasquez,M,7790 Jonathan Heights,Denver|CO|80211|39.7665|-105.0204|990452,Student,young_adults_male_urban,4417,1,4417,Website,2000-04-24,22
+015-07-5528,Adam,Jackson,M,533 Fuller Spurs Suite 240,Louisville|CO|80027|39.9789|-105.1456|31034,Student,young_adults_male_urban,174,10,174,Website,2002-11-10,19
+761-23-9509,Kevin,Brown,M,225 Roger Stream Suite 536,Aurora|CO|80012|39.6987|-104.8377|389246,Student,young_adults_male_urban,666,26,666,Website,2006-05-23,16
+687-59-7224,Michael,Perkins,M,1691 Jenna Mount,Englewood|CO|80111|39.6123|-104.8799|99594,"Psychotherapist, child",young_adults_male_urban,1062,16,1062,Website,1999-01-08,23
+031-54-2535,Glenn,Gross,M,878 Michael Field Suite 093,Denver|CO|80223|39.7002|-105.0028|990452,Student,young_adults_male_urban,1500,1,1500,Website,2005-12-12,16
+533-16-7672,Juan,Wilkinson,M,35144 Daniel Fall Suite 668,Englewood|CO|80112|39.5805|-104.9011|99594,Student,young_adults_male_urban,4651,2,4651,Website,2003-01-24,19
+819-72-9089,Justin,Pierce,M,46799 Richards Ferry Apt. 173,Brighton|CO|80601|39.943|-104.7866|73471,"Teacher, special educational needs",young_adults_male_urban,4751,35,4751,Website,1997-01-08,25
+169-41-8364,Alfred,Peterson,M,281 Douglas Lakes,Colorado Springs|CO|80903|38.8388|-104.8145|525713,Secondary school teacher,young_adults_male_urban,3256,49,3256,Website,2000-07-18,22
+335-13-1752,Kenneth,Saunders,M,770 Miller Neck,Colorado Springs|CO|80915|38.8558|-104.7134|525713,Statistician,young_adults_male_urban,510,12,510,Website,2000-04-15,22
+116-87-3777,Donald,Hoffman,M,471 Benjamin Springs Apt. 929,Denver|CO|80223|39.7002|-105.0028|990452,Student,young_adults_male_urban,1459,4,1459,Website,2000-09-08,22
+729-25-1758,Maurice,Garcia,M,79709 Smith Falls,Durango|CO|81301|37.2874|-107.8617|36051,Student,young_adults_male_urban,264,28,264,Website,2002-08-22,20
+078-74-5925,Matthew,Robinson,M,06163 Garcia Landing Apt. 812,Denver|CO|80218|39.7327|-104.9717|990452,Student,young_adults_male_urban,3233,1,3233,Website,2004-11-30,17
+865-15-8412,Nicholas,Lopez,M,14928 Billy Freeway Suite 551,Loveland|CO|80537|40.3849|-105.0916|82751,Student,young_adults_male_urban,8342,76,8342,Website,2003-07-30,19
+008-07-1357,Alexander,Frank,M,873 Green Curve,Longmont|CO|80501|40.1779|-105.101|117461,Student,young_adults_male_urban,4495,66,4495,Website,2003-04-11,19
+710-98-5774,Robert,Cooke,M,2681 Williams Corner,Littleton|CO|80126|39.5437|-104.9691|320420,Student,young_adults_male_urban,3640,75,3640,Website,2002-07-24,20
+365-89-9516,Daniel,Warren,M,2563 Cathy Mews Apt. 265,Denver|CO|80236|39.6535|-105.0376|990452,Civil Service fast streamer,young_adults_male_urban,2540,46,2540,Website,2005-06-26,17
+555-52-2163,Jason,Maddox,M,158 Alexander Forges,Fort Collins|CO|80526|40.5473|-105.1076|175625,Occupational hygienist,young_adults_male_urban,3356,73,3356,Website,1998-04-23,24
+664-44-6672,Dennis,Lynch,M,699 Garcia Stream,Greeley|CO|80634|40.4109|-104.7541|101464,Pension scheme manager,young_adults_male_urban,13576,72,13268,Website,1998-07-07,24
+088-52-1310,Jason,Osborn,M,688 Mark Prairie Apt. 756,Denver|CO|80227|39.6667|-105.0854|990452,TEFL teacher,young_adults_male_urban,4944,58,4944,Website,2006-04-07,16
+400-77-1214,Paul,Johnson,M,5253 Christina Drives,Aurora|CO|80011|39.7378|-104.8152|389246,Student,young_adults_male_urban,1831,51,1831,Website,2000-10-09,21
+823-16-5724,Travis,Carey,M,2558 Julie Estates,Westminster|CO|80031|39.8753|-105.0345|49261,Student,young_adults_male_urban,786,53,786,Website,2002-09-06,20
+155-91-9049,Mark,Alvarez,M,059 Timothy Rue Apt. 968,Lafayette|CO|80026|39.998|-105.0963|26378,Student,young_adults_male_urban,3981,19,3981,Website,2003-06-16,19
+628-89-3146,Daniel,Hicks,M,95882 Gary Parks,Denver|CO|80235|39.6472|-105.0795|990452,Student,young_adults_male_urban,826,1,826,Website,2002-01-23,20
+779-05-5255,Robert,Miller,M,887 David Lakes Suite 212,Fountain|CO|80817|38.6996|-104.7005|27311,Visual merchandiser,young_adults_male_urban,2796,15,2796,Website,1998-06-25,24
+134-39-0390,Dennis,Tucker,M,1297 Glenn Ports,Denver|CO|80221|39.838|-104.9988|990452,Student,young_adults_male_urban,2005,30,2005,Website,2003-10-03,18
+154-75-6910,Jeff,Cooper,M,12497 Kim Skyway,Aurora|CO|80016|39.6012|-104.7394|389246,Operational investment banker,young_adults_male_urban,2287,47,2287,Website,2003-10-21,18
+613-14-2794,Christopher,Ruiz,M,13621 Holmes Parkways,Denver|CO|80241|39.9274|-104.9548|990452,Student,young_adults_male_urban,13539,63,13231,Website,2002-09-07,20
+761-27-0778,Eric,Smith,M,972 Calhoun Ports Suite 072,Fort Collins|CO|80521|40.5813|-105.1039|175625,IT sales professional,young_adults_male_urban,5117,52,5117,Website,1999-03-21,23
+625-21-4782,Shawn,Walker,M,71660 Baker Green Apt. 535,Arvada|CO|80007|39.8634|-105.1724|122111,Student,young_adults_male_urban,4061,8,4061,Website,2002-12-24,19
+631-62-0502,Andrew,Shields,M,2930 Nathan Garden Apt. 497,Littleton|CO|80123|39.6206|-105.0901|320420,Facilities manager,young_adults_male_urban,608,67,608,Website,1996-08-31,26
+296-92-4850,Emily,Archer,F,7908 Brian Corners,Parker|CO|80138|39.5102|-104.7216|84861,"Education officer, museum",adults_2550_female_urban,4437,70,4437,Website,1985-10-26,36
+282-61-3778,Stephanie,Simpson,F,0109 Jessica Harbors Apt. 604,Denver|CO|80231|39.6793|-104.8843|990452,Facilities manager,adults_2550_female_urban,588,61,588,Website,1984-10-20,37
+851-25-2290,Tara,Maldonado,F,091 Jeffery Curve,Littleton|CO|80129|39.5397|-105.0109|320420,Publishing copy,adults_2550_female_urban,12396,62,12088,Website,1994-01-17,28
+305-58-2603,Melissa,Marquez,F,023 Hall Expressway,Colorado Springs|CO|80916|38.8076|-104.7403|525713,Production engineer,adults_2550_female_urban,8392,36,8392,Website,1990-05-08,32
+196-43-5068,Melissa,Luna,F,15206 Evans Tunnel,Denver|CO|80223|39.7002|-105.0028|990452,Video editor,adults_2550_female_urban,4293,4,4293,Website,1983-12-16,38
+054-82-8778,Sharon,Tran,F,499 David Curve,Englewood|CO|80111|39.6123|-104.8799|99594,"Therapist, nutritional",adults_2550_female_urban,4654,2,4654,Website,1974-02-15,48
+060-90-3564,Julie,James,F,736 Carolyn Isle,Aurora|CO|80011|39.7378|-104.8152|389246,"Geneticist, molecular",adults_2550_female_urban,439,51,439,Website,1992-09-12,30
+789-26-5813,Tracy,Murphy,F,1715 Williams Inlet,Colorado Springs|CO|80918|38.9129|-104.7734|525713,Human resources officer,adults_2550_female_urban,3756,12,3756,Website,1995-10-03,26
+187-48-4056,Cassandra,Thomas,F,98883 Adams Ville Suite 057,Littleton|CO|80122|39.5814|-104.9557|320420,Set designer,adults_2550_female_urban,9427,62,9119,Website,1994-11-09,27
+750-13-3763,Mary,Gray,F,845 Marquez Crescent Apt. 150,Arvada|CO|80002|39.7945|-105.0984|122111,"Engineer, petroleum",adults_2550_female_urban,5684,8,5684,Website,1979-03-02,43
+215-91-8422,Deborah,Taylor,F,93656 White Neck Apt. 692,Fort Collins|CO|80528|40.4961|-105.0002|175625,Chartered legal executive (England and Wales),adults_2550_female_urban,9717,52,9409,Website,1976-11-10,45
+452-08-0225,Barbara,Cherry,F,711 Smith Village,Lafayette|CO|80026|39.998|-105.0963|26378,Lawyer,adults_2550_female_urban,4360,19,4360,Website,1989-07-10,33
+620-01-0075,Teresa,Vaughan,F,16859 Gray Mount,Aurora|CO|80010|39.7368|-104.8646|389246,Sports administrator,adults_2550_female_urban,9593,74,9285,Website,1992-01-28,30
+214-98-7618,Debra,Singleton,F,74986 Kim Harbors,Aurora|CO|80015|39.6255|-104.7874|389246,Industrial buyer,adults_2550_female_urban,593,60,593,Website,1978-07-10,44
+576-16-7638,Grace,Cain,F,79151 Eric Bypass,Denver|CO|80215|39.7435|-105.1009|990452,Estate manager/land agent,adults_2550_female_urban,3268,1,3268,Website,1980-03-31,42
+664-47-5114,Margaret,Moore,F,819 Esparza Glens Suite 838,Fort Collins|CO|80524|40.5986|-105.0581|175625,Nutritional therapist,adults_2550_female_urban,79,37,79,Website,1993-03-10,29
+365-57-5283,Julie,Arroyo,F,490 Sims Isle Apt. 493,Greeley|CO|80631|40.385|-104.6806|101464,"Research officer, government",adults_2550_female_urban,4901,72,4901,Website,1974-05-08,48
+394-91-3155,Sharon,Mcdonald,F,311 Franco Roads Apt. 051,Commerce City|CO|80022|39.8259|-104.9113|42699,"Radiographer, diagnostic",adults_2550_female_urban,6301,55,6301,Website,1973-03-08,49
+499-54-5205,Nancy,Brown,F,884 Hernandez Expressway Apt. 876,Canon City|CO|81212|38.4451|-105.2178|29742,Seismic interpreter,adults_2550_female_urban,255,27,255,Website,1975-10-11,46
+742-84-0364,Elizabeth,Fox,F,5242 Brown Streets,Arvada|CO|80002|39.7945|-105.0984|122111,Location manager,adults_2550_female_urban,4559,35,4559,Website,1982-03-09,40
+116-07-3781,Emily,Knapp,F,58888 Morrison Meadow,Denver|CO|80236|39.6535|-105.0376|990452,"Doctor, general practice",adults_2550_female_urban,370,71,370,Website,1980-01-05,42
+630-80-1628,Kristin,Mcknight,F,4513 Scott Terrace Apt. 551,Denver|CO|80231|39.6793|-104.8843|990452,"Producer, radio",adults_2550_female_urban,3186,1,3186,Website,1979-01-14,43
+466-86-4609,Maria,Trujillo,F,5716 Jacobs Shoal,Colorado Springs|CO|80907|38.876|-104.817|525713,Art gallery manager,adults_2550_female_urban,1228,21,1228,Website,1973-08-28,49
+202-68-9101,Amy,Phelps,F,2313 Davis Ridge Apt. 810,Boulder|CO|80304|40.0375|-105.2771|120932,Energy engineer,adults_2550_female_urban,2762,29,2762,Website,1977-04-23,45
+461-90-1302,Samantha,Ponce,F,794 Newton Causeway,Denver|CO|80204|39.734|-105.0259|990452,Financial manager,adults_2550_female_urban,6644,1,6644,Website,1983-09-06,39
+037-97-6829,Michelle,Harris,F,499 Leslie Bridge Apt. 669,Aurora|CO|80012|39.6987|-104.8377|389246,Video editor,adults_2550_female_urban,858,47,858,Website,1983-03-29,39
+059-40-0288,Marilyn,King,F,710 Michael Mall,Parker|CO|80138|39.5102|-104.7216|84861,Mental health nurse,adults_2550_female_urban,496,70,496,Website,1975-05-21,47
+150-43-1304,Jennifer,Smith,F,18104 Rhonda Corners Suite 273,Denver|CO|80221|39.838|-104.9988|990452,Sports coach,adults_2550_female_urban,638,54,638,Website,1985-02-03,37
+789-84-1522,Linda,Dillon,F,73487 Warner Cliffs,Denver|CO|80202|39.7491|-104.9946|990452,"Production designer, theatre/television/film",adults_2550_female_urban,4974,5,4974,Website,1986-06-30,36
+335-81-4679,Jennifer,Wade,F,428 Green Place Suite 916,Pueblo|CO|81007|38.387|-104.7792|151815,"Engineer, biomedical",adults_2550_female_urban,4167,6,4167,Website,1973-05-31,49
+115-50-2613,Shannon,Hughes,F,5046 Sandra Shore Apt. 827,Commerce City|CO|80022|39.8259|-104.9113|42699,Warden/ranger,adults_2550_female_urban,1296,55,1296,Website,1983-08-01,39
+616-08-6773,Christina,Cunningham,F,68921 Jennifer Shore,Denver|CO|80214|39.7436|-105.0643|990452,Dancer,adults_2550_female_urban,742,1,742,Website,1975-10-15,46
+859-69-6650,Susan,Williams,F,87479 Megan Hollow Suite 819,Pueblo|CO|81003|38.2843|-104.6234|151815,"Chemist, analytical",adults_2550_female_urban,1971,3,1971,Website,1993-03-14,29
+566-27-2926,Jillian,Fletcher,F,67440 Shane Drive,Arvada|CO|80004|39.8141|-105.1177|122111,Visual merchandiser,adults_2550_female_urban,2698,31,2698,Website,1994-10-07,27
+347-25-5120,Susan,Holden,F,8504 William Vista Suite 256,Colorado Springs|CO|80921|39.0487|-104.814|525713,Phytotherapist,adults_2550_female_urban,2074,24,2074,Website,1985-09-16,37
+495-49-4776,Alexis,Young,F,2812 Bailey Lake Apt. 948,Littleton|CO|80125|39.4845|-105.0561|320420,Bookseller,adults_2550_female_urban,2978,33,2978,Website,1972-03-05,50
+749-46-6879,Melissa,Martin,F,652 Jones Bridge,Louisville|CO|80027|39.9789|-105.1456|31034,Food technologist,adults_2550_female_urban,3333,10,3333,Website,1973-07-24,49
+613-22-3678,Holly,Rogers,F,4287 Louis Meadows,Littleton|CO|80130|39.5414|-104.9218|320420,Occupational psychologist,adults_2550_female_urban,280,45,280,Website,1993-12-18,28
+458-33-6183,Cassandra,Johnson,F,18386 Henry Divide,Denver|CO|80234|39.9108|-105.0109|990452,Psychiatric nurse,adults_2550_female_urban,3959,30,3959,Website,1994-07-15,28
+507-30-5057,Jennifer,Morgan,F,728 David Camp Apt. 326,Colorado Springs|CO|80929|38.7968|-104.6079|525713,Broadcast journalist,adults_2550_female_urban,2740,36,2740,Website,1991-11-23,30
+428-41-1787,Miranda,Velez,F,1745 Alexander Drives Suite 266,Pueblo|CO|81005|38.2352|-104.66|151815,Naval architect,adults_2550_female_urban,1197,6,1197,Website,1990-10-02,31
+504-74-7652,Diane,Morrow,F,8263 Parker Summit Apt. 511,Aurora|CO|80014|39.6662|-104.835|389246,Glass blower/designer,adults_2550_female_urban,1384,40,1384,Website,1977-04-24,45
+657-14-8057,Janice,Harris,F,6507 Joseph Cove,Littleton|CO|80121|39.6111|-104.9532|320420,Event organiser,adults_2550_female_urban,4638,33,4638,Website,1992-02-26,30
+504-78-3192,Jacqueline,Lopez,F,815 Carroll Meadows,Longmont|CO|80501|40.1779|-105.101|117461,"Designer, jewellery",adults_2550_female_urban,3279,66,3279,Website,1978-08-04,44
+373-66-7949,Kimberly,Wright,F,2274 Gomez River,Denver|CO|80246|39.7086|-104.9312|990452,Theme park manager,adults_2550_female_urban,3544,1,3544,Website,1985-08-15,37
+590-14-5473,Dawn,Walker,F,551 Sandra Drive,Denver|CO|80226|39.7123|-105.0918|990452,"Administrator, charities/voluntary organisations",adults_2550_female_urban,4516,1,4516,Website,1985-09-27,36
+880-61-6851,Jennifer,Martin,F,3356 Nguyen Avenue Suite 394,Fort Collins|CO|80528|40.4961|-105.0002|175625,"Pilot, airline",adults_2550_female_urban,335,73,335,Website,1991-07-22,31
+267-28-8578,Melody,Chase,F,79637 Donna Station Apt. 793,Denver|CO|80232|39.6895|-105.0908|990452,Volunteer coordinator,adults_2550_female_urban,963,64,963,Website,1990-12-17,31
+592-02-2228,Kelsey,Warren,F,00595 Tina Pass Suite 886,Golden|CO|80401|39.7305|-105.1915|57589,Retired,adults_50up_female_urban,646,34,646,Website,1946-09-29,75
+359-87-4937,Barbara,Hernandez,F,83294 Robinson Keys,Golden|CO|80403|39.8232|-105.2825|57589,Animal technologist,adults_50up_female_urban,161,34,161,Website,1967-10-07,54
+152-30-7139,Danielle,Ramos,F,51966 Graves Station Apt. 141,Brighton|CO|80603|39.9515|-104.7746|73471,Copy,adults_50up_female_urban,1396,39,1396,Website,1970-03-14,52
+021-91-4466,Michele,Warren,F,19495 Joshua Fork Apt. 061,Brighton|CO|80602|39.9636|-104.9072|73471,Control and instrumentation engineer,adults_50up_female_urban,1914,39,1914,Website,1966-06-20,56
+091-81-6497,Sarah,Cox,F,1441 Scott Corners,Aurora|CO|80012|39.6987|-104.8377|389246,Police officer,adults_50up_female_urban,4318,43,4318,Website,1966-09-11,56
+737-78-9074,Chelsea,Ramirez,F,2447 Crawford Island Apt. 251,Fort Collins|CO|80524|40.5986|-105.0581|175625,Retired,adults_50up_female_urban,1179,1,1179,Website,1954-10-05,67
+607-91-1771,Stephanie,Stewart,F,8164 Hogan Brook,Denver|CO|80202|39.7491|-104.9946|990452,"Surveyor, building control",adults_50up_female_urban,5245,38,5245,Website,1966-03-18,56
+194-32-0216,Pamela,White,F,65619 Wall Parkway,Aurora|CO|80014|39.6662|-104.835|389246,"Chemist, analytical",adults_50up_female_urban,3260,74,3260,Website,1966-09-08,56
+675-65-6868,Sarah,Patterson,F,39055 Rodriguez Inlet Apt. 714,Littleton|CO|80124|39.5506|-104.8972|320420,"Psychologist, occupational",adults_50up_female_urban,3128,69,3128,Website,1968-02-09,54
+129-12-1814,Tammy,Nelson,F,81080 Kyle Ferry,Greeley|CO|80631|40.385|-104.6806|101464,Police officer,adults_50up_female_urban,1452,72,1452,Website,1964-05-28,58
+617-32-6930,Amy,Jones,F,41578 Christian Crossing Suite 093,Littleton|CO|80124|39.5506|-104.8972|320420,"Research officer, trade union",adults_50up_female_urban,4194,63,4194,Website,1964-01-03,58
+725-17-7501,Alexandra,Henry,F,669 Holly Lights,Longmont|CO|80504|40.1306|-104.9504|117461,Private music teacher,adults_50up_female_urban,2434,42,2434,Website,1969-05-24,53
+188-04-7708,Yvonne,Austin,F,0031 Danny Cliff Suite 716,Fort Collins|CO|80528|40.4961|-105.0002|175625,"Designer, television/film set",adults_50up_female_urban,3958,37,3958,Website,1970-04-30,52
+584-63-3307,Regina,Hernandez,F,47187 Cathy Parkways,Littleton|CO|80128|39.5918|-105.0832|320420,Sub,adults_50up_female_urban,1378,74,1378,Website,1965-11-25,56
+289-04-7424,Kristin,Leon,F,3852 Lewis Falls Apt. 513,Canon City|CO|81212|38.4451|-105.2178|29742,Meteorologist,adults_50up_female_urban,7186,27,7186,Website,1968-06-01,54
+145-47-2464,Monica,Jensen,F,25437 Cordova Corners Suite 160,Fort Collins|CO|80528|40.4961|-105.0002|175625,Art gallery manager,adults_50up_female_urban,1850,52,1850,Website,1966-07-05,56
+451-25-6487,Chelsea,Cook,F,971 Kristine Springs Apt. 596,Denver|CO|80237|39.6431|-104.8987|990452,Waste management officer,adults_50up_female_urban,3404,56,3404,Website,1964-10-11,57
+244-87-0291,Cindy,Gonzalez,F,97757 Franklin Trafficway,Greeley|CO|80634|40.4109|-104.7541|101464,Charity officer,adults_50up_female_urban,87,72,87,Website,1970-11-17,51
+712-93-6215,Audrey,Avery,F,256 Chad Tunnel,Denver|CO|80238|39.7388|-104.4083|990452,Farm manager,adults_50up_female_urban,6255,54,6255,Website,1970-01-01,52
+780-95-4003,Tina,Baker,F,7927 Brenda Ports Apt. 120,Denver|CO|80207|39.7584|-104.9177|990452,Writer,adults_50up_female_urban,1027,1,1027,Website,1964-11-04,57
+586-11-9769,Melissa,Mcdaniel,F,8651 Miller Knolls Apt. 370,Golden|CO|80401|39.7305|-105.1915|57589,Multimedia programmer,adults_50up_female_urban,7434,34,7434,Website,1966-04-04,56
+039-83-0395,Jessica,Smith,F,730 Andrew Alley Apt. 686,Aurora|CO|80017|39.6948|-104.7881|389246,Network engineer,adults_50up_female_urban,158,40,158,Website,1969-07-03,53
+263-87-4310,Jodi,Griffin,F,965 Holloway Mall,Pueblo|CO|81003|38.2843|-104.6234|151815,Commercial horticulturist,adults_50up_female_urban,1836,36,1836,Website,1968-03-07,54
+458-93-6004,Jennifer,Williams,F,833 Sutton Meadow,Broomfield|CO|80021|39.8854|-105.1139|92337,"Scientist, product/process development",adults_50up_female_urban,1938,57,1938,Website,1963-09-30,58
+505-98-4121,Emily,James,F,958 Lauren Creek,Denver|CO|80232|39.6895|-105.0908|990452,Energy engineer,adults_50up_female_urban,6178,1,6178,Website,1964-10-15,57
+822-86-0782,Nancy,Campbell,F,70327 Brian Crescent Apt. 116,Denver|CO|80235|39.6472|-105.0795|990452,Building surveyor,adults_50up_female_urban,3036,16,3036,Website,1965-03-31,57
+810-99-0393,Jessica,Stone,F,9153 Aaron Falls,Denver|CO|80204|39.734|-105.0259|990452,Retired,adults_50up_female_urban,487,1,487,Website,1946-04-01,76
+856-89-0196,Tammy,Crawford,F,29986 Madeline Stravenue Apt. 660,Colorado Springs|CO|80921|39.0487|-104.814|525713,"Psychotherapist, dance movement",adults_50up_female_urban,4789,24,4789,Website,1964-09-26,57
+394-41-9275,Leah,Shannon,F,15361 Melendez Harbor Suite 035,Littleton|CO|80129|39.5397|-105.0109|320420,Child psychotherapist,adults_50up_female_urban,1316,67,1316,Website,1970-11-13,51
+659-37-0388,Darlene,Walton,F,67655 May Branch Suite 544,Longmont|CO|80503|40.1559|-105.1624|117461,"Conservation officer, nature",adults_50up_female_urban,1182,66,1182,Website,1970-10-16,51
+332-09-2426,Angela,Smith,F,582 Lindsey Burgs Apt. 585,Parker|CO|80138|39.5102|-104.7216|84861,Chartered certified accountant,adults_50up_female_urban,11596,70,11288,Website,1964-12-04,57
+261-59-8762,Caroline,Harris,F,11381 Koch Fork Apt. 138,Parker|CO|80138|39.5102|-104.7216|84861,Recruitment consultant,adults_50up_female_urban,272,70,272,Website,1968-10-25,53
+599-96-3523,Ruth,Banks,F,21041 Rodriguez Plain Suite 081,Denver|CO|80234|39.9108|-105.0109|990452,Retired,adults_50up_female_urban,1473,1,1473,Website,1955-12-06,66
+127-13-1529,Jessica,Stark,F,42153 Campos Center Suite 693,Denver|CO|80215|39.7435|-105.1009|990452,Minerals surveyor,adults_50up_female_urban,4723,1,4723,Website,1965-02-06,57
+502-53-1046,Deanna,Rodgers,F,225 Teresa Gateway Suite 242,Parker|CO|80134|39.4895|-104.8447|84861,"Scientist, water quality",adults_50up_female_urban,2501,70,2501,Website,1964-12-04,57
+797-68-0847,Jennifer,Roy,F,10610 Price Coves,Aurora|CO|80010|39.7368|-104.8646|389246,Multimedia specialist,adults_50up_female_urban,321,47,321,Website,1967-10-24,54
+578-63-7798,Amanda,English,F,2077 Debra Stravenue Suite 417,Loveland|CO|80537|40.3849|-105.0916|82751,"Conservation officer, historic buildings",adults_50up_female_urban,12378,76,12070,Website,1970-08-27,52
+061-06-0198,Yvonne,Collier,F,31698 Julia Cove,Westminster|CO|80031|39.8753|-105.0345|49261,Retired,adults_50up_female_urban,2133,53,2133,Website,1945-11-28,76
+208-38-3041,Cynthia,Williams,F,587 Hall Mission,Westminster|CO|80031|39.8753|-105.0345|49261,Land/geomatics surveyor,adults_50up_female_urban,3085,62,3085,Website,1970-06-29,52
+058-05-0359,Lisa,Glover,F,18301 Jackson Ford Apt. 393,Denver|CO|80249|39.7783|-104.7556|990452,Student,young_adults_female_urban,3319,1,3319,Website,2003-04-24,19
+678-09-6308,Amy,Rodriguez,F,709 Megan Points Apt. 010,Denver|CO|80236|39.6535|-105.0376|990452,Student,young_adults_female_urban,2888,1,2888,Website,2002-09-09,20
+651-40-3139,Melissa,Perry,F,6802 Frank Drive,Littleton|CO|80130|39.5414|-104.9218|320420,Chief Technology Officer,young_adults_female_urban,128,63,128,Website,1997-04-04,25
+491-89-1851,Susan,Russo,F,7117 Gilmore Forest,Parker|CO|80138|39.5102|-104.7216|84861,Accommodation manager,young_adults_female_urban,2560,70,2560,Website,1998-06-20,24
+480-09-3182,Andrea,Lopez,F,04897 Carl Brooks Suite 513,Denver|CO|80206|39.7331|-104.9524|990452,Museum/gallery conservator,young_adults_female_urban,2489,64,2489,Website,1999-01-28,23
+365-41-7475,Gail,Sanchez,F,1985 Katie Shoal Suite 302,Denver|CO|80212|39.7683|-105.0493|990452,"Scientist, audiological",young_adults_female_urban,4863,1,4863,Website,1998-03-02,24
+317-37-0217,Ellen,Hill,F,7847 Bethany Fields,Boulder|CO|80303|39.9914|-105.2392|120932,Student,young_adults_female_urban,4091,29,4091,Website,2006-09-07,16
+650-63-3745,Jennifer,Rodriguez,F,855 Raymond Lights,Denver|CO|80247|39.6971|-104.8819|990452,Tour manager,young_adults_female_urban,3766,1,3766,Website,2004-03-10,18
+868-21-3484,Marie,Bennett,F,122 Gwendolyn Garden Suite 611,Aurora|CO|80015|39.6255|-104.7874|389246,Student,young_adults_female_urban,4660,60,4660,Website,1999-07-06,23
+641-13-5284,Laurie,Hayes,F,6375 Chad Trail Apt. 977,Englewood|CO|80111|39.6123|-104.8799|99594,Human resources officer,young_adults_female_urban,5521,9,5521,Website,1997-05-15,25
+845-96-4788,Ashley,Hale,F,763 Russell Ports Suite 625,Aurora|CO|80012|39.6987|-104.8377|389246,Student,young_adults_female_urban,1202,47,1202,Website,2004-10-11,17
+081-79-9525,Rachel,Garcia,F,976 Lawrence Flat Apt. 946,Longmont|CO|80504|40.1306|-104.9504|117461,Student,young_adults_female_urban,3846,27,3846,Website,2004-07-11,18
+733-94-7240,Jennifer,White,F,7981 Lamb Garden,Boulder|CO|80301|40.0497|-105.2143|120932,Public relations officer,young_adults_female_urban,1680,29,1680,Website,1999-03-28,23
+466-47-1296,Rebecca,Nguyen,F,696 Jeffrey Islands Suite 382,Colorado Springs|CO|80916|38.8076|-104.7403|525713,Student,young_adults_female_urban,13750,12,13442,Website,2004-11-13,17
+557-68-2835,Deborah,Tate,F,702 Jenkins Prairie,Denver|CO|80211|39.7665|-105.0204|990452,Student,young_adults_female_urban,1647,71,1647,Website,2002-03-26,20
+033-21-5793,Anne,Jackson,F,550 Shannon Light Apt. 549,Arvada|CO|80003|39.8286|-105.0655|122111,Student,young_adults_female_urban,3339,31,3339,Website,2000-01-29,22
+724-38-4635,Christina,Chang,F,88543 Tate Summit Suite 558,Colorado Springs|CO|80921|39.0487|-104.814|525713,Student,young_adults_female_urban,4587,36,4587,Website,2002-05-06,20
+875-76-4904,Dana,Perkins,F,2717 Singleton Crest Suite 975,Denver|CO|80221|39.838|-104.9988|990452,Student,young_adults_female_urban,83,1,83,Website,2002-12-25,19
+399-19-5058,Abigail,Mason,F,7938 Stephanie Drive,Denver|CO|80205|39.759|-104.9661|990452,"Therapist, music",young_adults_female_urban,3611,30,3611,Website,1996-05-27,26
+523-62-5595,Kelly,Campbell,F,1784 Alex Center,Aurora|CO|80014|39.6662|-104.835|389246,Systems analyst,young_adults_female_urban,4941,60,4941,Website,2003-02-25,19
+662-29-1795,Tanya,Perez,F,314 Spencer Land,Fort Collins|CO|80521|40.5813|-105.1039|175625,Student,young_adults_female_urban,429,50,429,Website,2005-01-20,17
+482-24-8998,Tara,Alvarez,F,9224 Gina Flat,Canon City|CO|81212|38.4451|-105.2178|29742,"Geologist, engineering",young_adults_female_urban,2308,27,2308,Website,1998-10-31,23
+441-18-2887,Jessica,Rivers,F,6566 Avila Squares Suite 782,Pueblo|CO|81007|38.387|-104.7792|151815,"Lecturer, further education",young_adults_female_urban,2982,6,2982,Website,1997-03-23,25
+777-73-9516,Alexandra,Duffy,F,2176 Joseph Mission,Greeley|CO|80634|40.4109|-104.7541|101464,Student,young_adults_female_urban,1020,72,1020,Website,2001-05-10,21
+242-99-9256,Andrea,Sullivan,F,34702 Sheppard Fall,Denver|CO|80226|39.7123|-105.0918|990452,Student,young_adults_female_urban,2038,1,2038,Website,2004-03-29,18
+152-58-8908,Christine,Gray,F,37936 Payne Prairie Suite 903,Colorado Springs|CO|80904|38.8533|-104.8595|525713,Counselling psychologist,young_adults_female_urban,2841,18,2841,Website,1997-04-10,25
+691-88-0225,Nicole,Hernandez,F,788 Knight Row,Greeley|CO|80634|40.4109|-104.7541|101464,Student,young_adults_female_urban,4680,72,4680,Website,2003-05-24,19
+310-04-0632,Angela,Curry,F,01360 Johnson Stravenue Suite 399,Colorado Springs|CO|80906|38.7902|-104.8199|525713,Student,young_adults_female_urban,562,49,562,Website,1999-09-22,23
+395-99-9866,Jennifer,Gomez,F,856 Joseph Drive,Boulder|CO|80303|39.9914|-105.2392|120932,Student,young_adults_female_urban,202,29,202,Website,2000-11-21,21
+881-03-7925,Angela,Moore,F,8309 Joy Passage,Loveland|CO|80538|40.4262|-105.09|82751,Student,young_adults_female_urban,13406,42,13098,Website,2002-04-18,20
+693-53-4992,Victoria,Anderson,F,087 Tonya Circle Suite 137,Denver|CO|80204|39.734|-105.0259|990452,Student,young_adults_female_urban,3066,54,3066,Website,2006-03-09,16
+289-66-3182,John,Jones,M,58327 David Rue,Allenspark|CO|80510|40.2268|-105.5201|420,Air traffic controller,adults_2550_male_rural,5376,14,5376,Call Center,1994-01-23,28
+819-25-3955,Kevin,Nelson,M,0344 Katherine View Apt. 823,Denver|CO|80215|39.7435|-105.1009|990452,Civil Service administrator,adults_2550_male_urban,2572,1,2572,Call Center,1977-10-08,44
+310-77-3204,Matthew,Petersen,M,6850 Montgomery Rest,Fort Collins|CO|80525|40.5384|-105.0547|175625,Electronics engineer,adults_2550_male_urban,2616,50,2616,Call Center,1994-07-07,28
+045-65-8448,James,Carter,M,48979 Dawson Crossroad,Denver|CO|80237|39.6431|-104.8987|990452,Learning mentor,adults_2550_male_urban,876,1,876,Call Center,1984-11-25,37
+564-54-2218,Jerry,Stephens,M,53446 Jackson Stravenue,Denver|CO|80247|39.6971|-104.8819|990452,Child psychotherapist,adults_2550_male_urban,7576,38,7576,Call Center,1986-07-10,36
+798-56-8654,Joshua,Moreno,M,071 Robert Wall Suite 835,Littleton|CO|80121|39.6111|-104.9532|320420,Astronomer,adults_2550_male_urban,3439,62,3439,Call Center,1991-01-27,31
+365-52-8523,Terry,Everett,M,13836 Trujillo Islands Suite 242,Denver|CO|80203|39.7313|-104.9811|990452,Accounting technician,adults_2550_male_urban,3187,7,3187,Call Center,1976-09-02,46
+691-48-0833,James,Taylor,M,3753 Bright Shore Apt. 357,Englewood|CO|80112|39.5805|-104.9011|99594,"Lighting technician, broadcasting/film/video",adults_2550_male_urban,5243,2,5243,Call Center,1994-04-18,28
+141-84-6123,Brian,Rogers,M,1516 Walker Groves Suite 821,Denver|CO|80227|39.6667|-105.0854|990452,Chiropractor,adults_2550_male_urban,2998,1,2998,Call Center,1985-04-02,37
+115-66-6026,Christopher,Pena,M,415 Thompson Fall Apt. 518,Fort Collins|CO|80528|40.4961|-105.0002|175625,"Solicitor, Scotland",adults_2550_male_urban,2104,37,2104,Call Center,1972-01-08,50
+324-77-7207,Daniel,Wilson,M,826 Cindy Run,Aurora|CO|80012|39.6987|-104.8377|389246,Race relations officer,adults_2550_male_urban,3501,51,3501,Call Center,1988-03-21,34
+807-41-0391,John,Reid,M,97534 Bailey Route Apt. 262,Parker|CO|80138|39.5102|-104.7216|84861,Dentist,adults_2550_male_urban,5128,70,5128,Call Center,1987-12-24,34
+473-08-8364,Christopher,Moore,M,02519 Holmes Views,Parker|CO|80138|39.5102|-104.7216|84861,Biomedical scientist,adults_2550_male_urban,457,70,457,Call Center,1974-09-26,47
+224-40-1095,Nicholas,Green,M,133 Nguyen Lock,Longmont|CO|80503|40.1559|-105.1624|117461,Radio broadcast assistant,adults_2550_male_urban,2423,42,2423,Call Center,1981-07-09,41
+229-51-4447,Eric,Berger,M,216 Sandoval Unions,Louisville|CO|80027|39.9789|-105.1456|31034,Primary school teacher,adults_2550_male_urban,1707,10,1707,Call Center,1975-02-18,47
+383-12-7411,Christopher,Rodriguez,M,89908 Curtis Viaduct Apt. 482,Denver|CO|80212|39.7683|-105.0493|990452,"Doctor, hospital",adults_2550_male_urban,334,32,334,Call Center,1993-10-31,28
+713-14-5033,Colin,Davis,M,404 Green Underpass,Longmont|CO|80501|40.1779|-105.101|117461,Social researcher,adults_2550_male_urban,4923,66,4923,Call Center,1986-07-02,36
+674-91-9058,Dustin,Reyes,M,402 Zimmerman Shores,Castle Rock|CO|80104|39.3926|-104.8602|67419,Plant breeder/geneticist,adults_2550_male_urban,3249,17,3249,Call Center,1983-01-20,39
+871-15-0521,Anthony,Gonzalez,M,563 John Manor,Denver|CO|80238|39.7388|-104.4083|990452,Optometrist,adults_2550_male_urban,3225,13,3225,Call Center,1981-03-17,41
+204-78-3148,Craig,Collins,M,78970 Rachel Vista,Parker|CO|80138|39.5102|-104.7216|84861,"Pharmacist, hospital",adults_2550_male_urban,1246,70,1246,Call Center,1986-11-19,35
+636-12-1049,James,Gibson,M,61181 Gary Dale,Parker|CO|80138|39.5102|-104.7216|84861,Homeopath,adults_2550_male_urban,2548,48,2548,Call Center,1977-10-06,44
+482-53-2584,Jack,Smith,M,84619 Eric Divide,Littleton|CO|80128|39.5918|-105.0832|320420,Fashion designer,adults_2550_male_urban,3581,33,3581,Call Center,1991-12-23,30
+241-79-1325,Keith,Salinas,M,85126 Gallagher Summit Suite 362,Denver|CO|80220|39.7312|-104.9129|990452,Oceanographer,adults_2550_male_urban,3893,1,3893,Call Center,1993-12-26,28
+207-19-1687,Lawrence,Dalton,M,6359 Lori Ways Apt. 356,Commerce City|CO|80022|39.8259|-104.9113|42699,Prison officer,adults_2550_male_urban,13051,55,12743,Call Center,1989-01-13,33
+731-58-8149,Timothy,Snyder,M,51613 Holmes Islands Apt. 998,Littleton|CO|80120|39.5994|-105.0044|320420,"Chemist, analytical",adults_2550_male_urban,4251,44,4251,Call Center,1984-04-26,38
+266-98-6827,David,Dixon,M,231 White Causeway Suite 065,Aurora|CO|80018|39.7102|-104.7071|389246,"Lecturer, further education",adults_2550_male_urban,5126,43,5126,Call Center,1989-04-03,33
+600-12-1590,William,Hicks,M,2735 Murphy Vista Apt. 906,Englewood|CO|80112|39.5805|-104.9011|99594,Warehouse manager,adults_2550_male_urban,11701,9,11393,Call Center,1973-04-14,49
+890-84-4888,Gary,Chambers,M,5848 Johnson Ways Suite 162,Denver|CO|80205|39.759|-104.9661|990452,"Scientist, marine",adults_2550_male_urban,3023,16,3023,Call Center,1983-04-04,39
+096-83-7157,Wesley,Foster,M,5971 Walker Square Suite 934,Westminster|CO|80031|39.8753|-105.0345|49261,Cartographer,adults_2550_male_urban,3337,53,3337,Call Center,1976-04-13,46
+662-11-5196,Mark,Wilkinson,M,2780 Harris Row,Colorado Springs|CO|80930|38.8289|-104.5269|525713,Child psychotherapist,adults_2550_male_urban,3824,41,3824,Call Center,1995-01-07,27
+464-90-9656,Raymond,Ward,M,82836 Pacheco Radial Apt. 416,Arvada|CO|80004|39.8141|-105.1177|122111,Magazine features editor,adults_2550_male_urban,797,8,797,Call Center,1972-01-27,50
+851-68-0089,Jonathan,Blair,M,361 Lewis Cliffs,Fountain|CO|80817|38.6996|-104.7005|27311,Theatre director,adults_2550_male_urban,2865,15,2865,Call Center,1972-11-18,49
+198-99-0223,David,Kennedy,M,9448 Jack Path,Denver|CO|80246|39.7086|-104.9312|990452,"Sales professional, IT",adults_2550_male_urban,13620,16,13312,Call Center,1994-07-26,28
+885-32-8175,Larry,Moore,M,6070 Edwards Bridge,Aurora|CO|80013|39.6575|-104.7846|389246,Museum/gallery curator,adults_2550_male_urban,2320,60,2320,Call Center,1975-05-23,47
+233-07-4987,Joseph,Williams,M,9464 Sierra Centers Suite 245,Commerce City|CO|80022|39.8259|-104.9113|42699,Secretary/administrator,adults_2550_male_urban,490,55,490,Call Center,1974-10-23,47
+810-87-7041,Raymond,Watson,M,90704 Turner Loop,Golden|CO|80401|39.7305|-105.1915|57589,Homeopath,adults_2550_male_urban,886,34,886,Call Center,1972-02-02,50
+301-42-7995,Ricky,Jackson,M,5684 Charles Station Apt. 893,Aurora|CO|80016|39.6012|-104.7394|389246,Counsellor,adults_2550_male_urban,3504,40,3504,Call Center,1976-01-25,46
+561-13-9198,Matthew,Malone,M,40812 Scott Road,Denver|CO|80218|39.7327|-104.9717|990452,"Optician, dispensing",adults_2550_male_urban,441,1,441,Call Center,1983-09-14,39
+843-66-6396,Brandon,Ellis,M,218 Brown Valley Apt. 653,Denver|CO|80236|39.6535|-105.0376|990452,Financial planner,adults_2550_male_urban,10636,64,10328,Call Center,1995-08-03,27
+167-42-1611,Douglas,Johnson,M,49490 Wells Falls Apt. 604,Colorado Springs|CO|80951|38.8881|-104.6556|525713,Communications engineer,adults_2550_male_urban,2232,36,2232,Call Center,1991-05-27,31
+627-46-0148,Gregory,Gibson,M,528 Griffin Shore,Parker|CO|80138|39.5102|-104.7216|84861,Archivist,adults_2550_male_urban,4376,70,4376,Call Center,1978-03-05,44
+404-47-5379,Jeremy,Avery,M,575 Green Club Suite 921,Denver|CO|80202|39.7491|-104.9946|990452,"Administrator, sports",adults_2550_male_urban,3883,18,3883,Call Center,1989-09-27,32
+494-72-8118,Curtis,Gomez,M,4847 Dudley Light,Golden|CO|80403|39.8232|-105.2825|57589,"Teacher, secondary school",adults_2550_male_urban,1280,34,1280,Call Center,1976-05-08,46
+856-59-7491,Shawn,Ellis,M,28295 Eric Place Apt. 306,Littleton|CO|80124|39.5506|-104.8972|320420,"Scientist, water quality",adults_2550_male_urban,3606,63,3606,Call Center,1982-06-06,40
+365-47-6630,Robert,Thomas,M,429 Travis Groves,Durango|CO|81301|37.2874|-107.8617|36051,"Teacher, adult education",adults_2550_male_urban,5275,28,5275,Call Center,1974-05-21,48
+030-08-9582,Robert,Simpson,M,35652 Lisa Key,Littleton|CO|80124|39.5506|-104.8972|320420,Osteopath,adults_2550_male_urban,725,75,725,Call Center,1980-12-11,41
+830-20-5003,Jeremiah,Hurley,M,8765 Eric Wells Apt. 015,Denver|CO|80247|39.6971|-104.8819|990452,Dispensing optician,adults_2550_male_urban,7127,3,7127,Call Center,1981-09-29,40
+755-69-8441,Juan,Prince,M,2061 Hogan Station,Arvada|CO|80007|39.8634|-105.1724|122111,Tree surgeon,adults_2550_male_urban,714,31,714,Call Center,1994-10-08,27
+309-19-2398,William,Edwards,M,18409 Benjamin Mountains,Brighton|CO|80601|39.943|-104.7866|73471,Pensions consultant,adults_2550_male_urban,1758,35,1758,Call Center,1971-11-13,50
+142-32-8907,Bryan,Phillips,M,458 Padilla Flats Suite 129,Broomfield|CO|80023|39.9619|-105.0148|92337,Hydrologist,adults_2550_male_urban,3522,57,3522,Call Center,1987-02-02,35
+716-94-7855,Riley,Sanchez,M,877 Edward Center,Aurora|CO|80019|39.7656|-104.7069|389246,"Engineer, structural",adults_2550_male_urban,4100,74,4100,Call Center,1979-03-13,43
+516-72-8392,Bryan,Decker,M,9973 Long Courts,Littleton|CO|80125|39.4845|-105.0561|320420,Volunteer coordinator,adults_2550_male_urban,3987,67,3987,Call Center,1984-11-07,37
+696-74-6278,Marcus,Peck,M,7570 Amber Glens,Loveland|CO|80537|40.3849|-105.0916|82751,"Administrator, arts",adults_2550_male_urban,5579,77,5579,Call Center,1975-02-16,47
+542-88-7859,Matthew,Valdez,M,8491 Joseph Wells,Denver|CO|80220|39.7312|-104.9129|990452,"Teacher, adult education",adults_2550_male_urban,1056,1,1056,Call Center,1987-06-19,35
+065-42-8806,Brent,Walker,M,2919 Elizabeth Walks,Denver|CO|80218|39.7327|-104.9717|990452,Technical brewer,adults_2550_male_urban,6906,64,6906,Call Center,1973-09-25,48
+144-24-9555,Christopher,Williams,M,6503 Jenny Vista,Denver|CO|80206|39.7331|-104.9524|990452,"Programmer, systems",adults_2550_male_urban,3297,1,3297,Call Center,1992-04-17,30
+812-59-4592,Harry,Velasquez,M,215 Gonzalez Manors Suite 006,Denver|CO|80212|39.7683|-105.0493|990452,"Producer, television/film/video",adults_2550_male_urban,1900,23,1900,Call Center,1989-11-22,32
+598-10-2313,Stephen,Gordon,M,91413 Haynes Plains Suite 769,Loveland|CO|80537|40.3849|-105.0916|82751,Ranger/warden,adults_2550_male_urban,1980,77,1980,Call Center,1983-04-30,39
+839-49-3961,Jonathan,Reed,M,767 Hester Crest,Longmont|CO|80503|40.1559|-105.1624|117461,"Nurse, adult",adults_2550_male_urban,2555,42,2555,Call Center,1987-09-23,34
+013-33-3366,Austin,Williams,M,6568 Julie Locks Apt. 599,Durango|CO|81303|37.1156|-107.8909|36051,Transport planner,adults_2550_male_urban,254,28,254,Call Center,1987-05-30,35
+873-59-4755,Todd,Willis,M,14973 Gardner Springs Suite 863,Denver|CO|80204|39.734|-105.0259|990452,Merchant navy officer,adults_2550_male_urban,575,58,575,Call Center,1994-04-04,28
+300-56-4074,James,Riddle,M,09643 Julie Locks,Arvada|CO|80003|39.8286|-105.0655|122111,Aeronautical engineer,adults_2550_male_urban,3166,31,3166,Call Center,1979-06-14,43
+500-98-2489,Michael,Knox,M,541 Samantha Rapids Apt. 793,Denver|CO|80234|39.9108|-105.0109|990452,Seismic interpreter,adults_2550_male_urban,946,54,946,Call Center,1975-08-06,47
+180-01-0381,Kenneth,Edwards,M,63198 Burns Ford,Fort Collins|CO|80526|40.5473|-105.1076|175625,Editorial assistant,adults_2550_male_urban,267,37,267,Call Center,1991-06-12,31
+491-66-8260,Travis,Taylor,M,834 Leslie Extension Apt. 421,Denver|CO|80204|39.734|-105.0259|990452,Public librarian,adults_2550_male_urban,347,71,347,Call Center,1983-12-13,38
+111-56-7265,Cory,George,M,31021 William Causeway,Colorado Springs|CO|80921|39.0487|-104.814|525713,Pensions consultant,adults_2550_male_urban,13968,61,13660,Call Center,1992-04-13,30
+446-46-5251,Bruce,Snyder,M,857 Vincent Spurs Apt. 267,Pueblo|CO|81004|38.2441|-104.6278|151815,Psychiatric nurse,adults_2550_male_urban,2481,6,2481,Call Center,1972-06-22,50
+078-86-5601,Brian,Boone,M,195 Kenneth Falls,Littleton|CO|80129|39.5397|-105.0109|320420,Psychiatrist,adults_2550_male_urban,41,22,41,Call Center,1992-08-27,30
+655-58-9244,Ryan,Ramsey,M,9726 Thomas Burgs,Denver|CO|80204|39.734|-105.0259|990452,"Teacher, special educational needs",adults_50up_male_urban,365,1,365,Call Center,1954-01-09,68
+353-07-5614,Joseph,Gibson,M,5868 Benjamin Crescent Suite 945,Denver|CO|80212|39.7683|-105.0493|990452,Paramedic,adults_50up_male_urban,112,1,112,Call Center,1959-01-25,63
+397-37-8451,Carl,Rodriguez,M,22300 Jessica Way Apt. 072,Denver|CO|80222|39.671|-104.9279|990452,Press sub,adults_50up_male_urban,3906,64,3906,Call Center,1960-12-23,61
+290-63-6679,Timothy,Harris,M,03885 Ricardo Springs,Colorado Springs|CO|80922|38.905|-104.6982|525713,Recruitment consultant,adults_50up_male_urban,3620,21,3620,Call Center,1961-09-14,61
+238-23-1865,Donald,Kaufman,M,01917 Jones Path Suite 990,Denver|CO|80215|39.7435|-105.1009|990452,Town planner,adults_50up_male_urban,2157,11,2157,Call Center,1969-11-17,52
+067-52-9668,Steven,Miranda,M,21022 Andrade Walk,Greeley|CO|80631|40.385|-104.6806|101464,IT technical support officer,adults_50up_male_urban,4663,72,4663,Call Center,1966-10-29,55
+438-56-8161,Brian,Thompson,M,0160 Ronald Greens Apt. 656,Littleton|CO|80126|39.5437|-104.9691|320420,Geographical information systems officer,adults_50up_male_urban,5478,33,5478,Call Center,1969-10-27,52
+410-64-9377,Aaron,George,M,065 Thomas River Suite 585,Denver|CO|80206|39.7331|-104.9524|990452,Careers information officer,adults_50up_male_urban,3134,1,3134,Call Center,1962-05-04,60
+030-83-5285,Matthew,Martinez,M,474 Conner Circles Suite 201,Aurora|CO|80014|39.6662|-104.835|389246,Civil Service fast streamer,adults_50up_male_urban,3075,74,3075,Call Center,1965-05-05,57
+141-54-4943,John,Winters,M,39693 Leon Plain Apt. 712,Colorado Springs|CO|80920|38.9497|-104.767|525713,"Engineer, biomedical",adults_50up_male_urban,1140,18,1140,Call Center,1970-02-24,52
+298-10-5126,Brent,Phillips,M,21878 Williams Fork Apt. 003,Denver|CO|80229|39.8671|-104.9227|990452,Retired,adults_50up_male_urban,834,54,834,Call Center,1946-12-17,75
+175-95-0112,Calvin,Jimenez,M,8890 George Courts Apt. 547,Aurora|CO|80018|39.7102|-104.7071|389246,"Designer, blown glass/stained glass",adults_50up_male_urban,4791,51,4791,Call Center,1960-02-15,62
+798-77-5127,Matthew,Graham,M,90755 Christopher Village,Colorado Springs|CO|80908|39.0237|-104.6933|525713,Newspaper journalist,adults_50up_male_urban,295,12,295,Call Center,1963-03-27,59
+201-61-0948,Andrew,Taylor,M,5413 Lopez Mission Suite 201,Greeley|CO|80634|40.4109|-104.7541|101464,Careers information officer,adults_50up_male_urban,6196,68,6196,Call Center,1967-03-09,55
+221-95-1833,Anthony,Williams,M,9055 Penny Keys,Castle Rock|CO|80108|39.4455|-104.853|67419,Games developer,adults_50up_male_urban,2440,17,2440,Call Center,1959-09-09,63
+802-96-2342,Richard,Grant,M,517 Theresa Trafficway,Aurora|CO|80014|39.6662|-104.835|389246,Adult guidance worker,adults_50up_male_urban,1807,47,1807,Call Center,1959-06-30,63
+417-83-6294,Casey,Taylor,M,81938 Peter Divide,Denver|CO|80220|39.7312|-104.9129|990452,Fish farm manager,adults_50up_male_urban,438,32,438,Call Center,1962-09-28,59
+049-41-1634,James,Phillips,M,24846 Stacy Lakes Suite 585,Boulder|CO|80302|40.0172|-105.2851|120932,Structural engineer,adults_50up_male_urban,3894,29,3894,Call Center,1965-01-21,57
+884-27-3007,James,Abbott,M,479 Hayden Villages Apt. 240,Denver|CO|80214|39.7436|-105.0643|990452,Broadcast presenter,adults_50up_male_urban,1616,54,1616,Call Center,1962-05-23,60
+555-69-7394,Juan,Duncan,M,9429 Williams Vista Apt. 048,Denver|CO|80202|39.7491|-104.9946|990452,Tourism officer,adults_50up_male_urban,3387,58,3387,Call Center,1967-08-14,55
+337-93-1113,Anthony,Stout,M,65535 Cantrell Mall,Arvada|CO|80007|39.8634|-105.1724|122111,Hospital pharmacist,adults_50up_male_urban,2606,31,2606,Call Center,1967-01-04,55
+511-53-8659,Daniel,Gross,M,535 Brandon Ferry Suite 040,Denver|CO|80223|39.7002|-105.0028|990452,"Engineer, maintenance (IT)",adults_50up_male_urban,3465,30,3465,Call Center,1966-04-17,56
+786-80-3730,Andrew,Coleman,M,1599 Michelle Inlet,Denver|CO|80260|39.8672|-105.0041|990452,Administrator,adults_50up_male_urban,2659,46,2659,Call Center,1965-05-24,57
+614-43-6846,Christopher,Young,M,43226 Bryant Fall,Westminster|CO|80030|39.8302|-105.037|49261,Air cabin crew,adults_50up_male_urban,4212,53,4212,Call Center,1969-05-27,53
+682-34-5154,Anthony,Jackson,M,46613 Maxwell Views Suite 010,Denver|CO|80222|39.671|-104.9279|990452,Arts administrator,adults_50up_male_urban,447,23,447,Call Center,1970-09-04,52
+806-72-5690,Robert,Goodwin,M,0969 Roach Divide,Denver|CO|80206|39.7331|-104.9524|990452,"Doctor, hospital",adults_50up_male_urban,4627,1,4627,Call Center,1966-03-24,56
+543-28-1649,Mitchell,Ramos,M,63826 Matthew Junctions Apt. 051,Aurora|CO|80019|39.7656|-104.7069|389246,Animal technologist,adults_50up_male_urban,2102,51,2102,Call Center,1965-05-27,57
+671-32-0344,Michael,Cantrell,M,07035 Timothy Causeway,Denver|CO|80214|39.7436|-105.0643|990452,"Presenter, broadcasting",adults_50up_male_urban,3568,1,3568,Call Center,1965-01-25,57
+513-69-5130,Brian,Duncan,M,59218 Bishop Causeway,Aurora|CO|80045|39.7467|-104.8384|389246,Dance movement psychotherapist,adults_50up_male_urban,116,74,116,Call Center,1966-01-28,56
+682-12-3904,Joshua,Kim,M,498 Allen Glens,Lafayette|CO|80026|39.998|-105.0963|26378,Clinical biochemist,adults_50up_male_urban,3601,19,3601,Call Center,1962-08-03,60
+885-58-0771,Joshua,Frazier,M,0604 Rice Rapid Apt. 599,Aurora|CO|80011|39.7378|-104.8152|389246,Chartered legal executive (England and Wales),adults_50up_male_urban,1271,47,1271,Call Center,1959-11-29,62
+151-59-9712,Shawn,Carr,M,839 Vaughn Centers Suite 036,Denver|CO|80216|39.7835|-104.9669|990452,Quality manager,adults_50up_male_urban,2214,5,2214,Call Center,1970-11-07,51
+683-65-4238,Vincent,Stevens,M,7580 Cody Manors,Colorado Springs|CO|80908|39.0237|-104.6933|525713,Banker,adults_50up_male_urban,652,61,652,Call Center,1962-12-08,59
+268-77-8906,Mathew,Campbell,M,52415 Castillo Haven,Denver|CO|80207|39.7584|-104.9177|990452,"Pharmacist, community",adults_50up_male_urban,1289,59,1289,Call Center,1970-09-18,52
+282-67-9967,Charles,Taylor,M,03910 Becky Via Suite 568,Longmont|CO|80501|40.1779|-105.101|117461,Student,young_adults_male_urban,3782,1,3782,Call Center,2004-09-10,18
+224-30-7399,Wayne,Wilson,M,644 Stevenson Ramp,Denver|CO|80202|39.7491|-104.9946|990452,Sales executive,young_adults_male_urban,3938,27,3938,Call Center,2004-01-22,18
+806-68-0771,Brandon,Hebert,M,0945 Shannon Passage,Denver|CO|80222|39.671|-104.9279|990452,Student,young_adults_male_urban,1440,1,1440,Call Center,2002-01-17,20
+851-43-5898,Michael,Matthews,M,2915 Sullivan Ways,Denver|CO|80238|39.7388|-104.4083|990452,Student,young_adults_male_urban,2538,56,2538,Call Center,2004-02-23,18
+535-37-0039,Ethan,Blanchard,M,9901 Jamie Valleys,Brighton|CO|80601|39.943|-104.7866|73471,Dancer,young_adults_male_urban,2724,35,2724,Call Center,1999-03-01,23
+628-59-9824,Austin,Thompson,M,10487 Carrillo Viaduct,Englewood|CO|80112|39.5805|-104.9011|99594,Student,young_adults_male_urban,626,9,626,Call Center,2004-04-13,18
+120-54-4116,Joshua,Rios,M,0249 Williams Courts,Parker|CO|80138|39.5102|-104.7216|84861,Records manager,young_adults_male_urban,2429,70,2429,Call Center,1997-11-22,24
+212-24-3753,Timothy,Ford,M,65209 Loretta Hollow,Fort Collins|CO|80524|40.5986|-105.0581|175625,Student,young_adults_male_urban,2498,37,2498,Call Center,2004-03-12,18
+091-84-6033,Robert,Cole,M,01865 Gonzalez Falls Apt. 043,Fort Collins|CO|80525|40.5384|-105.0547|175625,Chief of Staff,young_adults_male_urban,528,37,528,Call Center,2001-02-11,21
+433-85-7875,Eric,Terry,M,0080 Carl Center Suite 820,Denver|CO|80215|39.7435|-105.1009|990452,Student,young_adults_male_urban,629,16,629,Call Center,2000-03-10,22
+002-36-9038,Tyler,Smith,M,38499 Ramirez Run Suite 517,Colorado Springs|CO|80917|38.886|-104.7399|525713,"Surveyor, land/geomatics",young_adults_male_urban,4382,18,4382,Call Center,2004-10-20,17
+283-95-1822,Jamie,Meyer,F,486 Anderson Ports Apt. 458,Allenspark|CO|80510|40.2268|-105.5201|420,"Surveyor, planning and development",adults_2550_female_rural,1890,14,1890,Call Center,1979-08-14,43
+854-93-0863,Sandra,Johnson,F,66601 Peter Gateway,Littleton|CO|80127|39.592|-105.1328|320420,Archaeologist,adults_2550_female_urban,2585,75,2585,Call Center,1995-08-28,27
+558-71-0084,Briana,Gutierrez,F,842 Jeffrey Springs,Greeley|CO|80634|40.4109|-104.7541|101464,Environmental manager,adults_2550_female_urban,4522,68,4522,Call Center,1974-11-01,47
+099-70-2651,Rebecca,Clark,F,85136 John Forge,Denver|CO|80234|39.9108|-105.0109|990452,"Engineer, chemical",adults_2550_female_urban,3151,1,3151,Call Center,1975-07-27,47
+730-05-7148,Carrie,Williams,F,39283 Adam Trace,Denver|CO|80227|39.6667|-105.0854|990452,Economist,adults_2550_female_urban,9555,13,9247,Call Center,1971-05-15,51
+757-71-5955,Alexandra,Curry,F,264 Danielle Hollow Suite 370,Fort Collins|CO|80528|40.4961|-105.0002|175625,"Conservator, museum/gallery",adults_2550_female_urban,2137,73,2137,Call Center,1986-11-09,35
+883-57-3520,Cindy,Copeland,F,526 Reed Lakes Apt. 625,Littleton|CO|80127|39.592|-105.1328|320420,Higher education lecturer,adults_2550_female_urban,2476,75,2476,Call Center,1981-02-16,41
+073-17-0348,Karen,Johnson,F,244 Hernandez Burg Apt. 458,Aurora|CO|80014|39.6662|-104.835|389246,Primary school teacher,adults_2550_female_urban,1098,60,1098,Call Center,1972-09-10,50
+147-36-9625,Ariel,Barnes,F,323 Watts Brook Suite 021,Littleton|CO|80120|39.5994|-105.0044|320420,"Secretary, company",adults_2550_female_urban,5175,63,5175,Call Center,1973-09-18,49
+818-95-5341,Priscilla,Wilson,F,374 Megan Extension Suite 011,Aurora|CO|80014|39.6662|-104.835|389246,Air traffic controller,adults_2550_female_urban,2864,51,2864,Call Center,1976-04-09,46
+788-51-4058,Megan,Potts,F,3190 Wood Canyon Suite 795,Denver|CO|80229|39.8671|-104.9227|990452,Child psychotherapist,adults_2550_female_urban,4592,1,4592,Call Center,1979-03-29,43
+199-18-3930,Amber,Lang,F,14037 Sheila Mill Apt. 361,Denver|CO|80233|39.9015|-104.9407|990452,Contractor,adults_2550_female_urban,1668,20,1668,Call Center,1973-08-17,49
+819-06-6663,Martha,Smith,F,8849 Dustin Expressway Apt. 531,Denver|CO|80206|39.7331|-104.9524|990452,Acupuncturist,adults_2550_female_urban,1359,1,1359,Call Center,1975-09-04,47
+070-46-7877,Christina,Owens,F,654 Jennifer Lakes Apt. 874,Colorado Springs|CO|80922|38.905|-104.6982|525713,"Conservator, museum/gallery",adults_2550_female_urban,3589,73,3589,Call Center,1985-07-13,37
+866-28-5956,Alyssa,Brown,F,2362 Robinson Cliffs Apt. 760,Denver|CO|80222|39.671|-104.9279|990452,Chief Technology Officer,adults_2550_female_urban,3092,59,3092,Call Center,1991-11-06,30
+105-23-4478,Paula,Hughes,F,85797 Alex Streets,Fort Collins|CO|80524|40.5986|-105.0581|175625,Surgeon,adults_2550_female_urban,1223,14,1223,Call Center,1979-08-13,43
+112-34-2629,Gwendolyn,Wheeler,F,33021 Reid Common Apt. 121,Littleton|CO|80130|39.5414|-104.9218|320420,"Radiographer, therapeutic",adults_2550_female_urban,3850,45,3850,Call Center,1981-01-26,41
+302-99-1683,Melissa,Gutierrez,F,894 Fuentes Fords Apt. 322,Commerce City|CO|80022|39.8259|-104.9113|42699,Tree surgeon,adults_2550_female_urban,219,60,219,Call Center,1988-04-02,34
+188-38-8957,Sandra,Davis,F,1002 Vargas Brooks Suite 046,Denver|CO|80221|39.838|-104.9988|990452,Bonds trader,adults_2550_female_urban,4492,16,4492,Call Center,1989-09-08,33
+460-31-6623,Jackie,Lopez,F,7230 William Mountains,Canon City|CO|81212|38.4451|-105.2178|29742,Environmental education officer,adults_2550_female_urban,12133,27,11825,Call Center,1988-06-26,34
+328-06-0707,Brittany,Walker,F,843 Mandy Rue,Denver|CO|80223|39.7002|-105.0028|990452,Airline pilot,adults_2550_female_urban,358,7,358,Call Center,1983-06-26,39
+481-46-5749,Kara,Schultz,F,735 Timothy Crest,Arvada|CO|80003|39.8286|-105.0655|122111,Production manager,adults_2550_female_urban,3573,8,3573,Call Center,1996-02-09,26
+580-07-7563,Kimberly,Graham,F,44946 Jennifer Skyway,Denver|CO|80234|39.9108|-105.0109|990452,Warden/ranger,adults_2550_female_urban,414,46,414,Call Center,1971-10-19,50
+723-92-9282,Natalie,Mason,F,40995 Atkinson Grove Suite 342,Englewood|CO|80111|39.6123|-104.8799|99594,Information systems manager,adults_2550_female_urban,4479,2,4479,Call Center,1982-07-24,40
+132-48-7121,Sarah,Blackburn,F,36431 Lewis River,Greeley|CO|80631|40.385|-104.6806|101464,"Nurse, children's",adults_2550_female_urban,2124,68,2124,Call Center,1973-01-14,49
+051-44-1762,Alexis,Jones,F,88040 Gardner Bypass,Lafayette|CO|80026|39.998|-105.0963|26378,Mudlogger,adults_2550_female_urban,9569,19,9261,Call Center,1974-07-18,48
+281-06-1562,Laura,Hoffman,F,87364 Sosa Locks Apt. 186,Denver|CO|80228|39.6888|-105.156|990452,"Radiographer, therapeutic",adults_2550_female_urban,4699,13,4699,Call Center,1987-11-12,34
+796-03-7483,Candace,Cole,F,58281 Wiggins Grove Apt. 765,Denver|CO|80227|39.6667|-105.0854|990452,"Designer, furniture",adults_2550_female_urban,11497,11,11189,Call Center,1983-07-17,39
+098-92-5914,Casey,Smith,F,76285 Collins Junctions,Aurora|CO|80010|39.7368|-104.8646|389246,Water engineer,adults_2550_female_urban,1885,47,1885,Call Center,1994-01-07,28
+064-80-7157,Theresa,Pham,F,69515 Chen Trail,Denver|CO|80218|39.7327|-104.9717|990452,Telecommunications researcher,adults_2550_female_urban,2122,1,2122,Call Center,1994-07-17,28
+137-76-8314,Angela,Curtis,F,20825 Coffey Mews Suite 706,Englewood|CO|80112|39.5805|-104.9011|99594,Museum/gallery exhibitions officer,adults_2550_female_urban,1031,2,1031,Call Center,1992-12-11,29
+794-97-9627,Michelle,Parker,F,620 Susan Lock Apt. 584,Boulder|CO|80305|39.9807|-105.2531|120932,Bookseller,adults_2550_female_urban,1453,29,1453,Call Center,1990-03-29,32
+179-28-3247,Holly,May,F,48193 Cynthia Estates,Denver|CO|80216|39.7835|-104.9669|990452,Media planner,adults_2550_female_urban,2527,44,2527,Call Center,1971-07-31,51
+416-33-1086,Ashley,Hamilton,F,5689 Edward Brooks Apt. 796,Denver|CO|80204|39.734|-105.0259|990452,"Engineer, technical sales",adults_2550_female_urban,1388,5,1388,Call Center,1986-09-06,36
+709-63-6334,Lisa,Hamilton,F,768 Eric Mountains Apt. 927,Vail|CO|81657|39.6512|-106.3234|5581,Arboriculturist,adults_2550_female_urban,1231,20,1231,Call Center,1989-09-27,32
+566-62-3287,Sarah,Hart,F,5025 Rosario Drive Suite 811,Littleton|CO|80123|39.6206|-105.0901|320420,Scientific laboratory technician,adults_2550_female_urban,2156,33,2156,Call Center,1990-12-27,31
+838-13-6997,Julia,Terry,F,53136 Miller Knoll Apt. 416,Durango|CO|81301|37.2874|-107.8617|36051,"Conservator, museum/gallery",adults_2550_female_urban,3236,28,3236,Call Center,1984-04-15,38
+897-80-2409,Kelsey,Allen,F,20422 Theresa Mountain,Denver|CO|80237|39.6431|-104.8987|990452,"Doctor, hospital",adults_2550_female_urban,1157,4,1157,Call Center,1982-12-30,39
+863-38-5895,Danielle,Long,F,5377 Steven Lane Apt. 562,Fort Collins|CO|80526|40.5473|-105.1076|175625,"Runner, broadcasting/film/video",adults_2550_female_urban,10040,37,9732,Call Center,1992-10-30,29
+745-06-4537,Gina,Brown,F,62389 Horton Haven,Boulder|CO|80305|39.9807|-105.2531|120932,Operational researcher,adults_2550_female_urban,1438,29,1438,Call Center,1987-10-25,34
+237-29-0518,Yolanda,Johns,F,013 Colton Meadow,Colorado Springs|CO|80917|38.886|-104.7399|525713,"Scientist, research (life sciences)",adults_2550_female_urban,127,21,127,Call Center,1974-12-27,47
+796-80-9159,Anne,Snyder,F,6794 Michael Parkway Apt. 260,Pueblo|CO|81007|38.387|-104.7792|151815,"Accountant, chartered",adults_2550_female_urban,4772,6,4772,Call Center,1974-01-29,48
+184-25-2287,Shelby,Nguyen,F,13545 Robyn Common,Denver|CO|80236|39.6535|-105.0376|990452,Barista,adults_2550_female_urban,6039,1,6039,Call Center,1982-07-03,40
+368-11-9477,Lori,Lawrence,F,8961 Thomas Fort Apt. 784,Denver|CO|80206|39.7331|-104.9524|990452,Hydrogeologist,adults_2550_female_urban,1080,54,1080,Call Center,1974-10-06,47
+728-91-0298,Sandra,Campbell,F,4159 Timothy Summit Suite 816,Denver|CO|80216|39.7835|-104.9669|990452,Health service manager,adults_2550_female_urban,4340,1,4340,Call Center,1973-07-18,49
+329-66-2443,Sandy,Williams,F,5449 Coleman Burgs,Denver|CO|80216|39.7835|-104.9669|990452,Bookseller,adults_2550_female_urban,469,59,469,Call Center,1994-10-13,27
+854-90-8470,Danielle,Myers,F,688 Bowers Mountains Apt. 135,Aurora|CO|80019|39.7656|-104.7069|389246,Air broker,adults_2550_female_urban,1578,40,1578,Call Center,1995-08-15,27
+368-43-7227,Kelsey,Garcia,F,31763 Melissa Bypass Suite 660,Denver|CO|80228|39.6888|-105.156|990452,Operations geologist,adults_2550_female_urban,13134,1,12826,Call Center,1986-11-03,35
+118-24-2712,Tracy,Miller,F,14972 Gross Manor,Colorado Springs|CO|80903|38.8388|-104.8145|525713,Actor,adults_2550_female_urban,3830,18,3830,Call Center,1992-02-24,30
+115-57-7254,Heather,Conrad,F,38128 Brown Crescent Apt. 032,Fort Collins|CO|80521|40.5813|-105.1039|175625,Estate agent,adults_2550_female_urban,1133,37,1133,Call Center,1982-09-15,40
+674-07-3469,Jaclyn,Ramirez,F,539 Waters Course,Colorado Springs|CO|80913|38.73|-104.7536|525713,Music tutor,adults_2550_female_urban,3994,21,3994,Call Center,1989-01-31,33
+782-29-8102,Rachel,Rodriguez,F,16721 Charles Dam Apt. 591,Denver|CO|80241|39.9274|-104.9548|990452,Glass blower/designer,adults_2550_female_urban,1483,1,1483,Call Center,1975-05-10,47
+011-87-0952,Natalie,Cameron,F,89872 Garcia Pike,Aurora|CO|80015|39.6255|-104.7874|389246,Farm manager,adults_2550_female_urban,4230,74,4230,Call Center,1985-11-11,36
+725-64-9764,Olivia,Saunders,F,023 Sara Throughway Apt. 817,Denver|CO|80220|39.7312|-104.9129|990452,Phytotherapist,adults_2550_female_urban,2015,1,2015,Call Center,1992-11-15,29
+182-06-2378,Kimberly,Bush,F,0181 Ford Islands Apt. 096,Fort Collins|CO|80528|40.4961|-105.0002|175625,"Development worker, community",adults_2550_female_urban,822,37,822,Call Center,1983-05-08,39
+576-70-1083,Kara,Moyer,F,63621 Lowery Knolls Apt. 757,Denver|CO|80221|39.838|-104.9988|990452,Retail buyer,adults_2550_female_urban,3753,1,3753,Call Center,1983-04-14,39
+255-80-4634,Amy,Tyler,F,6271 Crystal Street,Aurora|CO|80013|39.6575|-104.7846|389246,Glass blower/designer,adults_2550_female_urban,2688,60,2688,Call Center,1991-10-24,30
+061-11-3179,Amy,Oconnor,F,551 Romero Knolls Suite 390,Aurora|CO|80019|39.7656|-104.7069|389246,"Programmer, systems",adults_2550_female_urban,9929,47,9621,Call Center,1991-07-19,31
+363-01-2115,Karen,Buck,F,1322 Michael Port Suite 455,Arvada|CO|80002|39.7945|-105.0984|122111,"Pilot, airline",adults_2550_female_urban,146,31,146,Call Center,1985-12-19,36
+795-57-1758,Kelly,Chambers,F,5600 Liu Ridge Apt. 221,Fort Collins|CO|80526|40.5473|-105.1076|175625,Bookseller,adults_2550_female_urban,309,37,309,Call Center,1993-12-14,28
+500-35-8486,Kathryn,Brown,F,42288 Austin Locks Apt. 461,Allenspark|CO|80510|40.2268|-105.5201|420,Animal technologist,adults_50up_female_rural,1019,14,1019,Call Center,1970-12-22,51
+146-11-1300,Gabriela,Rosario,F,63620 Michelle Place Suite 381,Allenspark|CO|80510|40.2268|-105.5201|420,Magazine journalist,adults_50up_female_rural,10543,14,10235,Call Center,1969-02-23,53
+102-60-3962,Teresa,Davis,F,69591 Rivera Mews,Colorado Springs|CO|80908|39.0237|-104.6933|525713,Community education officer,adults_50up_female_urban,3384,41,3384,Call Center,1966-08-03,56
+007-77-6948,Connie,Duncan,F,13216 Sullivan Meadows,Denver|CO|80219|39.6956|-105.0341|990452,Early years teacher,adults_50up_female_urban,2013,1,2013,Call Center,1964-07-10,58
+789-41-7724,Michelle,Brooks,F,23333 Kristen Mills Apt. 621,Littleton|CO|80130|39.5414|-104.9218|320420,Midwife,adults_50up_female_urban,5253,69,5253,Call Center,1970-10-07,51
+193-52-2123,Michelle,Summers,F,91869 Gonzalez Freeway Apt. 094,Denver|CO|80246|39.7086|-104.9312|990452,Outdoor activities/education manager,adults_50up_female_urban,4862,1,4862,Call Center,1967-11-23,54
+641-67-2605,Jennifer,Rodriguez,F,938 Sheena Pines,Denver|CO|80202|39.7491|-104.9946|990452,Commercial horticulturist,adults_50up_female_urban,2428,1,2428,Call Center,1970-06-27,52
+582-75-8216,Terri,Weaver,F,2985 Miller Fields Apt. 344,Denver|CO|80204|39.734|-105.0259|990452,Herpetologist,adults_50up_female_urban,4763,77,4763,Call Center,1968-02-23,54
+803-83-4568,Samantha,Meyers,F,71938 Wilcox Mill,Littleton|CO|80127|39.592|-105.1328|320420,Retired,adults_50up_female_urban,1759,63,1759,Call Center,1947-01-16,75
+167-48-0745,Kelly,Hopkins,F,534 Edwards Landing Apt. 679,Colorado Springs|CO|80902|38.7536|-104.8063|525713,"Producer, television/film/video",adults_50up_female_urban,1793,41,1793,Call Center,1969-03-17,53
+450-07-6204,Virginia,Wells,F,76322 Taylor Corner,Denver|CO|80236|39.6535|-105.0376|990452,Trade union research officer,adults_50up_female_urban,1512,5,1512,Call Center,1966-08-11,56
+305-73-4984,Linda,Norton,F,90711 Ortega Extensions,Littleton|CO|80122|39.5814|-104.9557|320420,Neurosurgeon,adults_50up_female_urban,5978,33,5978,Call Center,1968-01-27,54
+044-21-5374,Jaclyn,Smith,F,87153 John Overpass Suite 857,Arvada|CO|80002|39.7945|-105.0984|122111,Product manager,adults_50up_female_urban,3577,31,3577,Call Center,1966-12-15,55
+053-75-1575,Victoria,Guzman,F,8328 Griffith Fords,Longmont|CO|80503|40.1559|-105.1624|117461,Clinical embryologist,adults_50up_female_urban,3173,66,3173,Call Center,1970-04-18,52
+370-80-3997,Kimberly,Miller,F,593 Elizabeth Port Apt. 708,Parker|CO|80138|39.5102|-104.7216|84861,Trade union research officer,adults_50up_female_urban,434,70,434,Call Center,1967-01-30,55
+525-84-6805,Sarah,Williamson,F,20927 Armstrong Circle Apt. 586,Denver|CO|80219|39.6956|-105.0341|990452,"Programmer, systems",adults_50up_female_urban,12328,1,12020,Call Center,1968-04-08,54
+702-33-7215,Natalie,Smith,F,05011 Dylan Ville,Denver|CO|80234|39.9108|-105.0109|990452,Call centre manager,adults_50up_female_urban,810,58,810,Call Center,1969-09-24,52
+152-29-2963,Lori,Fleming,F,519 Vaughn Meadows,Arvada|CO|80005|39.8422|-105.1097|122111,Intelligence analyst,adults_50up_female_urban,1607,8,1607,Call Center,1965-05-26,57
+389-71-3298,Karen,Cox,F,7036 Liu Path Apt. 673,Englewood|CO|80113|39.6405|-104.9614|99594,Adult guidance worker,adults_50up_female_urban,9582,2,9274,Call Center,1966-04-14,56
+285-69-2065,Sarah,Simmons,F,767 Thomas Fork,Vail|CO|81657|39.6512|-106.3234|5581,"Psychotherapist, dance movement",adults_50up_female_urban,4467,20,4467,Call Center,1968-11-17,53
+066-74-3686,Lisa,Williams,F,593 William Run Suite 699,Denver|CO|80222|39.671|-104.9279|990452,Medical secretary,adults_50up_female_urban,4553,1,4553,Call Center,1969-02-23,53
+447-59-6127,Jennifer,Boyd,F,533 Carla Pike,Denver|CO|80224|39.688|-104.9108|990452,"Conservator, museum/gallery",adults_50up_female_urban,2502,1,2502,Call Center,1959-03-13,63
+285-42-0677,Dana,Harris,F,2720 Le Fall,Pueblo|CO|81005|38.2352|-104.66|151815,Translator,adults_50up_female_urban,2299,6,2299,Call Center,1964-02-20,58
+181-32-7489,Jacqueline,Smith,F,073 Sherry Center Apt. 561,Denver|CO|80229|39.8671|-104.9227|990452,Primary school teacher,adults_50up_female_urban,3733,1,3733,Call Center,1970-05-09,52
+797-65-8278,Kayla,Beasley,F,83351 Patrick Meadow Apt. 224,Colorado Springs|CO|80917|38.886|-104.7399|525713,Chiropodist,adults_50up_female_urban,493,41,493,Call Center,1966-06-04,56
+080-29-7263,Ashley,Garrett,F,417 Patricia Island,Denver|CO|80239|39.7878|-104.8288|990452,Web designer,adults_50up_female_urban,4316,1,4316,Call Center,1967-08-26,55
+622-38-3171,Marie,Hughes,F,77856 Escobar Spurs,Denver|CO|80205|39.759|-104.9661|990452,"Solicitor, Scotland",adults_50up_female_urban,208,13,208,Call Center,1964-06-25,58
+307-21-8546,Christine,Willis,F,628 Cheryl Roads Apt. 032,Denver|CO|80224|39.688|-104.9108|990452,Government social research officer,young_adults_female_urban,13694,1,13386,Call Center,2000-01-20,22
+624-58-9424,Yolanda,Lee,F,85067 Cunningham Landing,Denver|CO|80216|39.7835|-104.9669|990452,Commercial art gallery manager,young_adults_female_urban,3348,38,3348,Call Center,2002-02-14,20
+793-44-9125,Kelly,Walsh,F,47978 Haynes Trail,Durango|CO|81303|37.1156|-107.8909|36051,Pharmacologist,young_adults_female_urban,5138,45,5138,Call Center,1998-08-05,24
+055-25-9907,Linda,Wolf,F,314 Franklin Alley,Denver|CO|80235|39.6472|-105.0795|990452,Student,young_adults_female_urban,4808,23,4808,Call Center,2005-11-24,16
+607-65-4180,Rachel,Jimenez,F,01401 Elizabeth Prairie Apt. 842,Englewood|CO|80111|39.6123|-104.8799|99594,Student,young_adults_female_urban,4235,9,4235,Call Center,1999-11-15,22
+078-01-4861,Robyn,Morris,F,865 Rebecca Mountain,Colorado Springs|CO|80930|38.8289|-104.5269|525713,Student,young_adults_female_urban,1310,41,1310,Call Center,2001-09-24,20
+862-11-0491,Samantha,Neal,F,360 Parker Flats Suite 855,Colorado Springs|CO|80920|38.9497|-104.767|525713,Industrial buyer,young_adults_female_urban,1736,41,1736,Call Center,2003-04-17,19
+055-05-7483,Janet,Cross,F,0910 Jenna Lake,Greeley|CO|80634|40.4109|-104.7541|101464,Actor,young_adults_female_urban,138,54,138,Call Center,1996-10-21,25
+649-70-7394,Stacie,Dennis,F,2645 Joseph Mountain,Denver|CO|80260|39.8672|-105.0041|990452,Student,young_adults_female_urban,3230,1,3230,Call Center,2006-06-06,16
+590-74-7315,Nancy,Randall,F,4318 George Fields Apt. 451,Denver|CO|80237|39.6431|-104.8987|990452,Student,young_adults_female_urban,2592,1,2592,Call Center,2004-08-31,18
+441-32-4542,Michelle,Gutierrez,F,2765 Jenkins Hill,Denver|CO|80206|39.7331|-104.9524|990452,Student,young_adults_female_urban,13089,16,12781,Call Center,2003-02-14,19
+174-89-3492,Bonnie,Garcia,F,0318 Carr Trail,Castle Rock|CO|80109|39.3643|-104.9014|67419,Student,young_adults_female_urban,1691,21,1691,Call Center,2002-02-08,20
+322-18-2229,Christian,Watson,M,0703 Lawson Locks Apt. 949,Greeley|CO|80634|40.4109|-104.7541|101464,IT sales professional,adults_2550_male_urban,4069,68,4069,Third Party Advertisement,1983-03-07,39
+351-90-9273,Robert,Phillips,M,193 Harvey Street Apt. 789,Greeley|CO|80634|40.4109|-104.7541|101464,Environmental consultant,adults_2550_male_urban,2363,43,2363,Third Party Advertisement,1971-06-18,51
+011-65-3376,Spencer,Turner,M,90520 Sheila Ridge,Denver|CO|80216|39.7835|-104.9669|990452,Television/film/video producer,adults_2550_male_urban,3310,23,3310,Third Party Advertisement,1978-02-13,44
+031-39-7373,Carlos,Becker,M,76138 Owens Burg Suite 112,Parker|CO|80138|39.5102|-104.7216|84861,Environmental education officer,adults_2550_male_urban,13690,70,13382,Third Party Advertisement,1987-05-16,35
+846-39-5075,Mark,Gardner,M,78999 Jeff Run Suite 537,Englewood|CO|80110|39.6463|-105.0092|99594,Agricultural engineer,adults_2550_male_urban,4560,9,4560,Third Party Advertisement,1987-10-20,34
+637-10-5285,Justin,Martinez,M,155 Lisa Points,Fountain|CO|80817|38.6996|-104.7005|27311,Publishing rights manager,adults_2550_male_urban,2155,15,2155,Third Party Advertisement,1982-06-10,40
+391-68-2404,Mark,Adkins,M,514 Ruben Well,Fort Collins|CO|80525|40.5384|-105.0547|175625,Personal assistant,adults_2550_male_urban,907,51,907,Third Party Advertisement,1972-03-11,50
+225-53-9869,Robert,Dunn,M,72720 Sarah Tunnel Apt. 070,Littleton|CO|80123|39.6206|-105.0901|320420,Video editor,adults_2550_male_urban,1913,69,1913,Third Party Advertisement,1992-04-15,30
+350-06-7611,Nicholas,Edwards,M,937 Jonathan Estates,Broomfield|CO|80023|39.9619|-105.0148|92337,Science writer,adults_2550_male_urban,1579,27,1579,Third Party Advertisement,1987-10-13,34
+298-27-3121,Craig,Pierce,M,5239 Burnett Loaf Apt. 660,Denver|CO|80202|39.7491|-104.9946|990452,"Civil engineer, consulting",adults_2550_male_urban,3448,1,3448,Third Party Advertisement,1978-12-24,43
+192-78-9905,Craig,Johnson,M,531 Castro Plaza Apt. 487,Denver|CO|80222|39.671|-104.9279|990452,Consulting civil engineer,adults_2550_male_urban,1833,30,1833,Third Party Advertisement,1990-11-15,31
+669-49-0932,Jared,Kaufman,M,11878 Jackson Locks Suite 406,Denver|CO|80249|39.7783|-104.7556|990452,Race relations officer,adults_2550_male_urban,2715,7,2715,Third Party Advertisement,1981-07-04,41
+216-98-6371,Daniel,Nelson,M,9780 Carlson Corners,Durango|CO|81301|37.2874|-107.8617|36051,Orthoptist,adults_2550_male_urban,2045,28,2045,Third Party Advertisement,1980-08-22,42
+278-55-8421,Rodney,Ramirez,M,920 Bruce Throughway,Aurora|CO|80014|39.6662|-104.835|389246,"Radiographer, diagnostic",adults_2550_male_urban,5132,51,5132,Third Party Advertisement,1991-10-21,30
+763-31-3502,Scott,Dawson,M,7288 Moore Center Suite 733,Denver|CO|80228|39.6888|-105.156|990452,Sub,adults_2550_male_urban,4007,23,4007,Third Party Advertisement,1972-11-07,49
+215-09-8761,John,Williams,M,068 Henry Overpass Apt. 792,Canon City|CO|81212|38.4451|-105.2178|29742,Energy engineer,adults_2550_male_urban,5526,27,5526,Third Party Advertisement,1971-03-19,51
+664-21-8697,Adam,Ochoa,M,72425 Randall Spring Suite 119,Littleton|CO|80123|39.6206|-105.0901|320420,Video editor,adults_2550_male_urban,3026,22,3026,Third Party Advertisement,1971-03-25,51
+304-90-7320,William,Bell,M,0498 Joshua Curve,Parker|CO|80138|39.5102|-104.7216|84861,Podiatrist,adults_2550_male_urban,1333,48,1333,Third Party Advertisement,1973-04-20,49
+277-48-7931,Juan,Floyd,M,9291 Cook Run,Denver|CO|80209|39.7074|-104.9686|990452,"Sound technician, broadcasting/film/video",adults_2550_male_urban,1040,1,1040,Third Party Advertisement,1984-06-17,38
+810-72-4226,Steven,Mccall,M,2166 Douglas Square Suite 059,Aurora|CO|80010|39.7368|-104.8646|389246,Materials engineer,adults_2550_male_urban,1059,26,1059,Third Party Advertisement,1984-06-03,38
+142-94-2758,Brian,Morgan,M,89893 Eric Village,Parker|CO|80134|39.4895|-104.8447|84861,"Teacher, early years/pre",adults_2550_male_urban,192,70,192,Third Party Advertisement,1995-02-28,27
+224-95-4298,Benjamin,Henson,M,7755 Elizabeth Plain,Parker|CO|80134|39.4895|-104.8447|84861,Hydrogeologist,adults_2550_male_urban,3425,70,3425,Third Party Advertisement,1994-05-07,28
+343-84-1336,James,Chung,M,259 Angela Fall Suite 723,Colorado Springs|CO|80902|38.7536|-104.8063|525713,"Investment banker, corporate",adults_50up_male_urban,9914,36,9606,Third Party Advertisement,1966-12-08,55
+540-31-0884,Chase,Walker,M,90713 Tapia Motorway,Denver|CO|80233|39.9015|-104.9407|990452,Ophthalmologist,adults_50up_male_urban,707,1,707,Third Party Advertisement,1965-12-14,56
+771-60-7818,Kyle,Strickland,M,5910 Haynes Gateway,Denver|CO|80224|39.688|-104.9108|990452,Translator,adults_50up_male_urban,2911,45,2911,Third Party Advertisement,1956-09-25,65
+564-63-4488,Gary,Drake,M,030 Franklin Hill,Littleton|CO|80127|39.592|-105.1328|320420,Stage manager,adults_50up_male_urban,3079,67,3079,Third Party Advertisement,1967-05-19,55
+250-15-3168,Tyler,Watkins,M,57601 Paul Spring Apt. 748,Denver|CO|80236|39.6535|-105.0376|990452,Financial planner,adults_50up_male_urban,4543,1,4543,Third Party Advertisement,1965-12-01,56
+281-64-3168,Austin,Burch,M,4702 Fuentes Extensions,Greeley|CO|80634|40.4109|-104.7541|101464,Web designer,adults_50up_male_urban,3944,8,3944,Third Party Advertisement,1960-01-01,62
+211-68-5971,Robert,Mclaughlin,M,75935 Parsons Turnpike Apt. 282,Parker|CO|80138|39.5102|-104.7216|84861,Public relations officer,adults_50up_male_urban,2529,70,2529,Third Party Advertisement,1963-06-22,59
+109-32-0905,William,Macias,M,28523 Anderson Mission,Denver|CO|80223|39.7002|-105.0028|990452,Sub,adults_50up_male_urban,1049,1,1049,Third Party Advertisement,1966-11-11,55
+459-98-6367,Michael,Wagner,M,339 Payne Hills Suite 568,Denver|CO|80233|39.9015|-104.9407|990452,Television production assistant,adults_50up_male_urban,778,13,778,Third Party Advertisement,1964-06-04,58
+507-16-1009,Dustin,Smith,M,95400 Richard Trafficway,Littleton|CO|80130|39.5414|-104.9218|320420,"Conservation officer, historic buildings",adults_50up_male_urban,1480,69,1480,Third Party Advertisement,1967-05-28,55
+475-39-3537,Kevin,Ingram,M,4957 Evan Summit Apt. 478,Colorado Springs|CO|80926|38.6981|-104.8505|525713,Retail merchandiser,adults_50up_male_urban,231,41,231,Third Party Advertisement,1965-02-18,57
+143-65-6229,Reginald,Evans,M,56254 Kimberly Lake Apt. 605,Loveland|CO|80538|40.4262|-105.09|82751,"Sound technician, broadcasting/film/video",adults_50up_male_urban,2910,76,2910,Third Party Advertisement,1960-09-28,61
+460-85-3883,Matthew,Hardy,M,481 Vincent Harbors Apt. 946,Greeley|CO|80631|40.385|-104.6806|101464,Ergonomist,adults_50up_male_urban,1946,72,1946,Third Party Advertisement,1959-07-19,63
+469-19-9341,Daniel,Molina,M,49450 Alexis Parks,Denver|CO|80249|39.7783|-104.7556|990452,"Restaurant manager, fast food",adults_50up_male_urban,9641,64,9333,Third Party Advertisement,1969-01-26,53
+338-56-9445,Jose,Kramer,M,27679 Michael Estates,Denver|CO|80211|39.7665|-105.0204|990452,Student,young_adults_male_urban,4188,1,4188,Third Party Advertisement,2000-08-17,22
+038-46-4737,Justin,Alexander,M,22937 Houston Knolls,Parker|CO|80134|39.4895|-104.8447|84861,Phytotherapist,young_adults_male_urban,3183,70,3183,Third Party Advertisement,2004-02-24,18
+066-08-3313,William,Mendoza,M,014 James Station,Englewood|CO|80110|39.6463|-105.0092|99594,Publishing rights manager,young_adults_male_urban,9930,9,9622,Third Party Advertisement,1996-06-23,26
+265-19-1772,Kenneth,Warren,M,32818 Todd Key,Denver|CO|80247|39.6971|-104.8819|990452,"Scientist, research (life sciences)",young_adults_male_urban,4157,1,4157,Third Party Advertisement,1996-05-09,26
+672-35-4906,Steven,Garcia,M,82892 Marie Lights Apt. 627,Fort Collins|CO|80524|40.5986|-105.0581|175625,"Teacher, primary school",young_adults_male_urban,5433,50,5433,Third Party Advertisement,1999-09-24,22
+671-45-3120,Michael,Richards,M,626 Bobby Pass,Denver|CO|80231|39.6793|-104.8843|990452,Forensic scientist,young_adults_male_urban,4265,59,4265,Third Party Advertisement,2002-01-19,20
+230-58-3742,Lee,White,M,47261 Murphy Keys,Colorado Springs|CO|80929|38.7968|-104.6079|525713,"Accountant, chartered certified",young_adults_male_urban,2329,18,2329,Third Party Advertisement,1997-01-02,25
+594-33-2279,Christopher,Bryant,M,882 Tracie Station,Aurora|CO|80010|39.7368|-104.8646|389246,Student,young_adults_male_urban,5013,1,5013,Third Party Advertisement,2004-09-15,18
+119-83-0662,Terry,Villegas,M,90851 Butler Courts,Colorado Springs|CO|80930|38.8289|-104.5269|525713,Student,young_adults_male_urban,504,36,504,Third Party Advertisement,2003-08-01,19
+755-83-5163,William,Johnson,M,5300 Lynch Brooks Suite 396,Fort Collins|CO|80521|40.5813|-105.1039|175625,Community arts worker,young_adults_male_urban,3535,37,3535,Third Party Advertisement,1997-05-12,25
+041-55-8589,Douglas,Jones,M,81199 Henderson Ranch Suite 552,Loveland|CO|80538|40.4262|-105.09|82751,Student,young_adults_male_urban,967,76,967,Third Party Advertisement,2003-06-20,19
+449-48-5446,Scott,Mayo,M,68737 Amber Forks,Colorado Springs|CO|80925|38.7378|-104.6459|525713,Student,young_adults_male_urban,519,18,519,Third Party Advertisement,2004-04-13,18
+333-39-6012,Lee,Adams,M,019 Matthews Unions,Durango|CO|81301|37.2874|-107.8617|36051,Student,young_adults_male_urban,4740,28,4740,Third Party Advertisement,2001-06-12,21
+879-08-4808,Paul,Snyder,M,79246 Moore Island Apt. 545,Denver|CO|80236|39.6535|-105.0376|990452,"Engineer, broadcasting (operations)",young_adults_male_urban,2662,1,2662,Third Party Advertisement,2002-08-29,20
+553-56-6641,Zachary,Thomas,M,0117 Julia Trafficway Suite 261,Parker|CO|80138|39.5102|-104.7216|84861,Student,young_adults_male_urban,4568,70,4568,Third Party Advertisement,2006-04-26,16
+104-10-6533,Wesley,Turner,M,946 Robert Locks,Fort Collins|CO|80521|40.5813|-105.1039|175625,Student,young_adults_male_urban,2265,52,2265,Third Party Advertisement,2001-09-18,21
+716-70-1796,Miguel,Thomas,M,350 Lewis Station Apt. 920,Colorado Springs|CO|80919|38.9268|-104.8464|525713,"Engineer, automotive",young_adults_male_urban,7325,24,7325,Third Party Advertisement,1999-01-24,23
+891-70-5758,Joshua,Wagner,M,0418 William Bypass Suite 873,Englewood|CO|80112|39.5805|-104.9011|99594,Student,young_adults_male_urban,4094,2,4094,Third Party Advertisement,2003-12-19,18
+195-03-8283,Jonathan,Kennedy,M,0967 White Pass Suite 338,Denver|CO|80203|39.7313|-104.9811|990452,Herpetologist,young_adults_male_urban,1947,23,1947,Third Party Advertisement,2005-02-08,17
+385-43-4459,Joseph,Holland,M,9636 Shannon Views Apt. 320,Denver|CO|80222|39.671|-104.9279|990452,Student,young_adults_male_urban,4171,1,4171,Third Party Advertisement,2004-05-18,18
+549-74-2771,Bruce,Mcpherson,M,400 Turner Ferry Apt. 859,Denver|CO|80210|39.679|-104.9631|990452,Student,young_adults_male_urban,2609,1,2609,Third Party Advertisement,2001-05-09,21
+750-46-8829,Christopher,Flores,M,636 Kevin Groves,Denver|CO|80227|39.6667|-105.0854|990452,Student,young_adults_male_urban,4533,64,4533,Third Party Advertisement,2004-01-29,18
+658-17-5541,James,Griffith,M,013 Daniel Spring,Colorado Springs|CO|80922|38.905|-104.6982|525713,Student,young_adults_male_urban,4976,36,4976,Third Party Advertisement,2005-01-18,17
+893-46-7047,Cameron,Madden,M,44184 Jones Mount Apt. 565,Denver|CO|80236|39.6535|-105.0376|990452,Student,young_adults_male_urban,471,44,471,Third Party Advertisement,2001-01-11,21
+181-92-0063,Bradley,Moreno,M,331 Norton Cliff Suite 060,Canon City|CO|81212|38.4451|-105.2178|29742,Student,young_adults_male_urban,2324,27,2324,Third Party Advertisement,2002-07-16,20
+765-86-3879,Frank,Boyer,M,55482 Scott Dale Apt. 901,Colorado Springs|CO|80921|39.0487|-104.814|525713,Student,young_adults_male_urban,451,12,451,Third Party Advertisement,2003-04-14,19
+225-44-0590,Ronald,Mcmillan,M,657 Austin Island Apt. 938,Denver|CO|80204|39.734|-105.0259|990452,Quarry manager,young_adults_male_urban,5563,1,5563,Third Party Advertisement,2000-01-01,22
+873-37-6816,Timothy,Curtis,M,20635 Clifford Plaza,Englewood|CO|80111|39.6123|-104.8799|99594,"Investment banker, corporate",young_adults_male_urban,4081,9,4081,Third Party Advertisement,2002-06-03,20
+667-12-2937,Kyle,Barton,M,409 Danny Well Apt. 801,Parker|CO|80138|39.5102|-104.7216|84861,Student,young_adults_male_urban,2958,48,2958,Third Party Advertisement,1999-05-07,23
+852-52-3334,James,Douglas,M,147 Collier Track,Longmont|CO|80503|40.1559|-105.1624|117461,Counsellor,young_adults_male_urban,3427,42,3427,Third Party Advertisement,2004-06-16,18
+652-96-3552,Ryan,Mcclure,M,424 Macdonald Ways,Pueblo|CO|81005|38.2352|-104.66|151815,Student,young_adults_male_urban,4201,3,4201,Third Party Advertisement,2001-07-19,21
+086-67-1146,Reginald,Chambers,M,10789 James Rapid,Lafayette|CO|80026|39.998|-105.0963|26378,"Engineer, electronics",young_adults_male_urban,1168,19,1168,Third Party Advertisement,2002-05-31,20
+827-65-2210,Lucas,Hall,M,2752 Ricardo Union,Aurora|CO|80013|39.6575|-104.7846|389246,Adult guidance worker,young_adults_male_urban,769,40,769,Third Party Advertisement,2001-12-15,20
+535-30-0414,Brian,Harris,M,0165 Mckenzie Branch,Arvada|CO|80005|39.8422|-105.1097|122111,Ranger/warden,young_adults_male_urban,2146,65,2146,Third Party Advertisement,1997-01-04,25
+105-78-2288,Jon,Scott,M,84714 Young Courts Apt. 212,Denver|CO|80211|39.7665|-105.0204|990452,"Lecturer, further education",young_adults_male_urban,2496,1,2496,Third Party Advertisement,1996-07-07,26
+839-36-0100,Perry,Mathis,M,298 Jackson Village,Denver|CO|80227|39.6667|-105.0854|990452,Student,young_adults_male_urban,10282,1,9974,Third Party Advertisement,2003-06-19,19
+156-36-3709,Christopher,Dunn,M,7936 Mark Place,Arvada|CO|80004|39.8141|-105.1177|122111,Student,young_adults_male_urban,906,65,906,Third Party Advertisement,2002-06-16,20
+016-28-4821,Jessica,Williams,F,6250 Maureen Drives Apt. 453,Englewood|CO|80111|39.6123|-104.8799|99594,Broadcast journalist,adults_2550_female_urban,10479,2,10171,Third Party Advertisement,1979-10-20,42
+553-04-4752,Erica,Brown,F,5064 Bradshaw View Suite 216,Aurora|CO|80045|39.7467|-104.8384|389246,"Journalist, magazine",adults_2550_female_urban,4405,47,4405,Third Party Advertisement,1983-04-17,39
+816-75-1053,Kimberly,Romero,F,36349 Christina Brook,Fort Collins|CO|80528|40.4961|-105.0002|175625,"Secretary, company",adults_2550_female_urban,256,73,256,Third Party Advertisement,1987-02-27,35
+079-74-2869,Michele,Larson,F,7011 Stephanie Port,Aurora|CO|80011|39.7378|-104.8152|389246,Event organiser,adults_2550_female_urban,5366,60,5366,Third Party Advertisement,1995-09-20,27
+152-35-2289,Diana,Perez,F,12137 Anita Estates Apt. 639,Parker|CO|80138|39.5102|-104.7216|84861,Nature conservation officer,adults_2550_female_urban,1589,48,1589,Third Party Advertisement,1975-11-27,46
+707-47-1922,Katie,Schroeder,F,532 Harris Village Apt. 582,Englewood|CO|80111|39.6123|-104.8799|99594,Lexicographer,adults_2550_female_urban,5461,9,5461,Third Party Advertisement,1992-09-20,30
+005-96-3405,Julie,Best,F,3743 Robinson Port Apt. 279,Littleton|CO|80126|39.5437|-104.9691|320420,Commercial art gallery manager,adults_2550_female_urban,12577,62,12269,Third Party Advertisement,1974-05-05,48
+892-80-2447,Tonya,Friedman,F,642 Sophia Wall Suite 083,Arvada|CO|80004|39.8141|-105.1177|122111,Minerals surveyor,adults_2550_female_urban,1929,65,1929,Third Party Advertisement,1979-08-15,43
+699-62-5048,Deborah,Perez,F,855 Hester Mountains,Denver|CO|80260|39.8672|-105.0041|990452,Orthoptist,adults_2550_female_urban,3124,5,3124,Third Party Advertisement,1982-01-02,40
+233-66-3171,Marisa,Martin,F,88493 William Parks Suite 034,Greeley|CO|80631|40.385|-104.6806|101464,Occupational psychologist,adults_2550_female_urban,2508,72,2508,Third Party Advertisement,1989-08-07,33
+460-03-9426,Cheryl,Robinson,F,20376 Eric Loop Suite 783,Colorado Springs|CO|80916|38.8076|-104.7403|525713,Financial manager,adults_2550_female_urban,1883,18,1883,Third Party Advertisement,1985-10-27,36
+251-84-3128,Victoria,Peterson,F,93138 Mcclain Point,Aurora|CO|80017|39.6948|-104.7881|389246,Investment analyst,adults_2550_female_urban,4083,74,4083,Third Party Advertisement,1992-01-30,30
+451-11-8325,Jodi,Griffin,F,4645 Roberts Corner Suite 562,Denver|CO|80246|39.7086|-104.9312|990452,Clinical embryologist,adults_2550_female_urban,1795,38,1795,Third Party Advertisement,1984-02-28,38
+544-77-1859,Jennifer,Lin,F,16978 Jessica Plaza Apt. 397,Denver|CO|80237|39.6431|-104.8987|990452,Information systems manager,adults_2550_female_urban,11545,1,11237,Third Party Advertisement,1990-01-22,32
+415-55-9279,Amanda,Lambert,F,013 Sandra Motorway,Littleton|CO|80123|39.6206|-105.0901|320420,Geophysical data processor,adults_2550_female_urban,3765,45,3765,Third Party Advertisement,1980-01-24,42
+088-76-9961,Kathy,Travis,F,0990 Ricardo Dam Apt. 540,Denver|CO|80241|39.9274|-104.9548|990452,Commercial horticulturist,adults_2550_female_urban,2623,16,2623,Third Party Advertisement,1989-07-16,33
+888-83-5237,Stacy,Brown,F,083 Michael Cliff Suite 775,Denver|CO|80228|39.6888|-105.156|990452,Operations geologist,adults_2550_female_urban,861,1,861,Third Party Advertisement,1980-09-13,42
+309-38-9437,Patricia,Gilbert,F,152 Reeves Avenue Suite 007,Castle Rock|CO|80104|39.3926|-104.8602|67419,Web designer,adults_2550_female_urban,242,17,242,Third Party Advertisement,1985-08-01,37
+293-02-4103,Melinda,Griffin,F,80136 Joshua Creek Apt. 899,Colorado Springs|CO|80915|38.8558|-104.7134|525713,Licensed conveyancer,adults_2550_female_urban,8366,41,8366,Third Party Advertisement,1984-05-21,38
+341-50-2018,Jasmine,Fields,F,20568 Nancy View,Lafayette|CO|80026|39.998|-105.0963|26378,Marine scientist,adults_2550_female_urban,2686,19,2686,Third Party Advertisement,1975-03-24,47
+420-75-1286,Karen,Hall,F,2071 Wiley Extensions Apt. 567,Parker|CO|80138|39.5102|-104.7216|84861,Customer service manager,adults_50up_female_urban,3167,48,3167,Third Party Advertisement,1967-09-08,55
+771-83-8055,Susan,Stark,F,920 Perez Lakes Suite 163,Greeley|CO|80631|40.385|-104.6806|101464,"Solicitor, Scotland",adults_50up_female_urban,5468,68,5468,Third Party Advertisement,1968-05-27,54
+625-18-0744,Jennifer,Pierce,F,287 Kelley Crescent Suite 181,Aurora|CO|80011|39.7378|-104.8152|389246,"Scientist, audiological",adults_50up_female_urban,566,47,566,Third Party Advertisement,1970-03-05,52
+639-97-5049,Lauren,Cole,F,52104 Sharon Springs,Colorado Springs|CO|80902|38.7536|-104.8063|525713,Sub,adults_50up_female_urban,3713,41,3713,Third Party Advertisement,1968-02-23,54
+046-38-4041,Nicole,Flores,F,063 Andres Junctions,Parker|CO|80134|39.4895|-104.8447|84861,"Therapist, drama",adults_50up_female_urban,3885,70,3885,Third Party Advertisement,1964-01-17,58
+208-53-4987,Breanna,Jones,F,3231 Kathleen Vista Suite 365,Colorado Springs|CO|80902|38.7536|-104.8063|525713,Chartered management accountant,adults_50up_female_urban,2924,18,2924,Third Party Advertisement,1965-02-06,57
+329-72-3340,Bonnie,Cuevas,F,8383 Johnson Garden,Denver|CO|80212|39.7683|-105.0493|990452,Trade union research officer,adults_50up_female_urban,8636,71,8636,Third Party Advertisement,1965-11-12,56
+068-09-1779,Patty,Owens,F,809 Day Union,Westminster|CO|80031|39.8753|-105.0345|49261,Leisure centre manager,adults_50up_female_urban,2175,53,2175,Third Party Advertisement,1966-01-03,56
+655-92-1113,Stacy,Lynch,F,40709 Hodge Plains,Canon City|CO|81212|38.4451|-105.2178|29742,Retired,adults_50up_female_urban,4343,27,4343,Third Party Advertisement,1953-08-09,69
+760-91-4086,Jessica,Estrada,F,02098 Adrian Highway Apt. 048,Allenspark|CO|80510|40.2268|-105.5201|420,Student,young_adults_female_rural,5323,14,5323,Third Party Advertisement,2000-02-17,22
+031-10-9024,Kathleen,Ortiz,F,94998 Shelley Port Suite 695,Brighton|CO|80602|39.9636|-104.9072|73471,Data scientist,young_adults_female_urban,2808,8,2808,Third Party Advertisement,1998-03-31,24
+424-53-5701,Nancy,Anderson,F,258 Austin Garden,Englewood|CO|80113|39.6405|-104.9614|99594,Student,young_adults_female_urban,3813,2,3813,Third Party Advertisement,2002-08-25,20
+234-69-1673,Melissa,Russell,F,736 Murphy Islands,Fort Collins|CO|80524|40.5986|-105.0581|175625,Student,young_adults_female_urban,2126,52,2126,Third Party Advertisement,1999-03-28,23
+765-24-0576,Mikayla,Johnson,F,540 Long Mission,Englewood|CO|80110|39.6463|-105.0092|99594,Student,young_adults_female_urban,153,13,153,Third Party Advertisement,2005-02-12,17
+084-78-5581,Kristen,White,F,7089 Bowen Spurs,Colorado Springs|CO|80929|38.7968|-104.6079|525713,Educational psychologist,young_adults_female_urban,1418,41,1418,Third Party Advertisement,1998-06-16,24
+410-23-6462,Sarah,Turner,F,187 Sara Mountain Apt. 288,Aurora|CO|80018|39.7102|-104.7071|389246,Student,young_adults_female_urban,731,74,731,Third Party Advertisement,2003-01-22,19
+793-38-4140,Brittany,Hall,F,44603 Barbara Springs,Aurora|CO|80012|39.6987|-104.8377|389246,Student,young_adults_female_urban,3360,43,3360,Third Party Advertisement,2000-08-31,22
+605-50-5428,Miranda,Johnson,F,36458 Gary Lodge Suite 199,Denver|CO|80241|39.9274|-104.9548|990452,Student,young_adults_female_urban,167,38,167,Third Party Advertisement,2002-04-18,20
+857-02-9755,Erica,Allen,F,3523 Villanueva Roads,Denver|CO|80202|39.7491|-104.9946|990452,Student,young_adults_female_urban,649,13,649,Third Party Advertisement,2002-05-02,20
+357-86-2069,Holly,Washington,F,4490 Becker Stravenue,Englewood|CO|80110|39.6463|-105.0092|99594,Student,young_adults_female_urban,5223,2,5223,Third Party Advertisement,2001-01-11,21
+650-90-9622,Chloe,White,F,483 Joe Village,Arvada|CO|80002|39.7945|-105.0984|122111,Associate Professor,young_adults_female_urban,513,8,513,Third Party Advertisement,1998-01-11,24
+234-50-9420,Rebecca,Gutierrez,F,31341 Rivera Streets Suite 095,Denver|CO|80221|39.838|-104.9988|990452,Student,young_adults_female_urban,4674,59,4674,Third Party Advertisement,2002-12-27,19
+458-83-5219,Erin,Beck,F,115 Linda Neck Suite 016,Denver|CO|80207|39.7584|-104.9177|990452,Student,young_adults_female_urban,4471,64,4471,Third Party Advertisement,1999-06-11,23
+232-92-2776,Shirley,Powers,F,50792 William River Apt. 650,Durango|CO|81303|37.1156|-107.8909|36051,Student,young_adults_female_urban,4353,28,4353,Third Party Advertisement,2003-09-19,19
+050-13-6676,Denise,Sharp,F,307 Cathy Union,Denver|CO|80211|39.7665|-105.0204|990452,Student,young_adults_female_urban,11409,32,11101,Third Party Advertisement,2004-05-02,18
+107-68-7150,Elizabeth,Davis,F,843 Pierce Fort,Arvada|CO|80007|39.8634|-105.1724|122111,"Programme researcher, broadcasting/film/video",young_adults_female_urban,5002,65,5002,Third Party Advertisement,2001-07-17,21
+571-33-7715,Jennifer,Kennedy,F,5979 Tina Ways,Denver|CO|80215|39.7435|-105.1009|990452,Student,young_adults_female_urban,996,1,996,Third Party Advertisement,2004-06-26,18
+271-98-9820,Deborah,Delacruz,F,91993 Huynh Glen Apt. 652,Westminster|CO|80030|39.8302|-105.037|49261,Archivist,young_adults_female_urban,4588,53,4588,Third Party Advertisement,2000-11-05,21
+104-13-2947,Alicia,Johnson,F,351 Walker Circle Suite 621,Littleton|CO|80130|39.5414|-104.9218|320420,Public librarian,young_adults_female_urban,4211,22,4211,Third Party Advertisement,1997-04-17,25
+692-45-7023,Danielle,Richardson,F,2981 Escobar Village,Fort Collins|CO|80528|40.4961|-105.0002|175625,Student,young_adults_female_urban,7796,50,7796,Third Party Advertisement,1999-09-27,22
+817-98-2448,Kathryn,Mullins,F,4592 Carter Junctions Suite 477,Canon City|CO|81212|38.4451|-105.2178|29742,"Editor, film/video",young_adults_female_urban,5012,27,5012,Third Party Advertisement,1996-09-22,26
+707-51-5280,Kristin,Pitts,F,318 Sandra Oval Apt. 930,Pueblo|CO|81003|38.2843|-104.6234|151815,Student,young_adults_female_urban,10095,1,9787,Third Party Advertisement,2000-02-06,22
+521-93-0616,Lori,Allen,F,25352 Bruce Locks,Colorado Springs|CO|80918|38.9129|-104.7734|525713,Armed forces operational officer,young_adults_female_urban,4345,18,4345,Third Party Advertisement,1998-09-29,23
+039-63-3964,Cynthia,Elliott,F,4366 Wu Circle,Longmont|CO|80503|40.1559|-105.1624|117461,"Accountant, chartered management",young_adults_female_urban,887,66,887,Third Party Advertisement,1997-11-28,24
+063-84-6382,Rebecca,Koch,F,17815 Schmidt Mall,Colorado Springs|CO|80918|38.9129|-104.7734|525713,"Scientist, forensic",young_adults_female_urban,3787,21,3787,Third Party Advertisement,2002-05-07,20
+029-87-1957,Crystal,Schultz,F,1533 Regina Bypass Suite 846,Pueblo|CO|81007|38.387|-104.7792|151815,Musician,young_adults_female_urban,2312,11,2312,Third Party Advertisement,1999-02-15,23
+220-86-0551,Danielle,Evans,F,051 Garcia Trafficway Apt. 240,Colorado Springs|CO|80914|38.8192|-104.7012|525713,Student,young_adults_female_urban,4246,36,4246,Third Party Advertisement,2004-09-09,18
+671-98-5555,Heather,Ferrell,F,6504 Austin Mill,Pueblo|CO|81001|38.2879|-104.5848|151815,Student,young_adults_female_urban,1239,11,1239,Third Party Advertisement,2000-09-09,22
+304-24-2020,Amber,Paul,F,1883 Murray Ports,Denver|CO|80203|39.7313|-104.9811|990452,Training and development officer,young_adults_female_urban,12079,64,11771,Third Party Advertisement,1996-08-12,26
+173-03-3171,Tina,Wilson,F,11316 Sanchez Run,Colorado Springs|CO|80915|38.8558|-104.7134|525713,Dancer,young_adults_female_urban,3515,61,3515,Third Party Advertisement,1999-01-02,23
+713-02-5767,Denise,Bailey,F,06250 Massey Mountain,Brighton|CO|80603|39.9515|-104.7746|73471,Student,young_adults_female_urban,268,39,268,Third Party Advertisement,2006-05-02,16
+514-32-7144,Abigail,Ramirez,F,97777 Alvin River,Denver|CO|80224|39.688|-104.9108|990452,Student,young_adults_female_urban,10798,1,10490,Third Party Advertisement,2004-03-23,18
+137-43-4694,Misty,Richard,F,6930 Ryan Fort,Colorado Springs|CO|80910|38.8152|-104.7703|525713,Student,young_adults_female_urban,1382,18,1382,Third Party Advertisement,2003-11-23,18
+582-82-6922,Jennifer,Velasquez,F,173 Dyer Ville Apt. 790,Denver|CO|80223|39.7002|-105.0028|990452,Student,young_adults_female_urban,3970,46,3970,Third Party Advertisement,2004-08-09,18
+632-47-6587,Lori,Trujillo,F,014 Gabriel Skyway Suite 595,Fort Collins|CO|80526|40.5473|-105.1076|175625,Student,young_adults_female_urban,3257,73,3257,Third Party Advertisement,2002-05-11,20
+745-36-6370,Angela,Barrett,F,0993 Bruce Village,Littleton|CO|80126|39.5437|-104.9691|320420,Student,young_adults_female_urban,3985,75,3985,Third Party Advertisement,2003-04-16,19
+541-09-1306,Laurie,Garcia,F,2214 Alan Keys,Aurora|CO|80010|39.7368|-104.8646|389246,Futures trader,young_adults_female_urban,12986,40,12678,Third Party Advertisement,1997-05-08,25
+008-52-3949,Maureen,Ruiz,F,9520 Taylor Ridges,Aurora|CO|80014|39.6662|-104.835|389246,Student,young_adults_female_urban,667,26,667,Third Party Advertisement,2005-07-20,17
+578-45-1062,Shannon,Mcbride,F,5477 Sara Plain Suite 222,Denver|CO|80236|39.6535|-105.0376|990452,Student,young_adults_female_urban,3763,38,3763,Third Party Advertisement,2001-08-12,21
+018-78-1589,Kelly,Jordan,F,045 Kimberly Forges,Pueblo|CO|81005|38.2352|-104.66|151815,Student,young_adults_female_urban,2425,6,2425,Third Party Advertisement,2001-07-18,21
+140-45-4929,Katherine,Bailey,F,8907 Mendoza Mountains,Colorado Springs|CO|80907|38.876|-104.817|525713,Student,young_adults_female_urban,221,21,221,Third Party Advertisement,2001-02-25,21
+222-01-4560,Lisa,Collins,F,96097 Williams Springs,Denver|CO|80236|39.6535|-105.0376|990452,Student,young_adults_female_urban,7959,1,7959,Third Party Advertisement,2002-06-29,20
+143-30-2971,Samantha,Gutierrez,F,108 Hernandez Lights,Englewood|CO|80111|39.6123|-104.8799|99594,Student,young_adults_female_urban,3689,9,3689,Third Party Advertisement,2003-07-12,19
+177-73-9380,Amy,Humphrey,F,63348 Patel Landing,Denver|CO|80247|39.6971|-104.8819|990452,Student,young_adults_female_urban,5873,5,5873,Third Party Advertisement,2003-04-06,19
+547-05-5363,Heather,Henry,F,37930 Wade Field,Denver|CO|80224|39.688|-104.9108|990452,Mechanical engineer,young_adults_female_urban,2488,9,2488,Third Party Advertisement,2004-09-22,18
+452-45-2662,Holly,Rogers,F,804 Richardson Club Apt. 162,Pueblo|CO|81003|38.2843|-104.6234|151815,Student,young_adults_female_urban,4018,3,4018,Third Party Advertisement,2004-09-07,18
+889-34-8793,Nicole,Howard,F,4397 Brewer Islands Apt. 906,Denver|CO|80204|39.734|-105.0259|990452,Student,young_adults_female_urban,4328,59,4328,Third Party Advertisement,2000-06-13,22
+338-35-9986,Melanie,Morgan,F,49147 Chad Drive,Fort Collins|CO|80521|40.5813|-105.1039|175625,Student,young_adults_female_urban,3794,37,3794,Third Party Advertisement,2000-05-06,22
+703-71-9744,Megan,Obrien,F,12975 Mullen Trail Apt. 428,Denver|CO|80211|39.7665|-105.0204|990452,Music therapist,young_adults_female_urban,4715,15,4715,Third Party Advertisement,2000-08-12,22
